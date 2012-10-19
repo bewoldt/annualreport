@@ -1,0 +1,127 @@
+/* css/scss/imports/typography.scss
+========================================================================== */
+a, a:link {
+  color:#0088cc; 
+  outline:none;
+  text-decoration: none;
+  -webkit-tap-highlight-color:#369;
+  -webkit-transition: color linear .2s;
+     -moz-transition: color linear .2s;
+          transition: color linear .2s;
+}
+a:hover {color:#005580; text-decoration: underline;}
+a:active {color:#005580;}
+a:focus {outline:thin dotted;}
+
+p {margin:0 0 1em;}
+p + p {margin:1em 0;}
+small {font-size: 85%;}
+h1,h2,h3,h4,h5,h6 {margin:1.4em 0 0.25em; line-height:1.1em; font-weight:normal;}
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {text-decoration:none;}
+h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover {text-decoration:underline;}
+h1 {margin-top:0; font-size:36px;}
+h2 {font-size:30px;}
+h3 {font-size:24px;}
+h4 {font-size:18px;}
+h5 {font-size:16px;}
+h6 {font-size:14px;}
+h1 + h2,
+h2 + h3,
+h3 + h4,
+h4 + h5,
+h5 + h6 {margin-top:0;}
+
+ul,
+ol {
+  padding: 0;
+  margin: 0 0 1em 25px;
+}
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin-bottom: 0;
+}
+ul.unstyled,
+ol.unstyled {
+  margin-left: 0;
+  list-style: none;
+}
+dl {
+  margin-bottom: 20px;
+}
+dt,
+dd {
+  line-height: 20px;
+}
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-left: 10px;
+}
+code,
+pre {
+	padding: 0 3px 2px;
+	font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+	font-size: 12px;
+	color: #333333;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+code {
+	padding: 2px 4px;
+	color: #d14;
+	background-color: #f7f7f9;
+	border: 1px solid #e1e1e8;
+}
+hr {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid #eeeeee;
+  border-bottom: 1px solid #ffffff;
+}
+
+/* Quotes
+  ----------------------------------------------------*/
+blockquote {
+  padding: 0 0 0 15px;
+  margin: 0 0 20px;
+  border-left: 5px solid #ccc;
+}
+blockquote p {
+  margin-bottom: 0;
+  line-height: 25px;
+}
+blockquote small {
+  display: block;
+  line-height: 20px;
+  color: #999999;
+}
+blockquote small:before {
+  content: '\2014 \00A0';
+}
+blockquote.pull-right {
+  float: right;
+  padding-right: 15px;
+  padding-left: 0;
+  border-right: 5px solid #ccc;
+  border-left: 0;
+}
+blockquote.pull-right p,
+blockquote.pull-right small {
+  text-align: right;
+}
+blockquote.pull-right small:before {
+  content: '';
+}
+blockquote.pull-right small:after {
+  content: '\00A0 \2014';
+}
+q:before,
+q:after,
+blockquote:before,
+blockquote:after {
+  content: "";
+}
