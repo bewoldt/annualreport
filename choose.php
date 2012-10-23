@@ -19,7 +19,7 @@
     <script src="js/vendor/modernizr-2.6.1.min.js"></script>
     
 </head>
-<body id="excel" class="body" data-spy="scroll" data-target=".sub-nav-wrapper" data-offset="190">
+<body id="choose" class="body">
     <?php include 'includes/top-bar.php'; ?>
     <?php include 'includes/header.php'; ?>
     <div class="stickem-container">
@@ -48,10 +48,15 @@
                 </div>
             </div>
         </section>
-        <section id="section-1" class="story">
-            <div class="wrapper">
-                <h1>Lifetime Leisure Skills - Video</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+        <section id="leisure-skills" class="video img-block">
+            <div class="play">
+                <iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+                <a class="screencap">
+                    <img src="images/hawkeyeawards.jpg" alt="" width="559">
+                    <span></span>
+                </a>
+                <h1>Lifetime Leisure Skills</h1>
+                <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
             </div>
         </section>
         <section id="section-2" class="story">
@@ -86,12 +91,32 @@
                 <p>Regardless of a person’s situation, it’s always scary to go out on your own for the first time without your parents to fall back on. What it comes down to is perspective - are you going to let it ruin your time or seize the opportunity for growth? Roommates bring you a whole new world to learn from. What’s better than making sure the roommate you want is the roommate you get?</p>
             </div>
         </section>
+        <section id="pagination">
+            <div class="container">
+                <div class="row">
+                    <div class="span2 offset1">
+                        <a href="#" id="previous">&larr; Engage</a>
+                    </div>
+                    <div class="span2 offset6" style="text-align:right;">
+                        <a href="#" id="next">Serve &rarr; </a>
+                    </div>
+                </div>
+            </div>
+        </section>
         <?php include 'includes/footer.php'; ?>
     </div><!-- end .stickem-container -->
 
     <!-- Scripts -->
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('.screencap').click(function() {
+                $(this).hide();
+                $('#leisure-skills iframe').attr('src', 'http://www.youtube.com/embed/jt7AF2RCMhg?rel=0&autoplay=1');
+            });
+        });
+    </script>
 
 </body>
 </html>

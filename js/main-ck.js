@@ -1,1 +1,1 @@
-$(document).ready(function(){$(".dropdown-toggle").dropdown();$(".body").stickem();$(".sub-nav").scrollspy()});
+$(document).ready(function(){$(".dropdown-toggle").dropdown();$(".body").stickem();$(".various").attr("rel","media-gallery").fancybox({padding:0,width:"50%",height:"50%",openEffect:"none",closeEffect:"none",prevEffect:"none",nextEffect:"none",arrows:!1,helpers:{media:{}}});$(".sub-nav").localScroll()});

@@ -19,7 +19,7 @@
     <script src="js/vendor/modernizr-2.6.1.min.js"></script>
     
 </head>
-<body class="body">
+<body id="home" class="body">
     <?php include 'includes/top-bar.php'; ?>
     <?php include 'includes/header.php'; ?>
     <div class="stickem-container">
@@ -27,8 +27,13 @@
         <div id="nav-wrapper" class="stickem">
             <?php include 'includes/nav.php'; ?>
         </div>
-        <section id="intro" style="background: url(images/crowd-top.png) no-repeat bottom center;">
-            <div class="wrapper container">
+        <section id="intro">
+            <div class="container">
+                 <div class="row">
+                    <div class="span10 offset1">
+                        <p class="center quote">Fostering student success by creating and promoting educationally<br> purposeful services and activities within and beyond the classroom.</p>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="span6 offset3 stickem-container">
                         <p class="justify challenge-desc">Through the newly implemented “Every Student, Every Encounter” initiative, Vice President for Student Life, Tom Rocklin, encourages faculty and staff to have frequent conversations with students about their academics. If the University of Iowa faculty surrounds them with a climate of high expectations, students are going to try to meet those expectations. “Every Student, Every Encounter” encourages students to pursue excellence both in and out of the classroom.</p>
@@ -39,40 +44,35 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="span10 offset1">
-                        <p class="center quote">Fostering student success by creating and promoting educationally<br> purposeful services and activities within and beyond the classroom.</p>
-                    </div>
-                </div>
-                <div class="row">
                     <div class="span2 offset1">
                         <img src="http://placehold.it/300x300/444444/&text=+" alt="" />
                         <h4>Excel</h4>
-                        <p>Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
-                        <p><a href="excel.html">Read the stories</a></p>
+                        <p class="small">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
+                        <p class="small"><a href="excel.html">Read the stories</a></p>
                     </div>
                     <div class="span2">
                         <img src="http://placehold.it/300x300/444444/&text=+" alt="" />
                         <h4>Stretch</h4>
-                        <p>Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
-                        <p><a href="#">Read the stories</a></p>
+                        <p class="small">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
+                        <p class="small"><a href="#">Read the stories</a></p>
                     </div>
                     <div class="span2">
                         <img src="http://placehold.it/300x300/444444/&text=+" alt="" />
                         <h4>Engage</h4>
-                        <p>Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
-                        <p><a href="#">Read the stories</a></p>
+                        <p class="small">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
+                        <p class="small"><a href="#">Read the stories</a></p>
                     </div>
                     <div class="span2">
                         <img src="http://placehold.it/300x300/444444/&text=+" alt="" />
                         <h4>Choose</h4>
-                        <p>Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
-                        <p><a href="#">Read the stories</a></p>
+                        <p class="small">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
+                        <p class="small"><a href="#">Read the stories</a></p>
                     </div>
                     <div class="span2">
                         <img src="http://placehold.it/300x300/444444/&text=+" alt="" />
                         <h4>Serve</h4>
-                        <p>Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
-                        <p><a href="#">Read the stories</a></p>
+                        <p class="small">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
+                        <p class="small"><a href="#">Read the stories</a></p>
                     </div>
                 </div>
             </div>
