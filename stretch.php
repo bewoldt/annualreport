@@ -14,10 +14,10 @@
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/site.css">
-    <link rel="stylesheet" href="css/jquery.fancybox.css">
 
     <script src="http://use.edgefonts.net/open-sans.js"></script>
     <script src="http://use.edgefonts.net/alfa-slab-one.js"></script>
+    <script src="http://use.edgefonts.net/droid-serif.js"></script>
     
 </head>
 <body id="stretch" class="body">
@@ -41,17 +41,74 @@
                 <div class="row">
                     <div class="span10 offset1">
                         <div class="challenge-heading">
-                            <!--<p class="challenge-top">2012 Annual Report</p>-->
+                            <p class="challenge-top">2012 Annual Report</p>
                             <h1><b class="b-top">Stretch</b></h1>
                             <p class="challenge-bot">Learn from diverse people, ideas, and experiences</p>
                         </div>
                     </div>
-                    <div class="span6 offset3">
+                    <div class="span4 offset4">
                         <p class="justify challenge-desc">Living and learning in a diverse environment is central to a University of Iowa education and to the principles established in The IOWA Challenge. The range of people, ideas, and opportunities at the University help UI students learn from each other, discover personal goals, and develop essential skills for education, life, and work.</p>
                     </div>
                 </div>
             </div>
         </section>
+        <section id="cultural-centers" class="story">
+            <div class="container">
+                <div class="row">
+                    <div class="span8 offset2">
+                        <img src="images/culture.jpg" alt="" style="-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="span8 offset2">
+                        <div class="heading">
+                            <h1>The Cultural Centers</h1> 
+                            <h3>Providing Greater Understanding for Student Inclusion</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="span2 offset2">
+                        <ul class="meta">
+                            <li>Department of Transportation</li>
+                            <li><span style="font-style: italic;font-size: 10px;">Photography by</span> <span style="text-transform:uppercase;">Ben Lewis</span></li>
+                        </ul>
+                    </div>
+                    <div class="span6">            
+                        <p>The University of Iowa Cultural and Resource Centers (UICRC) on campus are a resource for student on campus to support underrepresented groups on campus and provide empowerment and opportunities to make connections on campus. The UICRC do not only do this, but create a learning environment for students who are not necessarily affiliated with these groups, but want to get to know other cultures on campus. Within this, students can find allies on campus, understand how the university works, and get to know different people on campus ranging from students to faculty.</p>
+                        <p>“It develops and fosters relationships that are often lost on such a large campus,” Preston Keith, the manager of the Lesbian Gay, Bisexual, and Transgender Resource Center, said. “It is pretty much a home away from home for each and every student to feel comfortable and safe.”</p>
+                        <div class="img-full" style="">
+                            <img src="images/culture-2.png" alt="">
+                        </div>
+                        <p>There are four UICRC centers situated on campus including: Afro-American Cultural Center, Asian Pacific American Cultural Center, Latino Native American Cultural Center, and the Lesbian, Gay, Bisexual, Transgender Resource Center. In the last year, the UICRC has been successful in starting new initiatives and creating new staff changes. This culminates in more attention to center relationships while still recognizing newly created student groups, constituency groups, and community members.</p>
+                    </div>
+                </div><!-- end .row -->
+                <div class="row">
+                    <div class="span8 offset2">
+                        <blockquote class="full">
+                            <p>“The centers are a direct representation of the university's commitment and mission for diversity and inclusion all of students”</p>
+                            <small>Preston Keith</small>
+                        </blockquote>
+                    </div>
+                    <div class="span6 offset4"
+                        <p>The total usage of the multicultural centers in the fiscal years 2011-2012 was 28,769 person visits. From 2011 to 2012 FY, there was a 10.5% increase of visitations to the centers with the Asian Pacific American Cultural Center receiving the largest percentage of increase in visits (39%).</p>
+                    </div>
+                </div><!-- end .row -->
+            </div>
+        </section>
+
+        <section id="kotheid" class="video img-block">
+            <div class="play">
+                <iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+                <a class="screencap">
+                    <img src="images/kotheid.jpg" alt="" width="559">
+                    <span></span>
+                </a>
+                <h1>Student Profile - Kotheid</h1>
+                <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
+            </div>
+        </section>
+
         <section id="change-teams" class="story">
             <div class="container">
                 <div class="row">
@@ -87,47 +144,7 @@
                 </div><!-- end .row -->
             </div>
         </section>
-        <section id="kotheid" class="video img-block">
-            <div class="play">
-                <iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
-                <a class="screencap">
-                    <img src="images/kotheid.jpg" alt="" width="559">
-                    <span></span>
-                </a>
-                <h1>Student Profile - Kotheid</h1>
-                <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
-            </div>
-        </section>
-        <section id="cultural-centers" class="story">
-            <div class="container">
-                <div class="row">
-                    <div class="span10 offset1">
-                        <img src="http://placehold.it/1000x500" alt="">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="span9 offset3">
-                        <h1>The Cultural Centers</h1> 
-                        <h3>Providing Greater Understanding for Student Inclusion</h3>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="span6 offset3">            
-                        <img src="http://placehold.it/230x210" alt="" style="float: right;margin: 0 -140px 0 10px;">
-                        <p>The University of Iowa Cultural and Resource Centers (UICRC) on campus are a resource for student on campus to support underrepresented groups on campus and provide empowerment and opportunities to make connections on campus. The UICRC do not only do this, but create a learning environment for students who are not necessarily affiliated with these groups, but want to get to know other cultures on campus. Within this, students can find allies on campus, understand how the university works, and get to know different people on campus ranging from students to faculty.</p>
 
-                        <p>“It develops and fosters relationships that are often lost on such a large campus,” Preston Keith, the manager of the Lesbian Gay, Bisexual, and Transgender Resource Center, said. “It is pretty much a home away from home for each and every student to feel comfortable and safe.”</p>
-                        <img src="http://placehold.it/230x210" alt="" style="float: left;margin: 0 10px 0 -140px;">
-                        <p>There are four UICRC centers situated on campus including: Afro-American Cultural Center, Asian Pacific American Cultural Center, Latino Native American Cultural Center, and the Lesbian, Gay, Bisexual, Transgender Resource Center. In the last year, the UICRC has been successful in starting new initiatives and creating new staff changes. This culminates in more attention to center relationships while still recognizing newly created student groups, constituency groups, and community members.</p>
-                        <blockquote>
-                            <p>“The centers are a direct representation of the university's commitment and mission for diversity and inclusion all of students”</p>
-                            <small>Preston Keith</small>
-                        </blockquote>
-                        <p>The total usage of the multicultural centers in the fiscal years 2011-2012 was 28,769 person visits. From 2011 to 2012 FY, there was a 10.5% increase of visitations to the centers with the Asian Pacific American Cultural Center receiving the largest percentage of increase in visits (39%).</p>
-                    </div>
-                </div><!-- end .row -->
-            </div>
-        </section>
         <section id="walkitout-bg" class="story img-block">
             <div class="container">
                 <div class="row">
@@ -163,10 +180,8 @@
                         <p>The faces of WIO also promoted diversity by demonstrating that a cultured group of students can work and grow together to achieve excellence and higher education, all while enjoying themselves. The fashion show pushed their participants to actively seek out ways to meet people who are different from them. Furthermore, participating in the Walk It Out fashion show allowed several students the opportunity to step outside their comfort zone and participate in a character altering event.</p>
                     </div>
                     <div class="span3">
-                        <p><img src="http://placehold.it/300x400" alt=""><br>
-                            <small>caption goes here</small></p><br>
-                        <p><img src="http://placehold.it/300x400" alt=""><br>
-                            <small>caption goes here</small></p>
+                        <p><img src="images/walkitout-side1.jpg" alt="">
+                        <p><img src="images/walkitout-side2.jpg" alt="">
                     </div>
                 </div>
                 <!--

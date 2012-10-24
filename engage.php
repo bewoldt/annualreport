@@ -14,7 +14,6 @@
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/site.css">
-    <link rel="stylesheet" href="css/jquery.fancybox.css">
 
     <script src="http://use.edgefonts.net/open-sans.js"></script>
     <script src="http://use.edgefonts.net/alfa-slab-one.js"></script>
@@ -39,9 +38,9 @@
         <section id="intro">
             <div class="container">
                 <div class="row">
-                    <div class="span8 offset2">
+                    <div class="span10 offset1">
                         <div class="challenge-heading">
-                            <!--<p class="challenge-top">2012 Annual Report</p>-->
+                            <p class="challenge-top">2012 Annual Report</p>
                             <h1><b class="b-top">Engage</b></h1>
                             <p class="challenge-bot">Get involved and be a leader</p>
                         </div>

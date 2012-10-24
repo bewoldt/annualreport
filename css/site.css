@@ -26,7 +26,7 @@ img {
   *zoom: 1; }
 
 body {
-  background: #f3f3f3;
+  background: #fff;
   margin: 0;
   padding: 0;
   color: #333;
@@ -156,8 +156,8 @@ code {
 hr {
   margin: 20px 0;
   border: 0;
-  border-top: 1px solid #eeeeee;
-  border-bottom: 1px solid #ffffff; }
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #fff; }
 
 /* Quotes
   ----------------------------------------------------*/
@@ -168,8 +168,20 @@ blockquote {
   font-style: italic; }
 
 blockquote p {
-  margin-bottom: 0;
+  margin-bottom: 10px;
   line-height: 1.5; }
+
+/* full width */
+blockquote.full {
+  border-left: none;
+  padding-left: 0;
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #ccc;
+  padding: 1.5em 0;
+  margin: 1em 0; }
+
+blockquote.full p {
+  font-size: 22px; }
 
 blockquote small {
   display: block;
@@ -1029,9 +1041,9 @@ section {
   color: #666;
   margin: 0;
   display: inline-block;
-  font-family: georgia, serif;
+  xfont-family: georgia, serif;
   font-size: 13px;
-  background: #f3f3f3;
+  background: #fff;
   position: relative;
   bottom: -61px;
   letter-spacing: 1px;
@@ -1045,7 +1057,7 @@ section {
   font-style: italic;
   margin: 0;
   display: inline-block;
-  background: #f3f3f3;
+  background: #fff;
   position: relative;
   top: -65px;
   z-index: 10;
@@ -1296,22 +1308,51 @@ section {
   background-image: url(../images/capitol-c.jpg);
   background-attachment: scroll;
   background-position: center bottom;
-  min-height: 600px; }
+  min-height: 700px; }
+
+.meta {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 12px; }
+
+.meta li {
+  border-bottom: 1px dotted #ccc;
+  padding: .5em 0; }
+
+.meta li:last-of-type {
+  border: none; }
 
 #cultural-centers {
   border-top: 1px solid #ddd; }
 
+.heading {
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #ccc;
+  margin: 20px 0;
+  padding: 30px 0; }
+
+.heading h1, .heading h2, .heading h3 {
+  margin: 0; }
+
+.img-full {
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #ccc;
+  padding: 10px 0;
+  margin: 20px 0;
+  margin-left: -200px; }
+
+#cultural-centers {
+  background: #f3f3f3; }
+
 #cultural-centers h1 {
-  margin-bottom: 1em;
   font-family: alfa-slab-one, arial, verdana, sans-serif;
   font-size: 59px;
   line-height: 1.1;
-  margin: .5em 0 .1em;
-  letter-spacing: 1px; }
+  margin: 0 0 .2em; }
 
 #cultural-centers h3 {
-  margin-top: 0;
-  margin-bottom: 1em; }
+  margin-top: 0; }
 
 .heading-top {
   font-weight: bold;
@@ -1392,8 +1433,7 @@ section {
   font-family: alfa-slab-one, arial, verdana, sans-serif;
   font-size: 61px;
   line-height: 1.1;
-  margin-bottom: 25px;
-  letter-spacing: 1px; }
+  margin-bottom: 25px; }
 
 /* Engage
 ========================================================================== */
@@ -1401,13 +1441,13 @@ section {
   background-image: url(../images/imu_building.jpg);
   background-attachment: scroll;
   background-position: center bottom;
-  min-height: 600px; }
+  min-height: 700px; }
 
 #mentoring {
   background-image: url(../images/student-life.jpg);
   background-attachment: scroll;
   background-position: center top;
-  min-height: 600px; }
+  min-height: 700px; }
 
 /* wrac */
 #wrac {
@@ -1436,7 +1476,7 @@ section {
   xheight: 315px;
   margin: 0 auto;
   position: relative;
-  margin-top: 93px;
+  margin-top: 145px;
   background: rgba(255, 255, 255, 0.9);
   padding: 9px;
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
@@ -1476,7 +1516,7 @@ section {
   background-image: url(../images/leisure_skills.jpg);
   background-attachment: scroll;
   background-position: center bottom;
-  min-height: 600px; }
+  min-height: 700px; }
 
 /* Serve 
 ========================================================================== */
@@ -1487,7 +1527,7 @@ section {
   background-image: url(../images/dance-marathon.jpg);
   background-attachment: scroll;
   background-position: center top;
-  min-height: 600px; }
+  min-height: 700px; }
 
 /* Pagination
 ========================================================================== */

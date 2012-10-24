@@ -40,7 +40,7 @@
                 <div class="row">
                     <div class="span10 offset1">
                         <div class="challenge-heading">
-                            <!--<p class="challenge-top">2012 Annual Report</p>-->
+                            <p class="challenge-top">2012 Annual Report</p>
                             <h1><b class="b-top">Serve</b></h1>
                             <p class="challenge-bot">Learn from diverse people, ideas, and experiences</p>
                         </div>
@@ -101,7 +101,7 @@
                 </div>
             </div>
         </section>
-        <section id="section-4" class="story">
+        <section id="section-4" class="story" style="border-top: 1px solid #ddd;">
             <div class="container">
                 <div class="row">
                     <div class="span8 offset2">

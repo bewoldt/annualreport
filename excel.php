@@ -35,12 +35,12 @@
                 </ul>
             </div>
         </div>
-        <section id="intro">
+        <section id="intro" style="border-bottom: 1px solid #ccc;">
             <div class="container">
                 <div class="row">
                     <div class="span10 offset1">
                         <div class="challenge-heading">
-                            <!--<p class="challenge-top">2012 Annual Report</p>-->
+                            <p class="challenge-top">2012 Annual Report</p>
                             <h1><b class="b-top">Excel</b></h1>
                             <p class="challenge-bot">Set high standards—push yourself academically</p>
                         </div>
@@ -51,7 +51,7 @@
                 </div>
             </div>
         </section>
-        <section id="section-1" class="story">
+        <section id="section-1" class="story" style="border-bottom: 1px solid #ccc;">
              <div class="container">
                 <div class="row">
                     <div class="span6 offset3">
@@ -68,7 +68,7 @@
                 </div>
             </div>
         </section>
-        <section id="section-2" class="story">
+        <section id="section-2" class="story" style="border-bottom: 1px solid #ccc;">
             <div class="container">
                 <div class="row">
                     <div class="span6 offset3">
@@ -107,7 +107,7 @@
                 </div>
             </div>
         </section>
-        <section id="section-3" class="story">
+        <section id="section-3" class="story" style="border-bottom: 1px solid #ccc;">
             <div class="container">
                 <div class="row">
                     <div class="span6 offset3">

@@ -79,8 +79,8 @@ code {
 hr {
   margin: 20px 0;
   border: 0;
-  border-top: 1px solid #eeeeee;
-  border-bottom: 1px solid #ffffff;
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #fff;
 }
 
 /* Quotes
@@ -92,9 +92,22 @@ blockquote {
   font-style: italic;
 }
 blockquote p {
-  margin-bottom: 0;
+  margin-bottom: 10px;
   line-height: 1.5;
 }
+/* full width */
+blockquote.full {
+  border-left: none;
+  padding-left: 0;
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #ccc;
+  padding: 1.5em 0;
+  margin: 1em 0;
+}
+blockquote.full p {
+  font-size: 22px;
+}
+
 blockquote small {
   display: block;
   color: #666;
