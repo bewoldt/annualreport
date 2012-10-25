@@ -156,7 +156,7 @@ section {
 	position: relative;
 }
 .nav-place {height: 69px;}
-#excel .nav-place {height: 95px;}
+#serve .nav-place, #choose .nav-place, #engage .nav-place, #excel .nav-place, #stretch .nav-place {height: 96px;}
 #nav-wrapper {
 	background: #000;
 	position: absolute;
@@ -207,7 +207,7 @@ section {
 	letter-spacing: 0;
 }
 
-#nav-wrapper.stickit, #nav.stickit {
+#nav-wrapper.fixed, #nav.fixed {
 	position: fixed;
 	top: 0;
 	width: 100%;
@@ -339,7 +339,7 @@ section {
 ========================================================================== */
 #kotheid {
 	background-image: url(../images/capitol-c.jpg);
-	background-attachment: scroll;
+	xbackground-attachment: scroll;
 	background-position: center bottom;
 	min-height: 700px;
 }
@@ -365,6 +365,9 @@ section {
 }
 .heading h1, .heading h2, .heading h3 {
 	margin: 0;
+}
+.heading h3 {
+	line-height: 1.2;
 }
 .img-full {
 	border-top: 1px dotted #ccc;
@@ -561,9 +564,9 @@ section {
 #serve-wrac {
 	border-top: 1px solid #ccc;
 }
-#greek-video {
+#services-video {
 	background-image: url(../images/dance-marathon.jpg);
-	background-attachment: scroll;
+	xbackground-attachment: scroll;
 	background-position: center top;
 	min-height: 700px;
 }

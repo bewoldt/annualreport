@@ -29,10 +29,10 @@
             <?php include 'includes/nav.php'; ?>
             <div class="sub-nav-wrapper">
                 <ul class="sub-nav nav">
-                    <li><a href="#change-teams">Creating Positive Change on Campus</a></li>
                     <li><a href="#cultural-centers">The Cultural Centers</a></li>
-                    <li><a href="#walkitout">Walk It Out</a></li>
                     <li><a href="#kotheid">Student Profile - Kotheid</a></li>
+                    <li><a href="#change-teams">Creating Positive Change on Campus</a></li>
+                    <li><a href="#walkitout">Walk It Out</a></li>
                 </ul>
             </div>
         </div>
@@ -62,7 +62,7 @@
                 <div class="row">
                     <div class="span8 offset2">
                         <div class="heading">
-                            <h1>The Cultural Centers</h1> 
+                            <h1 style="color: #d80136;">The Cultural Centers</h1> 
                             <h3>Providing Greater Understanding for Student Inclusion</h3>
                         </div>
                     </div>
@@ -90,7 +90,7 @@
                             <small>Preston Keith</small>
                         </blockquote>
                     </div>
-                    <div class="span6 offset4"
+                    <div class="span6 offset4">
                         <p>The total usage of the multicultural centers in the fiscal years 2011-2012 was 28,769 person visits. From 2011 to 2012 FY, there was a 10.5% increase of visitations to the centers with the Asian Pacific American Cultural Center receiving the largest percentage of increase in visits (39%).</p>
                     </div>
                 </div><!-- end .row -->
@@ -163,28 +163,44 @@
         <section id="walkitout" class="story">
             <div class="container">
                 <div class="row">
-                    <div class="span7 offset1">
-                        <h1>Walk It Out</h1>
-                        <p class="lead">
-                            Walk It Out is a student organization on campus that showcases various cultures through its annual fashion show.
-                        </p>
+                    <div class="span8 offset2">
+                        <div class="heading">
+                            <h1>Walk It Out</h1> 
+                            <h3>Walk It Out is a student organization on campus that showcases various cultures through its annual fashion show.</h3>
+                        </div>
+                    </div>
+                </div><!-- end .row -->
+                <div class="row">
+                    <div class="span2 offset2">
+                        <ul class="meta">
+                            <li>Department of Transportation</li>
+                            <li><span style="font-style: italic;font-size: 10px;">Photography by</span> <span style="text-transform:uppercase;">Ben Lewis</span></li>
+                        </ul>
+                    </div>
+                    <div class="span6">
                         <p>Walk It Out (WIO) held their third annual multicultural fashion show on April 7, 2012, showcasing an array of fashions from diverse cultures across the globe. With over 1,000 people in attendance, fifteen student organizations collaborated to celebrate cultural diversity on the University of Iowa campus. This year, University Hospitals and Clinics HIV/AIDS Program also participated in the fashion show to increase awareness and promote education of HIV and AIDS on campus. Hip-Hop, East Asian, LGBTQ, South Asian, Middle Eastern, African, and Latin American cultures and regions were represented in the show.</p>
                         <p>Student President of the Walk It Out Fashion Show, Evan Ivory, said this year’s show has been the best one yet. The 2012 fashion show improved significantly compared to previous years.</p>
-                        <blockquote>
+                    </div>
+                </div><!-- end .row -->
+                <div class="row">
+                    <div class="span8 offset2">
+                        <blockquote class="full">
                             <p>“We learned and went through a lot as an executive board, but we all grew from it, both as a team and as individuals.”</p>
                             <small>Evan Ivory</small>
                         </blockquote>
+                    </div>
+                    <div class="span6 offset4">
                         <p>In terms of quality, the music transitions, the clothing the models wore, and even the containment of the 100+ models backstage, every aspect showed improvement from the year before.</p>
                         <p>“Most importantly, this year’s show had participants interact more with one another while educating them on unfamiliar topics at the same time,” Ivory said.</p>
 
                         <p>The faces of WIO also promoted diversity by demonstrating that a cultured group of students can work and grow together to achieve excellence and higher education, all while enjoying themselves. The fashion show pushed their participants to actively seek out ways to meet people who are different from them. Furthermore, participating in the Walk It Out fashion show allowed several students the opportunity to step outside their comfort zone and participate in a character altering event.</p>
                     </div>
-                    <div class="span3">
+                </div>
+                <!--
+                <div class="span3">
                         <p><img src="images/walkitout-side1.jpg" alt="">
                         <p><img src="images/walkitout-side2.jpg" alt="">
                     </div>
-                </div>
-                <!--
                 <div class="row">
                     <div class="span4">
                         <div class="highlight">
@@ -224,6 +240,7 @@
     </div><!-- end .stickem-container -->
 
     <!-- Scripts -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script>
     <script>

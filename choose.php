@@ -28,9 +28,9 @@
             <?php include 'includes/nav.php'; ?>
             <div class="sub-nav-wrapper">
                 <ul class="sub-nav nav">
-                    <li><a href="#section-1">Lifetime Leisure Skills</a></li>
-                    <li><a href="#section-2">Student Health and Safety</a></li>
-                    <li><a href="#section-3">Star Rez</a></li>
+                    <li><a href="#leisure-skills">Lifetime Leisure Skills</a></li>
+                    <li><a href="#student-health">Student Health and Safety</a></li>
+                    <li><a href="#star-rez">Star Rez</a></li>
                 </ul>
             </div>
         </div>
@@ -61,7 +61,7 @@
                 <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
             </div>
         </section>
-        <section id="section-2" class="story">
+        <section id="student-health" class="story">
             <div class="container">
                 <div class="row">
                     <div class="span8 offset2">
@@ -85,7 +85,7 @@
                 </div>
             </div>
         </section>
-        <section id="section-3" class="story" style="border-top: 1px solid #ddd;">
+        <section id="star-rez" class="story" style="border-top: 1px solid #ddd;">
             <div class="container">
                 <div class="row">
                     <div class="span8 offset2">
@@ -117,6 +117,7 @@
     </div><!-- end .stickem-container -->
 
     <!-- Scripts -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script>
     <script>

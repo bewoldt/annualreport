@@ -28,10 +28,10 @@
             <?php include 'includes/nav.php'; ?>
             <div class="sub-nav-wrapper">
                 <ul class="sub-nav nav">
-                    <li><a href="#section-1">Iowa Grow</a></li>
-                    <li><a href="#section-2">Cassidy Bell</a></li>
-                    <li><a href="#section-3">Read and Write Gold on Campus</a></li>
-                    <li><a href="#section-4">UCS</a></li>
+                    <li><a href="#iowagrow">Iowa Grow</a></li>
+                    <li><a href="#cassidy">Cassidy Bell</a></li>
+                    <li><a href="#read-write">Read and Write Gold on Campus</a></li>
+                    <li><a href="#usc">UCS</a></li>
                 </ul>
             </div>
         </div>
@@ -51,7 +51,7 @@
                 </div>
             </div>
         </section>
-        <section id="section-1" class="story" style="border-bottom: 1px solid #ccc;">
+        <section id="iowagrow" class="story" style="border-bottom: 1px solid #ccc;">
              <div class="container">
                 <div class="row">
                     <div class="span6 offset3">
@@ -68,7 +68,7 @@
                 </div>
             </div>
         </section>
-        <section id="section-2" class="story" style="border-bottom: 1px solid #ccc;">
+        <section id="cassidy" class="story" style="border-bottom: 1px solid #ccc;">
             <div class="container">
                 <div class="row">
                     <div class="span6 offset3">
@@ -107,7 +107,7 @@
                 </div>
             </div>
         </section>
-        <section id="section-3" class="story" style="border-bottom: 1px solid #ccc;">
+        <section id="read-write" class="story" style="border-bottom: 1px solid #ccc;">
             <div class="container">
                 <div class="row">
                     <div class="span6 offset3">
@@ -131,7 +131,7 @@
                 </div>
             </div>
         </section>
-        <section id="section-4" class="story">
+        <section id="usc" class="story">
             <div class="container">
                 <div class="row">
                     <div class="span6 offset3">
@@ -166,6 +166,7 @@
     </div><!-- end .stickem-container -->
 
     <!-- Scripts -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script>
 

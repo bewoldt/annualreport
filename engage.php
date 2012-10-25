@@ -30,8 +30,8 @@
                 <ul class="sub-nav nav">
                     <li><a href="#wrac">WRAC</a></li>
                     <li><a href="#hawkeye-awards">Hawkeye Awards</a></li>
-                    <li><a href="#section-1">Find your Pick One!</a></li>
-                    <li><a href="#section-4">Supporting Students Through Mentoring</a></li>
+                    <li><a href="#pick-one">Find your Pick One!</a></li>
+                    <li><a href="#mentoring">Supporting Students Through Mentoring</a></li>
                 </ul>
             </div>
         </div>
@@ -92,7 +92,7 @@
                 <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
             </div>
         </section>
-        <section id="section-1" class="story">
+        <section id="pick-one" class="story">
             <div class="container">
                 <div class="span8 offset2">
                     <h1>Find your Pick One!</h1>
@@ -138,6 +138,7 @@
     </div><!-- end .stickem-container -->
 
     <!-- Scripts -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script>
     <script>

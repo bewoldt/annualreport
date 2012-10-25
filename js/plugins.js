@@ -1,5 +1,3 @@
-//@codekit-append "vendor/jquery-1.8.0.min.js"
 //@codekit-append "vendor/dropdown.min.js"
-//@codekit-append "vendor/jquery.stickem.js"
 //@codekit-append "vendor/jquery.scrollTo-min.js"
 //@codekit-append "vendor/jquery.localscroll-1.2.7-min.js"

@@ -28,10 +28,10 @@
             <?php include 'includes/nav.php'; ?>
             <div class="sub-nav-wrapper">
                 <ul class="sub-nav nav">
-                    <li><a href="#section-1">WRAC</a></li>
-                    <li><a href="#section-2">Fraternity and Sorority Life and Services</a></li>
-                    <li><a href="#section-3">Fraternity and Sorority Life- Video</a></li>
-                    <li><a href="#section-4">Saturdays in Service</a></li>
+                    <li><a href="#serve-wrac">WRAC</a></li>
+                    <li><a href="#services-video">Fraternity and Sorority Life and Services</a></li>
+                    <li><a href="#services">Fraternity and Sorority Life- Video</a></li>
+                    <li><a href="#saturdays-in-service">Saturdays in Service</a></li>
                 </ul>
             </div>
         </div>
@@ -67,7 +67,7 @@
                 </div>
             </div>
         </section>
-        <section id="greek-video" class="video img-block">
+        <section id="services-video" class="video img-block">
             <div class="play">
                 <iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
                 <a class="screencap">
@@ -78,7 +78,7 @@
                 <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
             </div>
         </section>
-        <section id="section-2" class="story">
+        <section id="services" class="story">
             <div class="container">
                 <div class="row">
                     <div class="span8 offset2">
@@ -101,7 +101,7 @@
                 </div>
             </div>
         </section>
-        <section id="section-4" class="story" style="border-top: 1px solid #ddd;">
+        <section id="saturdays-in-service" class="story" style="border-top: 1px solid #ddd;">
             <div class="container">
                 <div class="row">
                     <div class="span8 offset2">
@@ -139,6 +139,7 @@
     </div><!-- end .stickem-container -->
 
     <!-- Scripts -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script>
     <script>
