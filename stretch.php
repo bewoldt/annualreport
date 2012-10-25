@@ -165,7 +165,7 @@
                 <div class="row">
                     <div class="span8 offset2">
                         <div class="heading">
-                            <h1>Walk It Out</h1> 
+                            <h1 style="color: #fc89ad;">Walk It Out</h1> 
                             <h3>Walk It Out is a student organization on campus that showcases various cultures through its annual fashion show.</h3>
                         </div>
                     </div>
@@ -176,21 +176,48 @@
                             <li>Department of Transportation</li>
                             <li><span style="font-style: italic;font-size: 10px;">Photography by</span> <span style="text-transform:uppercase;">Ben Lewis</span></li>
                         </ul>
+                        <h4 style="text-align: center;
+background: pink;
+color: #333;
+width: 100px;
+border-radius: 54px;
+height: 65px;
+font-size: 14px;
+margin: 10px auto;
+padding: 35px 0 0 0;">1,000+<br>attendance</h4>
+                        <h4 style="text-align: center;
+background: pink;
+color: #333;
+width: 100px;
+border-radius: 54px;
+height: 65px;
+font-size: 14px;
+margin: 10px auto;
+padding: 35px 0 0 0;">100+<br>models</h4>
+                        <h4 style="text-align: center;
+background: pink;
+color: #333;
+width: 100px;
+font-size: 14px;
+border-radius: 54px;
+height: 65px;
+margin: 10px auto;
+padding: 35px 0 0 0;">15<br>student orgs</h4>
                     </div>
                     <div class="span6">
                         <p>Walk It Out (WIO) held their third annual multicultural fashion show on April 7, 2012, showcasing an array of fashions from diverse cultures across the globe. With over 1,000 people in attendance, fifteen student organizations collaborated to celebrate cultural diversity on the University of Iowa campus. This year, University Hospitals and Clinics HIV/AIDS Program also participated in the fashion show to increase awareness and promote education of HIV and AIDS on campus. Hip-Hop, East Asian, LGBTQ, South Asian, Middle Eastern, African, and Latin American cultures and regions were represented in the show.</p>
                         <p>Student President of the Walk It Out Fashion Show, Evan Ivory, said this year’s show has been the best one yet. The 2012 fashion show improved significantly compared to previous years.</p>
+                        <p>In terms of quality, the music transitions, the clothing the models wore, and even the containment of the 100+ models backstage, every aspect showed improvement from the year before.</p>
                     </div>
                 </div><!-- end .row -->
                 <div class="row">
                     <div class="span8 offset2">
                         <blockquote class="full">
-                            <p>“We learned and went through a lot as an executive board, but we all grew from it, both as a team and as individuals.”</p>
-                            <small>Evan Ivory</small>
+                            <p style="color: #fc89ad;">“We learned and went through a lot as an executive board, but we all grew from it, both as a team and as individuals.”</p>
+                            <small style="color: #fc89ad;">Evan Ivory</small>
                         </blockquote>
                     </div>
                     <div class="span6 offset4">
-                        <p>In terms of quality, the music transitions, the clothing the models wore, and even the containment of the 100+ models backstage, every aspect showed improvement from the year before.</p>
                         <p>“Most importantly, this year’s show had participants interact more with one another while educating them on unfamiliar topics at the same time,” Ivory said.</p>
 
                         <p>The faces of WIO also promoted diversity by demonstrating that a cultured group of students can work and grow together to achieve excellence and higher education, all while enjoying themselves. The fashion show pushed their participants to actively seek out ways to meet people who are different from them. Furthermore, participating in the Walk It Out fashion show allowed several students the opportunity to step outside their comfort zone and participate in a character altering event.</p>
