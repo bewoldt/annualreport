@@ -56,17 +56,18 @@
             <div class="container">
                 <div class="row">
                     <div class="span8 offset2">
-                        <img src="images/culture.jpg" alt="" style="-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);">
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="span8 offset2">
                         <div class="heading">
                             <h1 style="color: #d80136;">The Cultural Centers</h1> 
                             <h3>Providing Greater Understanding for Student Inclusion</h3>
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="span8 offset2">
+                        <img src="images/culture.jpg" alt="" style="-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);">
+                    </div>
+                </div>
+                <br>
                 <div class="row">
                     <div class="span2 offset2">
                         <ul class="meta">
