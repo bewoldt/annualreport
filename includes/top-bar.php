@@ -36,4 +36,4 @@
                 </li>
             </ul>
         </div>
-    </div><!-- end #top-bar -->
+    </div>
