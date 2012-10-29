@@ -13,8 +13,8 @@
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/mobile.css">
     <link rel="stylesheet" href="css/flexslider.css">
+    <link rel="stylesheet" href="css/mobile.css">
     
 
     <script src="http://use.edgefonts.net/open-sans.js"></script>
@@ -22,10 +22,26 @@
     
 </head>
 <body id="stretch">
+    <?php include 'includes/top-bar.php'; ?>
     <header id="header">
-        <p>header</p>
+        <div id="gallery" class="flexslider">
+            <ul class="slides clearfix">
+                <li>
+                    <img src="images/excel-1.jpg" />
+                </li>
+                <li>
+                    <img src="images/excel-2.jpg" />
+                </li>
+                <li>
+                    <img src="images/excel-3.jpg" />
+                </li>
+                <li>
+                    <img src="images/excel-4.jpg" />
+                </li>
+            </ul>
+        </div>
     </header>
-
+    <?php include 'includes/nav.php'; ?>
     <section id="cassidy-bell" class="hero-story">
         <div class="container-fluid">
             <div class="row-fluid">
@@ -130,7 +146,7 @@
                     <div class="row-fluid">
                         <div class="span12 img-callout">
                             <div class="span9 offset3">
-                                <div class="flexslider">
+                                <div id="readwrite-gallery" class="flexslider">
                                     <ul class="slides">
                                         <li>
                                             <img src="images/readwrite_slide1.jpg" />
@@ -183,7 +199,15 @@
 
                             <p>Between 15-20 students attended each section of the two courses. In the for-credit courses, students are achieving high scores. The student evaluations conducted at the closing of each course have come back very positive. Although the program has been at the University of Iowa Hospitals and Clinics since 1996, the mindfulness courses started in 2009. It is still in the pilot research phase, but the effect that it has had on students is evident.</p>
 
-                            <p>“Students do quite well in the for credit classes, though most comment that they are more work than what they expected!” Eness-Potter said. “The relevance of the material to their daily life, and the positive changes they see seem to keep them motivated to do the work.”</p>
+                            <p>“Students do quite well in the for credit classes, though most comment that they are more work than what they expected!” Eness-Potter said.</p>
+                        </div>
+                        <div class="span12">
+                            <blockquote class="full-width">
+                                <p>“The relevance of the material to their daily life, and the positive changes they see seem to keep them motivated to do the work.”</p>
+                                <small>Kerri Eness-Potter</small>
+                            </blockquote>
+                        </div>
+                        <div class="span9 offset3">
 
                             <p>In the last year, University Counseling Service has extended their reach to students by establishing a Facebook page and twitter accounts. With this outreach, along with classes offered, students can reach their potential at the UI and find their path in life.</p>
                         </div>

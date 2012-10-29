@@ -46,8 +46,110 @@ section {
 	padding: 4em 0;
 	position: relative;;
 }
+
+/* Header
+========================================================================== */
+#header {
+	background: #000;
+}
+
+/* Navigation 
+========================================================================== */
+.stickem-container {
+	position: relative;
+}
+.nav-place {height: 69px;}
+#serve .nav-place, #choose .nav-place, #engage .nav-place, #excel .nav-place, #stretch .nav-place {height: 96px;}
+#nav-wrapper {
+	background: #000;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+#nav {
+	
+}
+#nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 10px 0;
+}
+#nav li {
+	float: left;
+	text-align: center;
+	width: 156px;
+}
+#nav li > a {
+	color: #999;
+	display: block;
+	font-size: 18px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	padding: 2px;
+	text-transform: uppercase;
+	&:hover {
+		color: #fff;
+		text-decoration: none;
+	}
+}
+#nav li .active {
+	color: #fff;
+}
+#home #nav-home a {color: #fff;}
+#excel #nav-excel a {color: #fff;}
+#stretch #nav-stretch a {color: #fff;}
+#engage #nav-engage a {color: #fff;}
+#choose #nav-choose a {color: #fff;}
+#serve #nav-serve a {color: #fff;}
+#nav a em {
+	display: block;
+	text-transform: none;
+	font-size: 11px;
+	font-weight: normal;
+	letter-spacing: 0;
+}
+
+#nav-wrapper.fixed, #nav.fixed {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+	box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+
+/* ----- .sub-nav ----- */
+.sub-nav-wrapper {
+	background: #FFCE39;
+	width: 100%;
+}
+.sub-nav {
+	list-style: none;
+	margin: 0 auto;
+	text-align: center;
+	width: 940px;
+}
+.sub-nav li {
+	display: inline;
+}
+.sub-nav li a {
+	color: #333;
+	display: inline-block;
+	font-size: 11px;
+	padding: 5px 10px;
+	text-transform: uppercase;
+}
+.sub-nav li.active a {
+	background: #bbb;
+	color: #222;
+}
+.sub-nav li a:hover {
+	text-decoration: none;
+}
+
+
 /* diamond */
-#cassidy-bell:before, #readwrite:before, #iowagrow:before, #ucs:before {
+#readwrite:before, #iowagrow:before, #ucs:before {
 	content: url(../images/diamond_light.png);
 	position: absolute;
 	top: 0;
@@ -306,12 +408,17 @@ section header .sub-head {
 	padding: 1em 0;
 }
 #footer-header p {
-    @media (min-width: 768px) {
+    @media (min-width: 520px) {
     	float: left;
   	}
 }
+#footer-nav {
 
-/* search */
+}
+
+
+
+/* ----- search ----- */
 #footer-header #footer-search {
 	background-color: #fff;
 	overflow: hidden;
@@ -320,7 +427,7 @@ section header .sub-head {
 	-webkit-border-radius: 3px;
 	   -moz-border-radius: 3px;
 	        border-radius: 3px;
-	@media (min-width: 768px) {
+	@media (min-width: 520px) {
     	float: right;
     	width: 288px;
   	}
@@ -338,30 +445,27 @@ section header .sub-head {
 	right: 5px;
 }
 
-/* Nav lists */
+/* ----- Nav lists ----- */
 #footer-nav ul {
-	margin: 0 10px 10px 0;
+	clear: both;
+	margin: 0 0 10px 0;
+	overflow: hidden;
 	padding: 0;
-	float: left;
-	width: 47%;
 }
 #footer-nav ul li {
-	margin: 0 0.2em;
+	margin: 0 0.2em 0 .5em;
 	padding: 0;
 	list-style: none;
 }
 #footer-nav ul li a {
 	color: #999;
 }
-#footer-nav ul li.footer-nav-header a {
+#footer-nav ul .footer-nav-header a {
 	color: #ffce39;
 	font-weight: bold;
 }
-#footer-nav .row2 {
-	margin: 1em 0;
-}
 
-/* contact info */
+/* ----- contact info ----- */
 #footer-contact {
   color: #fff;
 }
@@ -373,7 +477,7 @@ section header .sub-head {
 	font-weight: bold; 
 }
 #footer-contact #footer-address {
-	margin-bottom: 1em; 
+	margin-bottom: 2em; 
 }
 #footer-contact #copyright,
 #footer-contact #copyright a {
@@ -382,11 +486,44 @@ section header .sub-head {
 }
 
 
+/* Imports
+========================================================================== */
+/* @import topbar.scss */
+@import "imports/topbar.scss";
+
+/* @import print.scss */
+@import "imports/print.scss";
+
+
+
 /* 320px and above
 ========================================================================== */
 @media only screen and (min-width: 320px) {
 	.container-fluid {
 		padding: 0 1em;
+	}
+}
+
+/* 480px and above
+========================================================================== */
+@media only screen and (min-width: 480px) {
+
+	/* footer */
+	#footer-nav ul li {
+		display: inline;
+		float: left;
+		margin: 0 0.2em 0 .5em;
+	}
+	#footer-nav ul .footer-nav-header {
+		display: block;
+		float: none;
+	}
+	#footer-nav ul li a:after {
+		content: " \2022";
+		padding-left: 5px;
+	}
+	#footer-nav ul li:last-child a:after, #footer-nav ul .footer-nav-header a:after {
+		content: "";
 	}
 }
 
@@ -404,9 +541,24 @@ section header .sub-head {
 	section header .sub-head {
 		font-size: 24px;
 	}
+
+	/* footer */
+	#footer-nav ul {
+		clear: none;
+		float: left;
+		margin-right: 10px;
+		width: 31%;
+	}
+	#footer-nav ul li {
+		display: block;
+		float: none;
+		margin: 0 0.2em 0 .5em;
+	}
+	#footer-nav ul li a:after {
+		content: "";
+		padding-left: 0;
+	}
 }
-
-
 
 /* 980px and above
 ========================================================================== */

@@ -1,5 +1,7 @@
 
 $(document).ready(function() {
+    // add js class to body if javascript enabled
+    $('body').addClass('js');
 
     /* Videos */
     $("#cultural-centers-video").fitVids();
@@ -14,9 +16,10 @@ $(document).ready(function() {
 
 
     /* Flexslider */
-    $('.flexslider').flexslider({
-        animation: "slide",
-        controlNav: false
+    $('#gallery').flexslider({
+        animation: "fade",
+        directionNav: false,
+        manualControls: ".flex-ctrl li"
     });
 
     /*
@@ -27,15 +30,15 @@ $(document).ready(function() {
 	/* dropdown
 	$('.dropdown-toggle').dropdown(); */
 
-	/* localscroll
+	/* localscroll */
 	$('.sub-nav').localScroll({
 		offset: -75,
-		duration:1500
-	}); */
+		duration:1200
+	});
 
 
 
-	/* Navigation Sticky
+	/* Navigation Sticky */
 	
 	//Calculate the height of <header>
     //Use outerHeight() instead of height() if have padding
@@ -57,6 +60,6 @@ $(document).ready(function() {
             // when scroll up or less than aboveHeight, remove the "fixed" class, and the padding-top
             $('#nav-wrapper').removeClass('fixed').next().css('padding-top','0');
         }
-    }); */
+    });
 
 });

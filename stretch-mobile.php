@@ -13,6 +13,7 @@
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/flexslider.css">
     <link rel="stylesheet" href="css/mobile.css">
 
     <script src="http://use.edgefonts.net/open-sans.js"></script>
@@ -20,8 +21,30 @@
     
 </head>
 <body id="stretch">
+    <?php include 'includes/top-bar.php'; ?>
     <header id="header">
-        <p>header</p>
+        <div id="gallery" class="flexslider">
+            <ul class="slides">
+                <li>
+                    <img src="images/excel-1.jpg" />
+                </li>
+                <li>
+                    <img src="images/excel-2.jpg" />
+                </li>
+                <li>
+                    <img src="images/excel-3.jpg" />
+                </li>
+                <li>
+                    <img src="images/excel-4.jpg" />
+                </li>
+            </ul>
+            <ul class="flex-ctrl">
+                <li><a href="#"><img src="images/excel-1-thumb.jpg" alt=""></a></li>
+                <li><a href="#">two</a></li>
+                <li><a href="#">three</a></li>
+                <li><a href="#">four</a></li>
+            </ul>
+        </div>
     </header>
     <section id="cultural-centers">
         <div class="container-fluid">
@@ -157,32 +180,32 @@
                                 <li><em>Video by <span>Scott Lahn</span></em></li>
                             </ul>
                             <h4 style="text-align: center;
-background: pink;
-color: #333;
-width: 100px;
-border-radius: 54px;
-height: 65px;
-font-size: 14px;
-margin: 10px auto;
-padding: 35px 0 0 0;">1,000+<br>attendance</h4>
-                        <h4 style="text-align: center;
-background: pink;
-color: #333;
-width: 100px;
-border-radius: 54px;
-height: 65px;
-font-size: 14px;
-margin: 10px auto;
-padding: 35px 0 0 0;">100+<br>models</h4>
-                        <h4 style="text-align: center;
-background: pink;
-color: #333;
-width: 100px;
-font-size: 14px;
-border-radius: 54px;
-height: 65px;
-margin: 10px auto;
-padding: 35px 0 0 0;">15<br>student orgs</h4>
+                            background: pink;
+                            color: #333;
+                            width: 100px;
+                            border-radius: 54px;
+                            height: 65px;
+                            font-size: 14px;
+                            margin: 10px auto;
+                            padding: 35px 0 0 0;">1,000+<br>attendance</h4>
+                                                    <h4 style="text-align: center;
+                            background: pink;
+                            color: #333;
+                            width: 100px;
+                            border-radius: 54px;
+                            height: 65px;
+                            font-size: 14px;
+                            margin: 10px auto;
+                            padding: 35px 0 0 0;">100+<br>models</h4>
+                                                    <h4 style="text-align: center;
+                            background: pink;
+                            color: #333;
+                            width: 100px;
+                            font-size: 14px;
+                            border-radius: 54px;
+                            height: 65px;
+                            margin: 10px auto;
+                            padding: 35px 0 0 0;">15<br>student orgs</h4>
                         </div>
                         <div class="span9">
                             <p>Walk It Out (WIO) held their third annual multicultural fashion show on April 7, 2012, showcasing an array of fashions from diverse cultures across the globe. With over 1,000 people in attendance, fifteen student organizations collaborated to celebrate cultural diversity on the University of Iowa campus. This year, University Hospitals and Clinics HIV/AIDS Program also participated in the fashion show to increase awareness and promote education of HIV and AIDS on campus. Hip-Hop, East Asian, LGBTQ, South Asian, Middle Eastern, African, and Latin American cultures and regions were represented in the show.</p>
@@ -205,9 +228,27 @@ padding: 35px 0 0 0;">15<br>student orgs</h4>
         </div>
     </section>
 
+    <?php include 'includes/footer.php'; ?>
+
     <!-- Scripts-->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="js/plugins-ck.js"></script>
-    <script src="js/main-ck.js"></script> 
+    <script src="js/main-ck.js"></script>
+    <script>
+        (function() {
+
+            $(document).ready(function() {
+                var $menu = $('#univ-nav'),
+                $menulink = $('.menu-link');
+
+                $menulink.click(function() {
+                    $menulink.toggleClass('active');
+                    $menu.toggleClass('active');
+                    return false;
+                });
+            });
+
+        })();
+    </script>
 </body>
 </html>
