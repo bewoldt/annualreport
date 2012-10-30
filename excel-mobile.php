@@ -40,14 +40,34 @@
                 </li>
             </ul>
         </div>
+        <div class="flex-ctrl-wrapper">
+            <ul class="flex-ctrl">
+                <li><a href="#"><img src="images/excel-1-thumb.jpg" alt=""></a></li>
+                <li><a href="#"><img src="images/excel-1-thumb.jpg" alt=""></a></li>
+                <li><a href="#"><img src="images/excel-1-thumb.jpg" alt=""></a></li>
+                <li><a href="#"><img src="images/excel-1-thumb.jpg" alt=""></a></li>
+            </ul>
+        </div>
     </header>
-    <?php include 'includes/nav.php'; ?>
+    <div id="nav-wrapper">
+        <?php include 'includes/nav.php'; ?>
+        <div class="sub-nav-wrapper">
+            <ul class="sub-nav nav">
+                <li><a href="#cassidy">Cassidy Bell</a></li>
+                <li><a href="#iowagrow">Iowa Grow</a></li>
+                <li><a href="#read-write">Read and Write Gold on Campus</a></li>
+                <li><a href="#usc">UCS</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="nav-place"></div>
     <section id="cassidy-bell" class="hero-story">
         <div class="container-fluid">
             <div class="row-fluid">
                 <div class="span12 hero-img">
                    
                 </div>
+                <div class="frame"></div>
             </div>
             <div class="row-fluid">
                 <div class="span8 offset2">
@@ -176,42 +196,34 @@
     <section id="ucs">
         <div class="container-fluid">
             <div class="row-fluid">
-                <div class="span10 offset1">
+                <div class="span12">
                     <header class="header">
                         <h1 class="title">University Counseling Services</h1>
                         <h3 class="sub-head">Mindfulness For Student Success</h3>
                     </header>
-                    <div class="row-fluid">
-                        <div class="span3 meta">
+                </div>
+                <div class="row-fluid">
+                    <div class="span6">
+                        <div class="meta">
                            <ul>
                                 <li>Department Name Goes Here</li>
                                 <li><em>Words by <span>Name Here</span></em></li>
                             </ul>
                         </div>
-                        <div class="span9">
-                            <p>According to the University Counseling Services (UCS), the education students gain during their time at the University of Iowa is a 4-year experience that is both academic and nonacademic. The education they build through these experiences coalesce and contribute to their overall development. Student development is built on a base of the mindfulness they have in any situation that they may face. The UCS offers Mindfulness programming to students in various group courses ranging from outside of the classroom to for-credit courses available through the university.</p>
-
-                            <p>“Students learn formal mindfulness meditation practices that include awareness of physical, cognitive and emotional experiences, as well as informal practices such as mindful eating, studying, communication, and mindful use of cellphones and social media,” Kerri Eness-Potter, Program Coordinator for MIndfulness-Based Programs, said. “They are also introduced to research and application to professional and academic areas.”</p>
-
-                            <p>In the 2011-2012 academic year, UCs offered two non-academic courses titled “Mindfulness Foundations” and “Mindfulness: Being Here With It All.” Both of these classes contained eight-week group sessions that differ in scope. The “Mindfulness Foundations” course focused upon teaching students the secular, personal practices of mindfulness. It also focused upon the conceptual and theoretical aspects of mindfulness and the academic importance of mindfulness when looking at research and other resources. The course, “Mindfulness: Being Here With It All” is a course that is meant for first-year students to help them transition from prior life to university life by teaching them the skills they can use in relation to personal stresses internally and externally.</p>
-
-                            <p>“The focus is not on learning to relax but to actually engage with what is here, even when it isn’t relaxing, in a conscious and discerning manner, Eness-Potter said. “This means learning how to be with difficult thoughts and emotions as well as external stressors.”</p>
-
-                            <p>Between 15-20 students attended each section of the two courses. In the for-credit courses, students are achieving high scores. The student evaluations conducted at the closing of each course have come back very positive. Although the program has been at the University of Iowa Hospitals and Clinics since 1996, the mindfulness courses started in 2009. It is still in the pilot research phase, but the effect that it has had on students is evident.</p>
-
-                            <p>“Students do quite well in the for credit classes, though most comment that they are more work than what they expected!” Eness-Potter said.</p>
-                        </div>
-                        <div class="span12">
-                            <blockquote class="full-width">
-                                <p>“The relevance of the material to their daily life, and the positive changes they see seem to keep them motivated to do the work.”</p>
-                                <small>Kerri Eness-Potter</small>
-                            </blockquote>
-                        </div>
-                        <div class="span9 offset3">
-
-                            <p>In the last year, University Counseling Service has extended their reach to students by establishing a Facebook page and twitter accounts. With this outreach, along with classes offered, students can reach their potential at the UI and find their path in life.</p>
-                        </div>
-                    </div><!-- end row -->
+                        <p>According to the University Counseling Services (UCS), the education students gain during their time at the University of Iowa is a 4-year experience that is both academic and nonacademic. The education they build through these experiences coalesce and contribute to their overall development. Student development is built on a base of the mindfulness they have in any situation that they may face. The UCS offers Mindfulness programming to students in various group courses ranging from outside of the classroom to for-credit courses available through the university.</p>
+                        <p>“Students learn formal mindfulness meditation practices that include awareness of physical, cognitive and emotional experiences, as well as informal practices such as mindful eating, studying, communication, and mindful use of cellphones and social media,” Kerri Eness-Potter, Program Coordinator for MIndfulness-Based Programs, said. “They are also introduced to research and application to professional and academic areas.”</p>
+                        <p>In the 2011-2012 academic year, UCs offered two non-academic courses titled “Mindfulness Foundations” and “Mindfulness: Being Here With It All.” Both of these classes contained eight-week group sessions that differ in scope. The “Mindfulness Foundations” course focused upon teaching students the secular, personal practices of mindfulness. It also focused upon the conceptual and theoretical aspects of mindfulness and the academic importance of mindfulness when looking at research and other resources. The course, “Mindfulness: Being Here With It All” is a course that is meant for first-year students to help them transition from prior life to university life by teaching them the skills they can use in relation to personal stresses internally and externally.</p>
+                    </div>
+                    <div class="span6">
+                        <p>“The focus is not on learning to relax but to actually engage with what is here, even when it isn’t relaxing, in a conscious and discerning manner, Eness-Potter said. “This means learning how to be with difficult thoughts and emotions as well as external stressors.”</p>
+                        <p>Between 15-20 students attended each section of the two courses. In the for-credit courses, students are achieving high scores. The student evaluations conducted at the closing of each course have come back very positive. Although the program has been at the University of Iowa Hospitals and Clinics since 1996, the mindfulness courses started in 2009. It is still in the pilot research phase, but the effect that it has had on students is evident.</p>
+                        <p>“Students do quite well in the for credit classes, though most comment that they are more work than what they expected!” Eness-Potter said.</p>
+                        <blockquote>
+                            <p>“The relevance of the material to their daily life, and the positive changes they see seem to keep them motivated to do the work.”</p>
+                            <small>Kerri Eness-Potter</small>
+                        </blockquote>
+                        <p>In the last year, University Counseling Service has extended their reach to students by establishing a Facebook page and twitter accounts. With this outreach, along with classes offered, students can reach their potential at the UI and find their path in life.</p>
+                    </div>
                 </div>
             </div><!-- end row -->
         </div><!-- end container -->

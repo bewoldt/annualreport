@@ -18,7 +18,7 @@ $(document).ready(function() {
     /* Flexslider */
     $('#gallery').flexslider({
         animation: "fade",
-        directionNav: false,
+        slideshow: false,
         manualControls: ".flex-ctrl li"
     });
 

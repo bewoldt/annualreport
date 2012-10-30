@@ -46,29 +46,35 @@ section {
 	padding: 4em 0;
 	position: relative;;
 }
+.row-fluid {
+	position: relative;
+}
 
 /* Header
 ========================================================================== */
 #header {
 	background: #000;
+	position: relative;
 }
 
 /* Navigation 
 ========================================================================== */
-.stickem-container {
-	position: relative;
-}
 .nav-place {height: 69px;}
-#serve .nav-place, #choose .nav-place, #engage .nav-place, #excel .nav-place, #stretch .nav-place {height: 96px;}
+#serve .nav-place, #choose .nav-place, #engage .nav-place, #excel .nav-place, #stretch .nav-place {height: 94px;}
 #nav-wrapper {
-	background: #000;
 	position: absolute;
-	top: 0;
-	left: 0;
+	background: #222;
 	width: 100%;
 }
+#nav-wrapper.fixed{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+	box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
 #nav {
-	
+
 }
 #nav ul {
 	list-style: none;
@@ -110,14 +116,6 @@ section {
 	letter-spacing: 0;
 }
 
-#nav-wrapper.fixed, #nav.fixed {
-	position: fixed;
-	top: 0;
-	width: 100%;
-	z-index: 100;
-	box-shadow: 0 2px 2px rgba(0,0,0,.2);
-}
-
 /* ----- .sub-nav ----- */
 .sub-nav-wrapper {
 	background: #FFCE39;
@@ -146,7 +144,6 @@ section {
 .sub-nav li a:hover {
 	text-decoration: none;
 }
-
 
 /* diamond */
 #readwrite:before, #iowagrow:before, #ucs:before {
@@ -320,7 +317,6 @@ section header .sub-head {
 /* change teams */
 #cassidy-bell {
 	background: #eee url(../images/bg-wave.png);
-	border-top: 1px solid #ccc;
 }
 #cassidy-bell .hero-img {
 	background-image: url(../images/cassidy_sm.jpg);
@@ -332,6 +328,17 @@ section header .sub-head {
     	background-image: url(../images/cassidy_lg.jpg);
   	}
 }
+
+.frame {
+	border: 1px solid #fff;
+	position: absolute;
+	top: 15px;
+	bottom: 15px;
+	left: 18px;
+	right: 18px;
+	z-index: 12;
+}
+
 /* iowa grow */
 #iowagrow {
 	border-top: 1px solid #ccc;
