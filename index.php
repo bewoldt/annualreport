@@ -13,29 +13,37 @@
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/flexslider.css">
     <link rel="stylesheet" href="css/site.css">
+    
 
     <script src="http://use.edgefonts.net/open-sans.js"></script>
-    <script src="js/vendor/modernizr-2.6.1.min.js"></script>
+    <script src="http://use.edgefonts.net/alfa-slab-one.js"></script>
     
 </head>
-<body id="home" class="body">
+<body id="home">
     <?php include 'includes/top-bar.php'; ?>
-    <?php include 'includes/header.php'; ?>
+    <header id="header">
+        <div id="gallery" class="flexslider">
+            <ul class="slides clearfix">
+                <li>
+                    <img src="images/excel/excel-1.jpg" />
+                    <div class="challenge-heading fadeInDown">
+                        <h1><b class="b-top">2012 Annual Report</b></h1>
+                        <p class="challenge-bot">Division Of Student Life</p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </header>
     <div class="stickem-container">
-        <div class="nav-place"></div>
         <div id="nav-wrapper" class="stickem">
             <?php include 'includes/nav.php'; ?>
         </div>
         <section id="intro">
-            <div class="container">
-                 <div class="row">
-                    <div class="span10 offset1">
-                        <p class="center quote">Fostering student success by creating and promoting educationally<br> purposeful services and activities within and beyond the classroom.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="span6 offset3 stickem-container">
+            <div class="container-fluid">
+                <div class="row-fluid">
+                    <div class="span6 offset3">
                         <p class="justify challenge-desc">Through the newly implemented “Every Student, Every Encounter” initiative, Vice President for Student Life, Tom Rocklin, encourages faculty and staff to have frequent conversations with students about their academics. If the University of Iowa faculty surrounds them with a climate of high expectations, students are going to try to meet those expectations. “Every Student, Every Encounter” encourages students to pursue excellence both in and out of the classroom.</p>
                         <br>
                         <br>
@@ -43,7 +51,7 @@
                         <br>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row-fluid">
                     <div class="span2 offset1">
                         <img src="http://placehold.it/300x300/444444/&text=+" alt="" />
                         <h4>Excel</h4>
@@ -77,11 +85,14 @@
                 </div>
             </div>
         </section>
+      
         <?php include 'includes/footer.php'; ?>
+
     </div><!-- end .stickem-container -->
 
-    <!-- Scripts -->
+    <!-- Scripts-->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="js/plugins-ck.js"></script>
-    <script src="js/main-ck.js"></script>
+    <script src="js/main-ck.js"></script> 
 </body>
 </html>

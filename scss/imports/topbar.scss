@@ -1,7 +1,13 @@
 #top-bar {
     background-color: #000;
-    border-top: 5px solid #ffce39;
+    border-top: 5px solid #fc0;
     font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, .4);
+       -moz-box-shadow: 0 2px 2px rgba(0, 0, 0, .4);
+         -o-box-shadow: 0 2px 2px rgba(0, 0, 0, .4);
+            box-shadow: 0 2px 2px rgba(0, 0, 0, .4);
+    position: relative;
+    z-index: 1;
 }
 /* heading */
 .univ-heading {
@@ -14,7 +20,7 @@
     color: #ffce39;
 }
 .univ-heading a {
-    color: #ffce39;
+    color: #fc0;
 }
 .univ-heading span {
     color: #fff;
@@ -89,6 +95,9 @@
     font-size: 12px;
     padding: 0.8em;
     border-bottom: 1px solid #444;
+}
+#univ-nav li:last-child a {
+  border-bottom: none;
 }
 #univ-nav li a:hover {
     color: #fff;
