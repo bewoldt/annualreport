@@ -1075,6 +1075,9 @@ section header .sub-head {
   color: #FC89AD;
   font-size: 65px; }
 
+#walkitout .dropcap {
+  color: #eee; }
+
 /* ---------- ENGAGE ---------- */
 #wrac {
   background: #eeeeee url(../images/bg-wave.png); }
@@ -1094,6 +1097,9 @@ section header .sub-head {
 
 #pick-one h1 {
   color: #fcd073; }
+
+#pick-one .dropcap {
+  color: #eee; }
 
 /* ---------- CHOOSE --------- */
 #student-health {

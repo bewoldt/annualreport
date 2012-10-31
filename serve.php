@@ -95,7 +95,7 @@
                                 </ul>
                             </div>
                             <div class="span9">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+                                <p><span class="dropcap">L</span>orem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
                                 <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus. Etiam porta sem malesuada magna mollis euismod.</p>
                                 <blockquote>
                                     <p>"Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum."</p>
@@ -140,7 +140,7 @@
                                 </ul>
                             </div>
                             <div class="span9">
-                                <p>Fraternity and Sorority Life at the University of Iowa is not just known for their abilities to help students connect to others on campus, but also for their effort to give back to the community. Dance Marathon, an annual charity,  is only one of many that Fraternity and Sorority Life contributes to each year. As a whole, the group donates their time and resources to the Child’s Miracle Network, the Juvenile Diabetes Foundation, the American Heart Association, Susan G. Komen Breast Cancer Foundation, Make a Wish Foundation, Crisis Center of Iowa City, Big Brothers and Big Sisters, American Cancer Society, Ronald McDonald Foundation, Habitat for Humanity, Mark Twain Elementary of Iowa City, and Dance Marathon. In 2011, the Fraternity/Sorority Community contributed to over 22,000 hours of community service and donated over $382,000 to their various organizations.</p>
+                                <p><span class="dropcap">F</span>raternity and Sorority Life at the University of Iowa is not just known for their abilities to help students connect to others on campus, but also for their effort to give back to the community. Dance Marathon, an annual charity,  is only one of many that Fraternity and Sorority Life contributes to each year. As a whole, the group donates their time and resources to the Child’s Miracle Network, the Juvenile Diabetes Foundation, the American Heart Association, Susan G. Komen Breast Cancer Foundation, Make a Wish Foundation, Crisis Center of Iowa City, Big Brothers and Big Sisters, American Cancer Society, Ronald McDonald Foundation, Habitat for Humanity, Mark Twain Elementary of Iowa City, and Dance Marathon. In 2011, the Fraternity/Sorority Community contributed to over 22,000 hours of community service and donated over $382,000 to their various organizations.</p>
                             </div>
                             <div class="span12">
                                 <blockquote class="full-width">
@@ -176,6 +176,10 @@
                             <h1 class="title">Saturdays in Service</h1>
                             <h3 class="sub-head">Sub Heading Goes Here</h3>
                         </header>
+                        <div>
+                            <img src="http://placehold.it/830x400/777&text=Photo Gallery Goes Here" alt="">
+                        </div>
+                        <br>
                         <div class="row-fluid">
                             <div class="span3 meta">
                                <ul>
@@ -185,7 +189,7 @@
                                 </ul>
                             </div>
                             <div class="span9">
-                                <p>Last year, the most popular opportunity was volunteering at the animal sanctuary, Witty Kitties. Students miss their pets from back home, so it was a good way for students to get in some animal time while helping out a good cause. (pull quote)</p>
+                                <p><span class="dropcap">L</span>ast year, the most popular opportunity was volunteering at the animal sanctuary, Witty Kitties. Students miss their pets from back home, so it was a good way for students to get in some animal time while helping out a good cause. (pull quote)</p>
 
                                 <p>Did you know that Iowa City is the number one city in Iowa and the number three city in the nation for volunteer involvement, according to an article in the Press-Citizen?</p>
 
