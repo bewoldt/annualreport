@@ -1198,6 +1198,9 @@ section header .sub-head {
   color: #999;
   font-size: 11px; }
 
+.justify {
+  text-align: justify; }
+
 .center {
   text-align: center; }
 
