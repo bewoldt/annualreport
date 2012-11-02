@@ -118,7 +118,7 @@
             </div>
         </section>
 
-        <section id="iowagrow">
+        <section id="iowagrow" class="reverse">
             <div class="container-fluid">
                 <div class="row-fluid">
                     <div class="span10 offset1">

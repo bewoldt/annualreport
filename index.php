@@ -37,7 +37,7 @@
         </div>
     </header>
     <div class="stickem-container">
-        <div id="nav-wrapper" class="stickem">
+        <div id="nav-wrapper" class="">
             <?php include 'includes/nav.php'; ?>
         </div>
         <section id="intro">

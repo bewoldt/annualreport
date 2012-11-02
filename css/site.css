@@ -827,10 +827,13 @@ section {
 } */
 /* headings */
 .header {
-  border-top: 1px dotted #ccc;
+  border-top: 5px solid #333;
   border-bottom: 1px dotted #ccc;
   margin: 0 0 1em;
   padding: 1em 0; }
+
+.reverse .header {
+  border-color: #ddd; }
 
 section header .title {
   font-family: alfa-slab-one, arial, verdana, sans-serif;
