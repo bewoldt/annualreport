@@ -685,7 +685,9 @@ section {
   left: 50%;
   width: 280px;
   margin-left: -140px;
-  margin-top: -77px; }
+  margin-top: -77px;
+  background: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.5); }
 
 .challenge-heading h1 {
   color: #fff;
@@ -704,7 +706,6 @@ section {
   font-weight: bold;
   position: relative;
   bottom: -18px;
-  letter-spacing: 1px;
   z-index: 10;
   padding: 0 10px;
   text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
