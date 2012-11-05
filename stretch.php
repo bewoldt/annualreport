@@ -23,52 +23,18 @@
 </head>
 <body id="stretch">
     <?php include 'includes/top-bar.php'; ?>
-    <header id="header">
-        <div id="gallery" class="flexslider">
-            <ul class="slides clearfix">
-                <li>
-                    <img src="images/excel/excel-1.jpg" />
-                    <div class="challenge-heading fadeInDown">
-                        <p class="challenge-top">2012 Annual Report</p>
-                        <h1><b class="b-top">Stretch</b></h1>
-                        <p class="challenge-bot">Learn From Diverse Experiences</p>
-                    </div>
-                </li>
-                <li>
-                    <img src="images/excel/excel-2.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-3.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-4.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-5.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-6.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-7.jpg" />
-                </li>
-            </ul>
-        </div>
-        <div class="flex-ctrl-wrapper">
-            <ul class="flex-ctrl">
-                <li><a href="#"><img src="images/excel/thumb-1.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-2.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-3.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-4.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-5.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-6.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-7.jpg" alt=""></a></li>
-            </ul>
+     <header id="header">
+         <div class="challenge-heading fadeInDown">
+            <p class="challenge-top">Division of Student Life</p>
+            <h1><b class="b-top">Excel</b></h1>
+            <p class="challenge-bot">2012 Annual Report</p>
         </div>
     </header>
     <div class="stickem-container">
         <div id="nav-wrapper" class="stickem">
-            <?php include 'includes/nav.php'; ?>
+            <div class="container-fluid">
+                <?php include 'includes/nav.php'; ?>
+            </div>
             <div class="sub-nav-wrapper">
                 <ul class="sub-nav nav">
                     <li><a href="#cultural-centers">Cultural Centers</a></li>

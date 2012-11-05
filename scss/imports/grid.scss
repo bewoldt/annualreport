@@ -55,6 +55,9 @@
   margin-right: auto;
   width: 940px;
 }
+.container-fluid {
+  padding: 0 1em;
+}
 .span12 {
   width: 940px;
 }
@@ -258,9 +261,6 @@
   .navbar-fixed-bottom {
     margin-left: -20px;
     margin-right: -20px;
-  }
-  .container-fluid {
-    padding: 0;
   }
   .dl-horizontal dt {
     float: none;

@@ -17,59 +17,25 @@
     <link rel="stylesheet" href="css/site.css">
     
 
-    <script src="http://use.edgefonts.net/open-sans.js"></script>
-    <script src="http://use.edgefonts.net/alfa-slab-one.js"></script>
+    <script src="http://use.edgefonts.net/open-sans:n4,i4,n7.js"></script>
+    <script src="http://use.edgefonts.net/alfa-slab-one:n4.js"></script>
     
 </head>
 <body id="excel">
     <?php include 'includes/top-bar.php'; ?>
     <header id="header">
-        <div id="gallery" class="flexslider">
-            <ul class="slides clearfix">
-                <li>
-                    <img src="images/excel/excel-1.jpg" />
-                    <div class="challenge-heading fadeInDown">
-                        <p class="challenge-top">2012 Annual Report</p>
-                        <h1><b class="b-top">Engage</b></h1>
-                        <p class="challenge-bot">Get Involved And Be A Leader</p>
-                    </div>
-                </li>
-                <li>
-                    <img src="images/excel/excel-2.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-3.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-4.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-5.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-6.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-7.jpg" />
-                </li>
-            </ul>
-        </div>
-        <div class="flex-ctrl-wrapper">
-            <ul class="flex-ctrl">
-                <li><a href="#"><img src="images/excel/thumb-1.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-2.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-3.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-4.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-5.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-6.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-7.jpg" alt=""></a></li>
-            </ul>
+         <div class="challenge-heading fadeInDown">
+            <p class="challenge-top">Division of Student Life</p>
+            <h1><b class="b-top">Excel</b></h1>
+            <p class="challenge-bot">2012 Annual Report</p>
         </div>
     </header>
 
     <div class="stickem-container">
         <div id="nav-wrapper" class="stickem">
-            <?php include 'includes/nav.php'; ?>
+            <div class="container-fluid">
+                <?php include 'includes/nav.php'; ?>
+            </div>
             <div class="sub-nav-wrapper">
                 <ul class="sub-nav nav">
                     <li><a href="#cassidy-bell">Cassidy Bell</a></li>
@@ -80,7 +46,7 @@
             </div>
         </div>
 
-        <section id="cassidy-bell" class="hero-story">
+        <section id="cassidy-bell" class="first-story hero-story">
             <div class="container-fluid">
                 <div class="row-fluid">
                     <div class="span12 hero-img">
@@ -127,7 +93,7 @@
                             <h3 class="sub-head">Connecting student employment to academics at the University</h3>
                         </header>
                         <div id="iowagrow-video" class="video-container">
-                            <img src="http://placehold.it/830x457/777&text=Video Goes Here" alt="">
+                            <img src="images/video-place.gif" alt="">
                         </div>
                         <br>
                         <div class="row-fluid">
@@ -163,7 +129,7 @@
                             <h3 class="sub-head">Providing Greater Understanding for Student Inclusion</h3>
                         </header>
                         <div id="readwrite-video" class="video-container">
-                            <img src="http://placehold.it/830x457/777&text=Video Goes Here" alt="">
+                            <img src="images/video-place.gif" alt="">
                         </div>
                         <br>
                         <div class="row-fluid">
@@ -187,6 +153,10 @@
                                 <div class="span12">
                                     <div id="readwrite-gallery" class="flexslider">
                                         <ul class="slides">
+                                            <li>
+                                                <img src="images/readwrite_slide1.jpg" />
+                                                <p class="flex-caption">Caption Goes Here</p>
+                                            </li>
                                             <li>
                                                 <img src="images/readwrite_slide1.jpg" />
                                                 <p class="flex-caption">Caption Goes Here</p>
@@ -237,7 +207,7 @@
                             <p>Between 15-20 students attended each section of the two courses. In the for-credit courses, students are achieving high scores. The student evaluations conducted at the closing of each course have come back very positive. Although the program has been at the University of Iowa Hospitals and Clinics since 1996, the mindfulness courses started in 2009. It is still in the pilot research phase, but the effect that it has had on students is evident.</p>
                         </div>
                         <div class="span12 img-callout">
-                           <img src="http://placehold.it/830x400/777&text=Picture Goes Here" alt="">
+                           <img src="images/picture-place.gif" alt="">
                         </div>
                         <div class="span9 offset3">
                             <p>“Students do quite well in the for credit classes, though most comment that they are more work than what they expected!” Eness-Potter said.</p>
@@ -251,6 +221,25 @@
                 </div><!-- end row -->
             </div><!-- end container -->
         </section>
+        <ul id="nav-mobile" class="clearfix test">
+            <li>
+                <a href="index.php">Home</a>
+            </li>
+            <li>
+                <a href="excel.php">Excel <em>Set high standards</em></a>
+            </li>
+            <li>
+                <a href="stretch.php">Stretch <em>Learn from diverse experiences</em></a>
+            </li>
+            <li>
+                <a href="engage.php">Engage <em>Get involved and be a leader</em></a></li>
+            <li>
+                <a href="choose.php">Choose <em>Make thoughtful decisions</em></a>
+            </li>
+            <li>
+                <a href="serve.php">Serve <em>Contribute to a community</em></a>
+            </li>
+        </ul>
 
         <?php include 'includes/footer.php'; ?>
 
