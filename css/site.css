@@ -26,7 +26,7 @@ img {
   *zoom: 1; }
 
 body {
-  background: #fff;
+  background: #666666 url(../images/background.png);
   margin: 0;
   color: #333;
   font-size: 13px;
@@ -628,18 +628,54 @@ blockquote:after {
 /* Main styles
 ========================================================================== */
 section {
+  background-color: #fff;
   padding: 4em 0;
-  position: relative; }
+  position: relative;
+  -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); }
 
 .row-fluid {
   position: relative; }
+
+/* ----- navigation ----- */
+#navigation {
+  padding: 1.8em 0 1.2em;
+  overflow: hidden; }
+
+.logo {
+  float: left; }
+
+#navigation ul {
+  float: right;
+  margin: 34px 0 0 0;
+  padding: 0;
+  list-style: none; }
+
+#navigation ul li, #navigation ul a {
+  display: block;
+  height: 20px; }
+
+#navigation ul li {
+  float: left;
+  margin-left: 1em; }
+
+#navigation ul a {
+  display: block;
+  color: #fff;
+  overflow: hidden;
+  font-size: 14px;
+  text-shadow: 1px 1px 5px black; }
 
 /* Header
 ========================================================================== */
 #header {
   background: #000;
   height: 300px;
-  position: relative; }
+  position: relative;
+  -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); }
 
 .challenge-heading {
   text-align: center;
@@ -652,24 +688,18 @@ section {
   margin-top: -77px; }
 
 .challenge-heading h1 {
-  border-top: 1px solid rgba(255, 255, 255, 0.9);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
   color: #fff;
   font-size: 45px;
   margin: 20px 0;
-  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.8);
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
   text-transform: uppercase;
-  position: relative; }
-  .challenge-heading h1 .b-top {
-    border-top: 1px solid rgba(0, 0, 0, 0.3);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.9);
-    display: block;
-    padding: .2em 0; }
+  position: relative;
+  font-weight: bold; }
 
 .challenge-top {
+  background: url(../images/borders.png) no-repeat center 11px;
   color: #fff;
   margin: 0;
-  display: inline-block;
   font-size: 13px;
   font-weight: bold;
   position: relative;
@@ -677,20 +707,20 @@ section {
   letter-spacing: 1px;
   z-index: 10;
   padding: 0 10px;
-  text-shadow: 1px 1px 0 #333;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
   text-transform: uppercase; }
 
 .challenge-bot {
+  background: url(../images/border-bottom.png) no-repeat center 13px;
   color: #fff;
   font-size: 13px;
   font-weight: bold;
   margin: 0;
-  display: inline-block;
   position: relative;
   top: -20px;
   z-index: 10;
   padding: 0 10px;
-  text-shadow: 1px 1px 0 #333; }
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5); }
 
 .challenge-desc {
   line-height: 1.7;
@@ -713,28 +743,22 @@ section {
     font-size: 16px; } }
 /* Navigation 
 ========================================================================== */
-.stickem-container {
-  position: relative; }
+#nav-container {
+  padding: 0; }
 
 #nav-wrapper {
-  border-top: 1px solid rgba(0, 0, 0, 0.3);
   position: absolute;
-  background: #ffcc00 url(../images/nav_bg.gif) repeat-x 0 0;
-  width: 100%;
+  background: #ffcc00 url(../images/nav_bg.gif) repeat-x left bottom;
   z-index: 20;
-  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2); }
-
-#nav-wrapper {
-  display: none; }
-  @media (min-width: 648px) {
-    #nav-wrapper {
-      display: block; } }
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); }
 
 @media (min-width: 768px) {
-  #nav-wrapper.stickit, #nav-wrapper.fixed {
+  #nav-wrapper.fixed {
     position: fixed;
     top: 0;
-    width: 100%;
+    max-width: 1000px;
     z-index: 100; } }
 
 #nav {
@@ -747,6 +771,7 @@ section {
   border-right: 1px solid rgba(0, 0, 0, 0.1);
   float: left;
   text-align: center;
+  position: relative;
   width: 16.66666%;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -758,37 +783,49 @@ section {
 #nav li a {
   color: #333;
   display: block;
-  font-size: 18px;
-  xfont-weight: bold;
+  font-size: 11px;
   padding: 14px 2px 10px;
   text-transform: uppercase; }
+  #nav li a em {
+    display: none;
+    text-transform: none;
+    font-size: 11px;
+    font-weight: normal;
+    letter-spacing: 0; }
   #nav li a:hover {
     text-decoration: none; }
+  @media (min-width: 600px) {
+    #nav li a {
+      font-size: 18px; }
+      #nav li a em {
+        display: block; } }
 
 #nav li a:hover {
   background: rgba(0, 0, 0, 0.03); }
 
-#nav a em {
-  display: block;
-  text-transform: none;
-  font-size: 11px;
-  font-weight: normal;
-  letter-spacing: 0; }
-
-#excel #nav-excel a {
+/* active */
+#nav li.active a {
   background: url(../images/nav_reverse.gif) repeat-x 0 0;
-  border-top: 4px solid #333;
+  border-top: 4px solid #222;
   padding-top: 10px; }
 
-#stretch #nav-stretch a {
-  background: url(../images/nav_reverse.gif) repeat-x 0 0;
-  border-top: 4px solid #333;
-  padding-top: 10px; }
+#nav li.active a:after {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  vertical-align: top;
+  border-top: 6px solid #fc0;
+  border-right: 6px solid transparent;
+  border-left: 6px solid transparent;
+  content: "";
+  position: absolute;
+  bottom: -6px;
+  left: 50%;
+  margin-left: -3px; }
 
 /* ----- .sub-nav ----- */
 .sub-nav-wrapper {
   background: #fff;
-  border-top: 1px solid #ccc;
   width: 100%; }
 
 .sub-nav {
@@ -813,7 +850,7 @@ section {
 .sub-nav li a:hover {
   text-decoration: none; }
 
-/* Mobile Navigation */
+/* ----- Mobile Navigation ----- */
 #nav-mobile {
   background: #FC0;
   list-style: none;
@@ -991,19 +1028,40 @@ section header .sub-head {
 
 .hero-story .content .meta li {
   border: none;
-  float: left;
-  margin: 0 1em 0 0;
   padding: 0; }
+  @media (min-width: 600px) {
+    .hero-story .content .meta li {
+      float: left;
+      margin: 0 1em 0 0; } }
 
 .first-story {
-  padding-top: 7em; }
+  padding-top: 9em; }
 
 /* ---------- HOME --------- */
 @media (min-width: 900px) {
   #home .challenge-heading {
-    width: 720px;
-    margin-left: -360px;
-    top: 30%; } }
+    margin-top: -125px; } }
+
+.blurbs a {
+  position: relative; }
+
+.blurbs .box:hover img {
+  opacity: 0.6; }
+
+.blurbs .box:hover:after {
+  position: absolute;
+  width: 70%;
+  margin-left: 15%;
+  text-align: center;
+  top: 50%;
+  margin-top: -10px;
+  background: #fff;
+  line-height: 40px;
+  font-size: 16px;
+  content: "Read The Story →";
+  text-transform: uppercase;
+  display: block;
+  z-index: 5555; }
 
 /* ---------- EXCEL --------- */
 #cassidy-bell {
@@ -1042,7 +1100,7 @@ section header .sub-head {
 
 /* read and write gold */
 #readwrite {
-  background: url(../images/bg-social-feed-fade.png) repeat-x center top; }
+  background: white url(../images/bg-social-feed-fade.png) repeat-x center top; }
 
 /* ucs */
 #ucs {
@@ -1105,14 +1163,14 @@ section header .sub-head {
       background-image: url(../images/wrac_lg.jpg); } }
 
 #pick-one {
-  background: url(../images/bg-dark.jpg);
-  color: #DDD; }
+  xbackground: url(../images/bg-dark.jpg);
+  xcolor: #DDD; }
 
 #pick-one h1 {
-  color: #fcd073; }
+  xcolor: #fcd073; }
 
 #pick-one .dropcap {
-  color: #eee; }
+  xcolor: #eee; }
 
 /* ---------- CHOOSE --------- */
 #student-health {
@@ -1138,6 +1196,7 @@ section header .sub-head {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #000;
   text-align: left;
+  margin-top: 2em;
   font-size: 12px;
   padding: 0 1em; }
 
@@ -1237,11 +1296,11 @@ img.right {
 #top-bar {
   background-color: #000;
   border-top: 5px solid #fc0;
-  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
-  -webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4);
-  -moz-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4);
-  -o-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4);
-  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.4);
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
   position: relative;
   z-index: 1; }
 
@@ -1323,7 +1382,7 @@ img.right {
   border-top: 1px solid #444; }
 
 #univ-nav li a {
-  color: #999;
+  color: #ccc;
   display: block;
   font-size: 12px;
   padding: 0.8em;
@@ -1571,7 +1630,8 @@ img.right {
 /* 320px and above
 ========================================================================== */
 .container-fluid {
-  padding: 0 1em; }
+  padding-left: 1em;
+  padding-right: 1em; }
 
 /* 480px and above
 ========================================================================== */
@@ -1628,5 +1688,6 @@ img.right {
 
   .container-fluid {
     margin: 0 auto;
-    padding: 0;
+    padding-left: 0;
+    padding-right: 0;
     width: 1000px; } }

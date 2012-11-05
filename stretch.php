@@ -26,14 +26,33 @@
      <header id="header">
          <div class="challenge-heading fadeInDown">
             <p class="challenge-top">Division of Student Life</p>
-            <h1><b class="b-top">Excel</b></h1>
+            <h1><b class="b-top">Stretch</b></h1>
             <p class="challenge-bot">2012 Annual Report</p>
         </div>
     </header>
     <div class="stickem-container">
         <div id="nav-wrapper" class="stickem">
             <div class="container-fluid">
-                <?php include 'includes/nav.php'; ?>
+                <ul id="nav" class="clearfix">
+                    <li id="nav-home">
+                        <a href="index.php">Home<em>&nbsp;</em></a>
+                    </li>
+                    <li id="nav-excel">
+                        <a href="excel.php">Excel<em>Set high standards</em></a>
+                    </li>
+                    <li id="nav-stretch" class="active">
+                        <a href="stretch.php">Stretch<em>diversity</em></a>
+                    </li>
+                    <li id="nav-engage">
+                        <a href="engage.php">Engage<em>Get involved</em></a>
+                    </li>
+                    <li id="nav-choose">
+                        <a href="choose.php">Choose<em>Make decisions</em></a>
+                    </li>
+                    <li id="nav-serve">
+                        <a href="serve.php">Serve<em>community</em></a>
+                    </li>
+                </ul>
             </div>
             <div class="sub-nav-wrapper">
                 <ul class="sub-nav nav">
@@ -44,7 +63,7 @@
                 </ul>
             </div>
         </div>
-        <section id="cultural-centers">
+        <section id="cultural-centers" class="first-story">
             <div class="container-fluid">
                 <div class="row-fluid">
                     <div class="span10 offset1">
@@ -53,7 +72,7 @@
                             <h3 class="sub-head">Providing Greater Understanding for Student Inclusion</h3>
                         </header>
                         <div id="cultural-centers-video" class="video-container">
-                            <img src="http://placehold.it/830x457/777&text=Video Goes Here" alt="">
+                            <img src="images/stretch/cultural-centers-still.jpg" alt="">
                         </div>
                         <br>
                         <div class="row-fluid">

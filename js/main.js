@@ -10,19 +10,24 @@ $(document).ready(function() {
 
     /* Backstretch */
     // headers
+    $("#home #header").backstretch("images/excel/excel-1.jpg");
     $("#excel #header").backstretch("images/excel/excel-2.jpg");
     $("#stretch #header").backstretch("images/excel/excel-3.jpg");
+    $("#engage #header").backstretch("images/excel/excel-4.jpg");
+    $("#choose #header").backstretch("images/excel/excel-5.jpg");
+    $("#serve #header").backstretch("images/excel/excel-6.jpg");
 
-    $("#kotheid").backstretch("images/capitol_bg.jpg");
+    $("#kotheid").backstretch("images/stretch/kotheid-still.jpg");
     $("#hawkeye-awards").backstretch("images/imu_building.jpg");
-    $("#mentoring").backstretch("images/mentoring.jpg");
-    $("#leisure-skills").backstretch("images/leisure_bg.jpg");
+    $("#mentoring").backstretch("images/engage/heather-ockenfels-still.jpg");
+    $("#leisure-skills").backstretch("images/choose/lifetime-leisure.jpg");
     $("#sorority-services").backstretch("images/greek.jpg");
 
     /* Flexslider */
     $('.flexslider').flexslider({
         animation: "slide",
         slideshow: false,
+        smoothHeight: true,
         touch: true
     });
 

@@ -21,78 +21,49 @@
     <script src="http://use.edgefonts.net/alfa-slab-one.js"></script>
     
 </head>
-<body id="stretch">
+<body id="choose">
     <?php include 'includes/top-bar.php'; ?>
     <header id="header">
-        <div id="gallery" class="flexslider">
-            <ul class="slides clearfix">
-                <li>
-                    <img src="images/excel/excel-1.jpg" />
-                    <div class="challenge-heading fadeInDown">
-                        <p class="challenge-top">2012 Annual Report</p>
-                        <h1><b class="b-top">Choose</b></h1>
-                        <p class="challenge-bot">Make Thoughtful Decisions</p>
-                    </div>
-                </li>
-                <li>
-                    <img src="images/excel/excel-2.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-3.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-4.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-5.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-6.jpg" />
-                </li>
-                <li>
-                    <img src="images/excel/excel-7.jpg" />
-                </li>
-            </ul>
-        </div>
-        <div class="flex-ctrl-wrapper">
-            <ul class="flex-ctrl">
-                <li><a href="#"><img src="images/excel/thumb-1.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-2.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-3.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-4.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-5.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-6.jpg" alt=""></a></li>
-                <li><a href="#"><img src="images/excel/thumb-7.jpg" alt=""></a></li>
-            </ul>
+        <div class="challenge-heading fadeInDown">
+            <p class="challenge-top">2012 Annual Report</p>
+            <h1><b class="b-top">Choose</b></h1>
+            <p class="challenge-bot">2012 Annual Report</p>
         </div>
     </header>
     <div class="stickem-container">
         <div id="nav-wrapper" class="stickem">
-            <?php include 'includes/nav.php'; ?>
+            <div class="container-fluid">
+                <ul id="nav" class="clearfix">
+                    <li id="nav-home">
+                        <a href="index.php">Home<em>&nbsp;</em></a>
+                    </li>
+                    <li id="nav-excel">
+                        <a href="excel.php">Excel<em>Set high standards</em></a>
+                    </li>
+                    <li id="nav-stretch">
+                        <a href="stretch.php">Stretch<em>diversity</em></a>
+                    </li>
+                    <li id="nav-engage">
+                        <a href="engage.php">Engage<em>Get involved</em></a>
+                    </li>
+                    <li id="nav-choose" class="active">
+                        <a href="choose.php">Choose<em>Make decisions</em></a>
+                    </li>
+                    <li id="nav-serve">
+                        <a href="serve.php">Serve<em>community</em></a>
+                    </li>
+                </ul>
+            </div>
             <div class="sub-nav-wrapper">
                 <ul class="sub-nav nav">
-                    <li><a href="#leisure-skills">Lifetime Leisure Skills</a></li>
                     <li><a href="#student-health">Student Health Services</a></li>
+                    <li><a href="#leisure-skills">Lifetime Leisure Skills</a></li>
                     <li><a href="#starrez">Star Rez</a></li>
                 </ul>
             </div>
         </div>
 
-        <section id="leisure-skills" class="video-block">
-            <div class="container-fluid">
-                <div class="row-fluid">
-                    <div class="span8 offset2">
-                        <div id="leisure-video" class="video-container">
-                            <img src="http://placehold.it/642x360/777&text=Video Goes Here" alt="">
-                            <h1>Lifetime Leisure Skills</h1>
-                            <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
-                        </div>
-                    </div>
-                </div> <!-- end row -->
-            </div><!-- end container-->
-        </section>
-
-        <section id="student-health">
+        <section id="student-health" class="first-story">
             <div class="container-fluid">
                 <div class="row-fluid">
                     <div class="span10 offset1">
@@ -140,6 +111,20 @@
                     </div>
                 </div><!-- end row -->
             </div><!-- end container -->
+        </section>
+
+        <section id="leisure-skills" class="video-block">
+            <div class="container-fluid">
+                <div class="row-fluid">
+                    <div class="span8 offset2">
+                        <div id="leisure-video" class="video-container">
+                            <img src="http://placehold.it/642x360/777&text=Video Goes Here" alt="">
+                            <h1>Lifetime Leisure Skills</h1>
+                            <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
+                        </div>
+                    </div>
+                </div> <!-- end row -->
+            </div><!-- end container-->
         </section>
 
         <section id="starrez">
