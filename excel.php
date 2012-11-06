@@ -16,7 +16,6 @@
     <link rel="stylesheet" href="css/flexslider.css">
     <link rel="stylesheet" href="css/site.css">
     
-
     <script src="http://use.edgefonts.net/open-sans:n4,i4,n7.js"></script>
     <script src="http://use.edgefonts.net/alfa-slab-one:n4.js"></script>
     

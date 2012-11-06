@@ -107,41 +107,35 @@ section {
 	width: 280px;
 	margin-left: -140px;
 	margin-top: -77px;
+	padding: 10px 5px;
 	background: rgba(0,0,0,.5);
-	border: 1px solid rgba(255,255,255,.5);
+	border: 1px solid #fff;
 }
 .challenge-heading h1 {
 	color: #fff;
 	font-size: 45px;
-	margin: 20px 0;
+	margin: 15px 0;
 	text-shadow: 1px 1px 0 rgba(0,0,0,.5);
 	text-transform: uppercase;
 	position: relative;
 	font-weight: bold;
 }
 .challenge-top {
-	background: url(../images/borders.png) no-repeat center 11px;
+	background: url(../images/borders.png) no-repeat center 10px;
 	color: #fff;
 	margin: 0;
 	font-size: 13px;
 	font-weight: bold;
-	position: relative;
-	bottom: -18px;
 	z-index: 10;
-	padding: 0 10px;
 	text-shadow: 1px 1px 0 rgba(0,0,0,.5);
 	text-transform: uppercase;
 }
 .challenge-bot {
-	background: url(../images/border-bottom.png) no-repeat center 13px;
+	background: url(../images/border-bottom.png) no-repeat center 10px;
 	color: #fff;
 	font-size: 13px;
 	font-weight: bold;
 	margin: 0;
-	position: relative;
-	top: -20px;
-	z-index: 10;
-	padding: 0 10px;
 	text-shadow: 1px 1px 0 rgba(0,0,0,.5);
 }
 .challenge-desc {
@@ -155,14 +149,11 @@ section {
 	}
 	.challenge-heading {
 		width: 500px;
-    	margin-top: -100px;
-    	margin-left: -250px;
+    	margin-top: -83px;
+    	margin-left: -256px;
 	}
 	.challenge-heading h1 {
 		font-size: 70px;
-	}
-	.challenge-top, .challenge-bot {
-		font-size: 16px;
 	}
 }
 
@@ -637,7 +628,7 @@ section header .sub-head {
 	border-bottom: 1px solid #ccc;
 }
 #sorority-life {
-	background: url(../images/bg-social-feed-fade.png) repeat-x center top;
+	background: #fff url(../images/bg-social-feed-fade.png) repeat-x center top;
 }
 #saturdays-in-service {
 	background: #eee url(../images/bg-wave.png);

@@ -72,7 +72,8 @@ $(document).ready(function() {
     //Use outerHeight() instead of height() if have padding
     var topBarHeight = $('#top-bar').outerHeight();
     var headerHeight = $('#header').outerHeight();
-    var totalHeight = headerHeight + topBarHeight;
+    var navHeight = $('#navigation').outerHeight();
+    var totalHeight = headerHeight + navHeight + topBarHeight;
 
     // when scroll
     $(window).scroll(function(){
