@@ -23,9 +23,11 @@
     <div class="container-fluid">
         <?php include 'includes/division-nav.php'; ?>
         <div id="header">
-            <div class="challenge-heading fadeInDown">
-                <p class="challenge-top">Division Of Student Life</p>
-                <h1><b class="b-top">2012 Annual Report</b></h1>
+            <div id="ESEE">
+                <a href="#" class="screencap">
+                    <img src="images/home_screencap.jpg" alt="">
+                </a>
+                <iframe width="560" height="315" src="http://www.youtube.com/embed/rRVOh6W4YPk?rel=0" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
     </div>
@@ -47,8 +49,7 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <br>
-                    <br>
-                    <p style="font-size: 20px;text-align: center;">The Division of Student Life fosters student success by creating and promoting educationally purposeful services and activities within and beyond the classroom.</p>
+                    <p style="font-size: 20px;text-align: center;font-style: italic;">The Division of Student Life fosters student success by creating and promoting educationally purposeful services and activities within and beyond the classroom.</p>
                 </div>
             </div>
             <div class="row-fluid">

@@ -5,7 +5,7 @@ $(document).ready(function() {
     $('body').addClass('js');
 
     /* Videos */
-    $("#cultural-centers-video").fitVids();
+    $("#ESEE").fitVids();
 
 
     /* Backstretch */
@@ -41,11 +41,12 @@ $(document).ready(function() {
         return false;
     });
 
-    /*
-    $('.screencap').click(function() {
-        $(this).hide();
-        $('#kotheid iframe').attr('src', 'http://www.youtube.com/embed/O_HyZ5aW76c?rel=0&autoplay=1');
-    }); */
+    /* Video Screencap Click function */
+    $('#ESEE .screencap').click(function() {
+        $(this).fadeOut(1000);
+        $('#ESEE iframe').attr('src', 'http://www.youtube.com/embed/rRVOh6W4YPk?rel=0&autoplay=1');
+        return false;
+    });
 
 
 	/* localscroll */

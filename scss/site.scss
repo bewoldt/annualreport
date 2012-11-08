@@ -509,8 +509,9 @@ section header .sub-head {
 /* Home  
 ========================================================================== */
 #home #header {
-	background: url(../images/home_header.jpg) no-repeat center top;
-	background-size: cover;
+	xbackground: url(../images/home_header.jpg) no-repeat center top;
+	xbackground-size: cover;
+	height: auto;
 }
 #home .padding-top {margin-top: 69px;}
 #home .challenge-heading {
@@ -518,6 +519,13 @@ section header .sub-head {
     	margin-top: -125px;
   	}
 }
+.screencap {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 100;
+}
+
 .blurbs a {
 	position: relative;
 }
