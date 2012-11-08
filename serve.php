@@ -52,7 +52,7 @@
             </ul>
         </div>
 
-         <section id="serve-wrac" class="container-fluid first-story">
+         <section id="serve-wrac">
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">
@@ -80,7 +80,7 @@
             </div><!-- end row -->
         </section>
 
-        <section id="sorority-services" class="container-fluid video-block">
+        <section id="sorority-services" class="video-block fixed-img">
             <div class="row-fluid">
                 <div class="span8 offset2">
                     <div id="sorority-services-video" class="video-container">
@@ -92,7 +92,7 @@
             </div> <!-- end row -->
         </section>
 
-        <section id="sorority-life" class="container-fluid">
+        <section id="sorority-life">
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">
@@ -135,7 +135,7 @@
             </div><!-- end row -->
         </section>
 
-        <section id="saturdays-in-service" class="container-fluid">
+        <section id="saturdays-in-service">
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">
@@ -171,8 +171,6 @@
                 </div>
             </div><!-- end row -->
         </section>
-
-    <?php include 'includes/footer.php'; ?>
 
     </div><!-- end .container-fluid -->
 

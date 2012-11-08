@@ -1049,8 +1049,18 @@ section header .sub-head {
   right: 18px;
   z-index: 12; }
 
+.smtxt {
+  font-size: 12px; }
+
 /* Home  
 ========================================================================== */
+#home #header {
+  background: url(../images/home_header.jpg) no-repeat center top;
+  background-size: cover; }
+
+#home .padding-top {
+  margin-top: 69px; }
+
 @media (min-width: 900px) {
   #home .challenge-heading {
     margin-top: -125px; } }
@@ -1206,6 +1216,10 @@ section header .sub-head {
 #serve-wrac {
   background: #eeeeee url(../images/bg-wave.png);
   border-bottom: 1px solid #ccc; }
+
+#sorority-services {
+  background-image: url(../images/serve/greek_cap.jpg);
+  background-position: center top; }
 
 #sorority-life {
   background: white url(../images/bg-social-feed-fade.png) repeat-x center top; }
@@ -1424,7 +1438,7 @@ img.right {
   .menu-link {
     display: none; }
 
-  .js #univ-nav {
+  #univ-nav {
     clear: none;
     max-height: none;
     float: right; }
