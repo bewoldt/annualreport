@@ -6,7 +6,7 @@
                 <div id="footer-search" class="clearfix">
                     <form action="/home/SearchForm" method="get" accept-charset="utf-8">
                         <input type="text" name="Search" value="" title="Search Text" id="search" placeholder="Search..."/>
-                        <input type="image" name="submit" value="" title="Search Button" id="search-submit" src="http://studentlife.uiowa.edu/themes/doss/images/search-icon.png" />
+                        <input type="image" name="submit" value="" title="Search Button" alt="Search" id="search-submit" src="http://studentlife.uiowa.edu/themes/doss/images/search-icon.png" />
                     </form>         
                 </div>
             </div>

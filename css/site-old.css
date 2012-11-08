@@ -156,7 +156,7 @@ code {
 hr {
   margin: 20px 0;
   border: 0;
-  border-top: 1px dotted #ccc;
+  border-top: 1px dotted #aaa;
   border-bottom: 1px dotted #fff; }
 
 /* Quotes
@@ -175,8 +175,8 @@ blockquote p {
 blockquote.full-width {
   border-left: none;
   padding-left: 0;
-  border-top: 1px dotted #ccc;
-  border-bottom: 1px dotted #ccc;
+  border-top: 1px dotted #aaa;
+  border-bottom: 1px dotted #aaa;
   padding: 1.5em 0;
   margin: 1em 0; }
 
@@ -1790,81 +1790,6 @@ section {
     font-size: 11px;
     padding: 10px 7px;
     text-decoration: none; } }
-/* dropdown navigation 
---------------------------------------------------------------
-.caret {
-  display: inline-block;
-  width: 0;
-  height: 0;
-  vertical-align: top;
-  border-top: 4px solid #000000;
-  border-right: 4px solid transparent;
-  border-left: 4px solid transparent;
-  content: "";
-  margin-left: 2px;
-  margin-top: 7px;
-  border-top-color: #777777;
-  border-bottom-color: #777777;
-}
-.open .sub {
-  display: block;
-}
-#univ-nav > .open > a {
-  color: #fff;
-  outline: none;
-}
-.sub {
-  position: absolute;
-  top: 36px;
-  right: 0;
-  z-index: 99999;
-  width: 368px;
-  display: none;
-  background: #333333;
-  background: -moz-linear-gradient(top, #333333 0%, #000000 99%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#333333), color-stop(99%,#000000));
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#333333', endColorstr='#000000',GradientType=0 );
-  
-  padding: 10px 10px 10px;
-  -webkit-border-bottom-right-radius: 5px;
-      -moz-border-radius-bottomright: 5px;
-          border-bottom-right-radius: 5px;
-  -webkit-border-bottom-left-radius: 5px;
-      -moz-border-radius-bottomleft: 5px;
-          border-bottom-left-radius: 5px;
-  -webkit-box-shadow: -1px 2px 6px rgba(0,0,0,.2);
-     -moz-box-shadow: -1px 2px 6px rgba(0,0,0,.2);
-          box-shadow: -1px 2px 6px rgba(0,0,0,.2);
-}
-.univ-sub-heading {
-  border-bottom: 3px solid #cba636;
-  color: #fff;
-  font-size: 16px;
-  margin: 0 0 10px 0;
-  padding: 0 0 5px 0;
-}
-.sub > ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  width: 50%;
-  float: left;
-}
-.sub ul li a {
-  padding: 5px 10px 5px 0;
-  display: block;
-  line-height: 1.3;
-  text-decoration: none;
-  color: #ddd;
-  font-size: 12px;
-  -webkit-transition: padding ease-in-out .1s;
-  &:hover {
-    border-left: 3px solid #cba636;
-    color: #fff;
-    padding-left: 5px;
-  }
-}
- */
 /* @import print.scss */
 /* css/scss/imports/print.scss
 ========================================================================== */

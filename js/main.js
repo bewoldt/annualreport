@@ -9,19 +9,8 @@ $(document).ready(function() {
 
 
     /* Backstretch */
-    // headers
-    $("#home #header").backstretch("images/excel/excel-1.jpg");
-    $("#excel #header").backstretch("images/excel/excel-2.jpg");
-    $("#stretch #header").backstretch("images/excel/excel-3.jpg");
-    $("#engage #header").backstretch("images/excel/excel-4.jpg");
-    $("#choose #header").backstretch("images/excel/excel-5.jpg");
-    $("#serve #header").backstretch("images/excel/excel-6.jpg");
 
-    $("#kotheid").backstretch("images/stretch/kotheid-still.jpg");
-    $("#hawkeye-awards").backstretch("images/imu_building.jpg");
-    $("#mentoring").backstretch("images/engage/heather-ockenfels-still.jpg");
-    $("#leisure-skills").backstretch("images/choose/lifetime-leisure.jpg");
-    $("#sorority-services").backstretch("images/greek.jpg");
+
 
     /* Flexslider */
     $('.flexslider').flexslider({
@@ -61,7 +50,7 @@ $(document).ready(function() {
 
 	/* localscroll */
 	$('.sub-nav').localScroll({
-		offset: -79,
+		offset: -98,
 		duration:1200
 	});
 
@@ -72,7 +61,7 @@ $(document).ready(function() {
     //Use outerHeight() instead of height() if have padding
     var topBarHeight = $('#top-bar').outerHeight();
     var headerHeight = $('#header').outerHeight();
-    var navHeight = $('#navigation').outerHeight();
+    var navHeight = $('#division-nav').outerHeight();
     var totalHeight = headerHeight + navHeight + topBarHeight;
 
     // when scroll
@@ -83,11 +72,11 @@ $(document).ready(function() {
 
             // if yes, add "fixed" class to the <nav>
             // add padding top to the #content (value is same as the height of the nav)
-            $('#nav-wrapper').addClass('fixed').css('top','0');
+            $('#nav-wrapper').addClass('fixed').css('top','0').next().addClass('padding-top');
         } else {
 
             // when scroll up or less than aboveHeight, remove the "fixed" class, and the padding-top
-            $('#nav-wrapper').removeClass('fixed');
+            $('#nav-wrapper').removeClass('fixed').next().removeClass('padding-top');
         }
     });
 
