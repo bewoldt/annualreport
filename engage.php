@@ -130,7 +130,7 @@
                             <blockquote>
                                 <p>Pick One had a participation rate of more than 42% of all first-year students</p>
                             </blockquote>
-                            <p>Why should you participate? Pick One gives students the chance to feel more connected on campus while having fun and meeting people. Involvement helps build your resume with teamwork and leadership skills. Getting involved makes people feel more connected to their campus, and increases retention for the University. By simply registering your Pick One on the exploration tool at http://pickone.uiowa.edu, you will be eligible to win great prizes, including an iPad. Pick One started as a catalyst to get students involved, but there are so many other things people can do on campus. In the future, the Pick One program may expand to include transfer students.</p>
+                            <p>Why should you participate? Pick One gives students the chance to feel more connected on campus while having fun and meeting people. Involvement helps build your resume with teamwork and leadership skills. Getting involved makes people feel more connected to their campus, and increases retention for the University. By simply registering your Pick One on the exploration tool at <a href="http://pickone.uiowa.edu" target="_blank">http://pickone.uiowa.edu</a>, you will be eligible to win great prizes, including an iPad. Pick One started as a catalyst to get students involved, but there are so many other things people can do on campus. In the future, the Pick One program may expand to include transfer students.</p>
                         </div>
                     </div><!-- end row -->
                 </div>
@@ -139,7 +139,7 @@
 
         <section id="mentoring" class="video-block">
             <div class="row-fluid">
-                <div class="span8 offset2">
+                <div class="span8 offset3">
                     <div id="mentoring-video" class="video-container">
                         <img src="http://placehold.it/642x360/777&text=Video Goes Here" alt="">
                         <h1>Supporting Students Through Mentoring</h1>
