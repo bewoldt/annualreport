@@ -68,21 +68,41 @@
                         </header>
                         <div class="meta">
                             <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Here</span></em></li>
-                                <li><em>Photography by <span>Ben Lewis</span></em></li>
+                                <li>Division of Student Life</li>
+                                <li><em>Words by <span>Hanna Rosman</span></em></li>
+                                <li><em>Photography by <span>Chelsea Darter</span></em></li>
                             </ul>
                         </div>
-                        <p><span class="dropcap">T</span>he University of Iowa encourages and inspires diversity campus-wide through many initiatives. The Change Teams are an initiative by the Division of Student Life’s Multicultural Work Group that are responsible for developing, implementing, and ensuring an inclusive environment for all students on campus. The Change Teams are organized by the Iowa Memorial Union Committee co-chaired by Roy Salcedo, Coordinator for Multicultural Programs, and Patricia Kruse, Associate Director of IMU administration and operations. The overall intention of the program is to increase awareness and acceptance of diverse populations of the campus.</p>
+                        <p><span class="dropcap">T</span>The Meet the Challenge Awards are given to those who are examples of successes coming to life at the University of Iowa. When students take their first steps on campus they are not simply inducted into an academic community that strives towards higher education, but they become apart of the Hawkeye family. Cassidy Bell, a 2012 graduate, won the Meet the Challenge award for Engage in the last year for her work at the Rape Victim Advocacy Program (RVAP) where she had been volunteering since June 2011. By recognizing students such as Bell with the Meet the Challenge awards, it allows students to act as visible examples to inspire future students in the paths that they take on in their 4-year stay at the University of Iowa.</p>
                         <blockquote>
-                            <p>“Our hope is that we will impact students and staff on a daily basis, if only in the way we all think about acceptance.”</p>
-                            <small>Patricia Kruse</small>
+                            <p>“It is a thrill and honor to be recognized for the work that I do. I certainly feel like I am engaged in the community,” Bell said. “Iowa City has become my home in the last several years and I am proud to be on both the giving and receiving side of support in this community.”</p>
+                            <small>Cassidy Bell</small>
                         </blockquote>
-                        <p>The teams work to raise this acceptance by creating a division wide effort to raise awareness across the campus based upon the daily interactions the team has with students. The Iowa Memorial committee meet every other week for an hour to discuss how the campus is currently and review how others are doing both within the University of Iowa and other institutions. They take that information and apply it to practical usage that they delegate among the committee. The change teams are currently in the planning stage, building a series of goals to accomplish over the upcoming years.</p>
-                        <p>Among these projects include creating a new vision for the Iowa Memorial Union. This involves creating a logo and a web page for the purpose of sharing with students the diversity, opportunities for culturally diverse student organizations, and cultural events on campus. The web page will also be a tool for staff because it provides surveys and training for better inclusiveness on campus. The change teams seek to create change not just by these means, but through ways that are always evolving.</p>
+                        <p>The Meet the Challenge Awards are broken down by each of the five initiatives by the Iowa Challenge. Five awards are given each year with a $500 award to each recipient for the awards: Excel, Stretch, Choose, Engage, Serve.</p>
+
                         <blockquote>
-                            <p>“We hope to affect change through questioning, learning, and listening.”</p>
+                        	<p>“In a sense, it helps provide a roadmap that students can use to achieve success at Iowa and beyond,” said Sarah Hansen, Director of Assessment and Strategic Initiatives at the Division of Student Life.</p>
+                        	<small>Sarah Hansen, Assistant VP for Assessment & Strategic Initiatives, Division of Student Life</small>
                         </blockquote>
+
+                        	<p>For Bell, it was an unexpected honor to receive this award because she had not heard of the Meet the Challenge awards before. Her work was for her own pleasure of serving the community rather than being something with an end goal. 
+“I was honored as soon as [I was] notified of my nomination, but even more so after seeing how prestigious the Iowa Challenge is,” Bell said.</p>
+
+<p>Volunteering with RVAP was something that Bell desired to do to compliment her work in the classroom as a psychology major. Her plans after graduation are to have a therapy practice. She felt that volunteering would have the benefit of serving the Iowa City community as well as learning something new. Working there was something she could feel a sense of pride about.</p>
+
+<p>“I thought this would be a good way to help people, get experience in the field and
+find out if a career in counseling is actually something that I want to do,” Bell said.</p>
+
+<p>Volunteering for RVAP was one of the many things that Bell was apart of on campus. Other student organizations and groups that she has had a hand in during her 4-year stay at the UI include Simply Food, the Local Foods Connection, and the Iowa City Farmers Market.</p>
+
+<p>The awards have distinguished students among their peers as not just a way to recognize the unique abilities of students, but to encourage others. These five awards for the expectations of the Iowa Challenge set the standard for what excellence is and what all students should strive to do at the University of Iowa and beyond. </p>
+
+<p>“We hope that seeing the amazing things our Meet the Challenge winners are doing will inspire all students to use the challenge as a guide for their own path to success,” Hansen said.</p>
+
+<p>Bell graduated with a degree in Psychology and a minor in Health Promotion in 2012. She has continued engaging with the Iowa City community by working as the Family Service Specialist at the Local Foods Connection as well as the manage the Iowa City Farmers Market. </p>
+
+<p>Other award winners for the 2011-2012 academic year include Rachel Kentor (Excel Award), Kotheid Nicoue (Stretch Award), Jason Heard (Choose Award), and Ben Phol (Serve Award). </p>
+
                     </div>
                 </div>
             </div><!-- end row -->
@@ -93,7 +113,7 @@
                 <div class="span10 offset1">
                     <header class="header">
                         <h1 class="title">Iowa Grow</h1>
-                        <h3 class="sub-head">Connecting student employment to academics at the University</h3>
+                        <h3 class="sub-head">Creating Meaningful Connections Between Work and Academics</h3>
                     </header>
                     <div id="iowagrow-video" class="video-container">
                         <img src="images/excel/iowa-grow-still.jpg" alt="">
@@ -102,9 +122,9 @@
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Here</span></em></li>
-                                <li><em>Video by <span>Name Goes Here</span></em></li>
+                                <li>Division of Student Life</li>
+                                <!--<li><em>Words by <span>Name Here</span></em></li>-->
+                                <li><em>Video by <span>Scott Lahn and Maddy Osman</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
@@ -127,7 +147,7 @@
                 <div class="span10 offset1">
                     <blockquote>
                         <p>“The relevance of the material to their daily life, and the positive changes they see seem to keep them motivated to do the work.”</p>
-                        <small>Kerri Eness-Potter</small>
+                        <small>Kerri Eness-Potter, Program Coordinator for Mindfulness-Based Programs</small>
                     </blockquote>
                 </div>
             </div>
@@ -137,19 +157,18 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">
-                        <h1 class="title">University Counseling Services</h1>
-                        <h3 class="sub-head">Mindfulness For Student Success</h3>
+                        <h1 class="title">Mindfulness Practice Supports Student Success</h1>
+                        <h3 class="sub-head"></h3>
                     </header>
                     <div class="video-container">
-                        <img src="images/picture-place.gif" alt="">
+                        <!--<img src="images/picture-place.gif" alt=""> -->
                     </div>
                     <br>
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
                                 <li>University Counseling Service</li>
-                                <li><em>Words by <span>Name Goes Here</span></em></li>
-                                <li><em>Video by <span>Name Goes Here</span></em></li>
+                                <li><em>Words by <span>Hanna Rosman</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
@@ -163,7 +182,7 @@
                     <div class="span12">
                         <blockquote class="full-width">
                             <p>“The focus is not on learning to relax but to actually engage with what is here, even when it isn’t relaxing, in a conscious and discerning manner. This means learning how to be with difficult thoughts and emotions as well as external stressors.</p>
-                            <small>Kerri Eness-Potter</small>
+                            <small>Kerri Eness-Potter, Program Coordinator for Mindfulness-Based Programs</small>
                         </blockquote>
                     </div>
                     <div class="span9 offset3">
@@ -183,8 +202,8 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">
-                        <h1 class="title">Read and Write Gold on Campus</h1>
-                        <h3 class="sub-head">Providing Greater Understanding for Student Inclusion</h3>
+                        <h1 class="title">Read and Write Gold</h1>
+                        <h3 class="sub-head">New Technology Provides Access to Required Readings</h3>
                     </header>
                     <div id="readwrite-video" class="video-container">
                         <img src="images/video-place.gif" alt="">
@@ -193,9 +212,9 @@
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Goes Here</span></em></li>
-                                <li><em>Video by <span>Name Goes Here</span></em></li>
+                                <li>Student Disability Services</li>
+                                <li><em>Words by <span>Mary Koberstein and Maddy Osman</span></em></li>
+                                <li><em>Photos by <span>Chelsea Darter</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
@@ -232,7 +251,7 @@
                         <div class="span9 offset3">
                             <p>While Read and Write Gold is helping students with disabilities improve their academic work, it has also helped students without disabilities excel. When reading a document, students can use the virtual highlighters that allow users to highlight important information which will then collect into a personal study guide. Fact folders allow students to collect and gather facts while doing research papers. Once the fact folders are created, Read and Write Gold will automatically create a bibliography for the gathered information. There is an MP3 creator tool that turns text into an MP3 file that students can listen to on the go.</p>
 
-                            <p>Student Disabilities Services also plays a role in the use and distribution of Read and Write Gold. They offer Alternative Media Services, where students can get class materials, and textbooks made more accessible. There is also Alternative Test Services, where students can take tests in a format that is most convenient for them. The student workers in Student Disability Services help about 200 students each year.</p>
+                            <p>Student Disability Services also plays a role in the use and distribution of Read and Write Gold. They offer Alternative Media Services, where students can get class materials, and textbooks made more accessible. Alternative Test Services is another program from SDS, allowing students to take exams in a format that is most accessible for them. The student employees in Student Disability Services assist approximately 200 students each year.</p>
                         </div>
                     </div><!-- end row -->
                 </div>
