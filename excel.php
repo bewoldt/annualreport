@@ -172,7 +172,6 @@ find out if a career in counseling is actually something that I want to do,” B
                             </ul>
                         </div>
                         <div class="span9">
-                        <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="right">
                         <p><span class="dropcap">A</span>ccording to the University Counseling Services (UCS), the education students gain during their time at the University of Iowa is a 4-year experience that is both academic and nonacademic. The education they build through these experiences coalesce and contribute to their overall development. Student development is built on a base of the mindfulness they have in any situation that they may face. The UCS offers Mindfulness programming to students in various group courses ranging from outside of the classroom to for-credit courses available through the university.</p>
                     
                         <p>“Students learn formal mindfulness meditation practices that include awareness of physical, cognitive and emotional experiences, as well as informal practices such as mindful eating, studying, communication, and mindful use of cellphones and social media,” Kerri Eness-Potter, Program Coordinator for MIndfulness-Based Programs, said. “They are also introduced to research and application to professional and academic areas.”</p>
@@ -181,6 +180,7 @@ find out if a career in counseling is actually something that I want to do,” B
                     </div>
                     <div class="span12">
                         <blockquote class="full-width">
+                            <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="right">
                             <p>“The focus is not on learning to relax but to actually engage with what is here, even when it isn’t relaxing, in a conscious and discerning manner. This means learning how to be with difficult thoughts and emotions as well as external stressors.</p>
                             <small>Kerri Eness-Potter, Program Coordinator for Mindfulness-Based Programs</small>
                         </blockquote>
