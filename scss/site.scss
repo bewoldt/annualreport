@@ -250,7 +250,7 @@ section {
 		letter-spacing: 0;
 	}
 	&:hover {
-		background: rgba(0,0,0,.01);
+		background: rgba(0,0,0,.05);
 		text-decoration: none;
 		border-top: 5px solid #987900;
 		padding-top: 10px;
@@ -375,9 +375,13 @@ section header .sub-head {
 	padding: 9em 0;
 }
 .video-container {
+	margin: 0 1em;
 	-webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
 	   -moz-box-shadow: 0 0 10px rgba(0,0,0,.3);
 	        box-shadow: 0 0 10px rgba(0,0,0,.3);
+	@media (min-width: 768px) {
+    	margin: 0;
+  	}
 }
 .video-block .video-container {
 	background: #fff;
@@ -446,7 +450,7 @@ section header .sub-head {
 /* Random Shit  
 ========================================================================== */
 .padding-top {
-	@media (min-width: 600px) {
+	@media (min-width: 768px) {
     	margin-top: 93px;
   	}
 }
@@ -484,6 +488,7 @@ section header .sub-head {
 	background-size: cover;
 	background-attachment: fixed;
 	box-shadow: inset 0 0 20px rgba(0,0,0,.5);
+	min-height: 200px;
 }
 .apple-shadow {
 	box-shadow: 0 8px 3px -5px rgba(0, 0, 0, .2);
@@ -569,14 +574,17 @@ section header .sub-head {
 #hanna {
 	background-image: url(../images/hanna-books.jpg);
 }
-#diwali {
-	background-image: url(../images/diwali.jpg);
+#hanna2 {
+	background-image: url(../images/excel/capitol.jpg);
 }
 
 /* ucs */
 #ucs {
-	background: url(../images/billie_holiday.png);border-top: 1px solid #ccc;
+	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
+}
+#readwrite {
+	background: #eee url(../images/bg-wave.png);
 }
 
 

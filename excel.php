@@ -175,6 +175,10 @@
             </div><!-- end row -->
         </section>
 
+        <section id="hanna2" class="quote-block fixed-img">
+            
+        </section>
+
         <section id="readwrite">
             <div class="row-fluid">
                 <div class="span10 offset1">
