@@ -1445,7 +1445,7 @@ img.right {
   .menu-link {
     display: none; }
 
-  #univ-nav {
+  .js #univ-nav {
     clear: none;
     max-height: none;
     float: right; }
