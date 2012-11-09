@@ -44,11 +44,11 @@ $(document).ready(function() {
     });
 
     
-	/* localscroll */
+	/* localscroll
 	$('.sub-nav').localScroll({
 		offset: -98,
 		duration:1200
-	});
+	}); */
 
     /* Scrollorama
     var scrollorama = $.scrollorama({
@@ -84,6 +84,52 @@ $(document).ready(function() {
             // when scroll up or less than aboveHeight, remove the "fixed" class, and the padding-top
             $('#nav-wrapper').removeClass('fixed').next().removeClass('padding-top');
         }
+    });
+
+
+    var sections = $("section");
+    var navigation_links = $(".sub-nav a");
+    
+    sections.waypoint({
+        handler: function(event, direction) {
+        
+            var active_section;
+            active_section = $(this);
+            if (direction === "up") active_section = active_section.prev();
+
+            var active_link = $('.sub-nav a[href="#' + active_section.attr("id") + '"]');
+            navigation_links.removeClass("selected");
+            active_link.addClass("selected");
+
+        }, offset: 10
+    })
+
+
+    // Smooth scrolling for internal links
+    var scrollElement = 'html, body';
+    $('html, body').each(function () {
+        var initScrollTop = $(this).attr('scrollTop');
+        $(this).attr('scrollTop', initScrollTop + 1);
+        if ($(this).attr('scrollTop') == initScrollTop + 1) {
+            scrollElement = this.nodeName.toLowerCase();
+            $(this).attr('scrollTop', initScrollTop);
+            return false;
+        }    
+    });
+
+    $(".sub-nav a").click(function(event) {
+        event.preventDefault();
+        
+        var $this = $(this),
+        target = this.hash,
+        $target = $(target);
+        
+        $(scrollElement).stop().animate({
+            'scrollTop': $target.offset().top
+        }, 1000, 'swing', function() {
+            window.location.hash = target;
+        });
+        
     });
 
 });
