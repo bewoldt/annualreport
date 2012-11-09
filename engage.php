@@ -13,7 +13,6 @@
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/flexslider.css">
     <link rel="stylesheet" href="css/site.css">
     
     <script src="http://use.edgefonts.net/open-sans:n4,i4,n7;alfa-slab-one:n4.js"></script>
