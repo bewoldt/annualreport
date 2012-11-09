@@ -582,9 +582,6 @@ section header .sub-head {
 #hanna {
 	background-image: url(../images/hanna-books.jpg);
 }
-#hanna2 {
-	background-image: url(../images/excel/capitol.jpg);
-}
 
 /* ucs */
 #ucs {
@@ -913,5 +910,18 @@ img.right {
 
 }
 
+#parallax-section {
+	background: #ddd;
+	height: 500px;
+	padding: 0;
+	overflow: hidden;
+}
+#block {
+	position: absolute;
+	top: 0;
+	left: 0;
+	xwidth: 100%;
+	max-width: inherit;
+}
 
 

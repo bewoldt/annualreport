@@ -4,13 +4,15 @@ $(document).ready(function() {
     // add js class to body if javascript enabled
     $('body').addClass('js');
 
-    /* Videos */
+    /* FitVid Videos */
     $("#ESEE").fitVids();
 
-
-    /* Backstretch */
-
-
+    /* Video Screencap Click function */
+    $('#ESEE .screencap').click(function() {
+        $(this).fadeOut(1000);
+        $('#ESEE iframe').attr('src', 'http://www.youtube.com/embed/rRVOh6W4YPk?rel=0&autoplay=1');
+        return false;
+    });
 
     /* Flexslider */
     $('.flexslider').flexslider({
@@ -20,16 +22,13 @@ $(document).ready(function() {
         touch: true
     });
 
-    /* Flexslider */
+    /* Flexslider
     $('#gallery').flexslider({
         animation: "fade",
         slideshow: false,
         touch: true,
         manualControls: ".flex-ctrl li"
-    });
-
-    /* Jquery Stickem */
-    //$('body').stickem();
+    }); */
 
     /* TopBar Menu dropdown */
     var $menu = $('#univ-nav'),
@@ -41,31 +40,34 @@ $(document).ready(function() {
         return false;
     });
 
-    /* Video Screencap Click function */
-    $('#ESEE .screencap').click(function() {
-        $(this).fadeOut(1000);
-        $('#ESEE iframe').attr('src', 'http://www.youtube.com/embed/rRVOh6W4YPk?rel=0&autoplay=1');
-        return false;
-    });
-
-
+    
 	/* localscroll */
 	$('.sub-nav').localScroll({
 		offset: -98,
 		duration:1200
 	});
 
+    /* Scrollorama
+    var scrollorama = $.scrollorama({
+        blocks:'.scrollblock',
+        enablePin: false
+    });
+
+    scrollorama.animate('#block',{ 
+        delay: 0,
+        duration: 1190,
+        property: 'top',
+        start: -200,
+        end: 0
+    }); */
+
 
     /* Navigation Sticky */
-    
-    //Calculate the height of <header>
-    //Use outerHeight() instead of height() if have padding
     var topBarHeight = $('#top-bar').outerHeight();
     var headerHeight = $('#header').outerHeight();
     var navHeight = $('#division-nav').outerHeight();
     var totalHeight = headerHeight + navHeight + topBarHeight;
 
-    // when scroll
     $(window).scroll(function(){
 
         //if scrolled down more than the header's height

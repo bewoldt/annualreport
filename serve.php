@@ -89,7 +89,7 @@
                         <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>
                 </div>
-            </div> <!-- end row -->
+            </div>
         </section>
 
         <section id="sorority-life">
