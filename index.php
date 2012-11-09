@@ -25,7 +25,7 @@
         <div id="header">
             <div id="ESEE">
                 <a href="#" class="screencap">
-                    <img src="images/home_screencap.jpg" alt="">
+                    <img src="images/home_header.jpg" alt="">
                 </a>
                 <iframe width="560" height="315" src="http://www.youtube.com/embed/rRVOh6W4YPk?rel=0" frameborder="0" allowfullscreen></iframe>
             </div>
