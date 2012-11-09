@@ -127,13 +127,13 @@
                 <div class="span12">
                     <div id="saturdays-gallery" class="flexslider">
                         <ul class="slides">
-                            <li><img src="images/serve/saturdays_a.jpg" /></li>
-                            <li><img src="images/serve/saturdays_b.jpg" /></li>
-                            <li><img src="images/serve/saturdays_c.jpg" /></li>
-                            <li><img src="images/serve/saturdays_d.jpg" /></li>
-                            <li><img src="images/serve/saturdays_e.jpg" /></li>
-                            <li><img src="images/serve/saturdays_f.jpg" /></li>
-                            <li><img src="images/serve/saturdays_g.jpg" /></li>
+                            <li><img src="images/serve/saturdays_a.jpg" alt="" /></li>
+                            <li><img src="images/serve/saturdays_b.jpg" alt="" /></li>
+                            <li><img src="images/serve/saturdays_c.jpg" alt="" /></li>
+                            <li><img src="images/serve/saturdays_d.jpg" alt="" /></li>
+                            <li><img src="images/serve/saturdays_e.jpg" alt="" /></li>
+                            <li><img src="images/serve/saturdays_f.jpg" alt="" /></li>
+                            <li><img src="images/serve/saturdays_g.jpg" alt="" /></li>
                         </ul>
                     </div>
                 </div>

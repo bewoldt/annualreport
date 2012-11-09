@@ -159,9 +159,6 @@
                         <h1 class="title">Mindfulness Practice Supports Student Success</h1>
                         <h3 class="sub-head"></h3>
                     </header>
-                    <div class="video-container">
-                        <!--<img src="images/picture-place.gif" alt=""> -->
-                    </div>
                     <br>
                     <div class="row-fluid">
                         <div class="span3 meta">
@@ -171,11 +168,12 @@
                             </ul>
                         </div>
                         <div class="span9">
-                        <p><span class="dropcap">A</span>ccording to the University Counseling Services (UCS), the education students gain during their time at the University of Iowa is a 4-year experience that is both academic and nonacademic. The education they build through these experiences coalesce and contribute to their overall development. Student development is built on a base of the mindfulness they have in any situation that they may face. The UCS offers Mindfulness programming to students in various group courses ranging from outside of the classroom to for-credit courses available through the university.</p>
+                            <p><span class="dropcap">A</span>ccording to the University Counseling Services (UCS), the education students gain during their time at the University of Iowa is a 4-year experience that is both academic and nonacademic. The education they build through these experiences coalesce and contribute to their overall development. Student development is built on a base of the mindfulness they have in any situation that they may face. The UCS offers Mindfulness programming to students in various group courses ranging from outside of the classroom to for-credit courses available through the university.</p>
                     
-                        <p>“Students learn formal mindfulness meditation practices that include awareness of physical, cognitive and emotional experiences, as well as informal practices such as mindful eating, studying, communication, and mindful use of cellphones and social media,” Kerri Eness-Potter, Program Coordinator for MIndfulness-Based Programs, said. “They are also introduced to research and application to professional and academic areas.”</p>
+                            <p>“Students learn formal mindfulness meditation practices that include awareness of physical, cognitive and emotional experiences, as well as informal practices such as mindful eating, studying, communication, and mindful use of cellphones and social media,” Kerri Eness-Potter, Program Coordinator for MIndfulness-Based Programs, said. “They are also introduced to research and application to professional and academic areas.”</p>
 
-                        <p>In the 2011-2012 academic year, UCs offered two non-academic courses titled “Mindfulness Foundations” and “Mindfulness: Being Here With It All.” Both of these classes contained eight-week group sessions that differ in scope. The “Mindfulness Foundations” course focused upon teaching students the secular, personal practices of mindfulness. It also focused upon the conceptual and theoretical aspects of mindfulness and the academic importance of mindfulness when looking at research and other resources. The course, “Mindfulness: Being Here With It All” is a course that is meant for first-year students to help them transition from prior life to university life by teaching them the skills they can use in relation to personal stresses internally and externally.</p>
+                            <p>In the 2011-2012 academic year, UCs offered two non-academic courses titled “Mindfulness Foundations” and “Mindfulness: Being Here With It All.” Both of these classes contained eight-week group sessions that differ in scope. The “Mindfulness Foundations” course focused upon teaching students the secular, personal practices of mindfulness. It also focused upon the conceptual and theoretical aspects of mindfulness and the academic importance of mindfulness when looking at research and other resources. The course, “Mindfulness: Being Here With It All” is a course that is meant for first-year students to help them transition from prior life to university life by teaching them the skills they can use in relation to personal stresses internally and externally.</p>
+                        </div>
                     </div>
                 </div>
                 <div class="row-fluid">
@@ -207,15 +205,15 @@
                    <div id="readwrite-gallery" class="flexslider">
                         <ul class="slides">
                             <li>
-                                <img src="images/readwrite_slide1.jpg" />
+                                <img src="images/readwrite_slide1.jpg" alt="" />
                                 <p class="flex-caption">Caption Goes Here</p>
                             </li>
                             <li>
-                                <img src="images/excel/read_write_slide2.jpg" />
+                                <img src="images/excel/read_write_slide2.jpg" alt="" />
                                 <p class="flex-caption">Caption Goes Here</p>
                             </li>
                             <li>
-                                <img src="images/excel/read_write_slide3.jpg" />
+                                <img src="images/excel/read_write_slide3.jpg" alt="" />
                                 <p class="flex-caption">Caption Goes Here</p>
                             </li>
                         </ul>

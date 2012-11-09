@@ -86,7 +86,7 @@ $(document).ready(function() {
         }
     });
 
-
+    /* Waypoints - adding .selected class to sub-nav links when scrolled into */
     var sections = $("section");
     var navigation_links = $(".sub-nav a");
     
@@ -105,7 +105,7 @@ $(document).ready(function() {
     })
 
 
-    // Smooth scrolling for internal links
+    // Waypoints - smooth scrolling for internal links
     var scrollElement = 'html, body';
     $('html, body').each(function () {
         var initScrollTop = $(this).attr('scrollTop');
@@ -116,7 +116,6 @@ $(document).ready(function() {
             return false;
         }    
     });
-
     $(".sub-nav a").click(function(event) {
         event.preventDefault();
         
