@@ -101,7 +101,7 @@ $(document).ready(function() {
             navigation_links.removeClass("selected");
             active_link.addClass("selected");
 
-        }, offset: 10
+        }, offset: 102
     })
 
 
