@@ -56,8 +56,8 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">
-                        <h1 class="title">The Cultural Centers</h1>
-                        <h3 class="sub-head">Providing Greater Understanding for Student Inclusion</h3>
+                        <h1 class="title">Fostering Inclusion</h1>
+                        <h3 class="sub-head">Cultural Centers See an Increase in Meaningful Activity and Interaction</h3>
                     </header>
                     <div id="cultural-centers-video" class="video-container">
                         <img src="images/stretch/cultural-centers-still.jpg" alt="">
@@ -66,37 +66,41 @@
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
-                                <li>Department Name Goes Here</li>
+                                <li>Center for Student Involvement and Leadership</li>
                                 <li><em>Words by <span>Maddy Osman</span></em></li>
                                 <li><em>Video by <span>Scott Lahn</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">T</span>he University of Iowa Cultural and Resource Centers (UICRC) on campus are a resource for student on campus to support underrepresented groups on campus and provide empowerment and opportunities to make connections on campus. The UICRC do not only do this, but create a learning environment for students who are not necessarily affiliated with these groups, but want to get to know other cultures on campus. Within this, students can find allies on campus, understand how the university works, and get to know different people on campus ranging from students to faculty.</p>
-                            <p>“It develops and fosters relationships that are often lost on such a large campus,” Preston Keith, the manager of the Lesbian Gay, Bisexual, and Transgender Resource Center, said. “It is pretty much a home away from home for each and every student to feel comfortable and safe.”</p>
+                            <p><span class="dropcap">T</span>he University of Iowa Cultural and Resource Centers (UICRC's) provide space, programming, and community for underrepresented groups on campus. The Centers also play an important role in facilitating cross-cultural experiences for students who want to broaden their exposure to peers from diverse cultures and backgrounds. Through these experiences, students  find allies, form friendships, learn from peers about University life, and also .</p>
+                            <p>“[The Center] develops and fosters relationships that are often lost on such a large campus,” Preston Keith, the manager of the Lesbian Gay, Bisexual, and Transgender Resource Center, said. “It is pretty much a home away from home for each and every student to feel comfortable and safe.”</p>
                         </div>
                     </div>
                     <div class="row-fluid">
                         <div class="span12 img-callout">
                             <img src="images/culture-2.png" alt="">
                         </div>
+<<<<<<< HEAD
                     </div>
                     <div class="row-fluid">
                         <div class="span9 offset3">
+=======
+                        <div class="span9 offset3" contenteditable="true">
+>>>>>>> text edits
                             <p>There are four UICRC centers situated on campus including: Afro-American Cultural Center, Asian Pacific American Cultural Center, Latino Native American Cultural Center, and the Lesbian, Gay, Bisexual, Transgender Resource Center. In the last year, the UICRC has been successful in starting new initiatives and creating new staff changes. This culminates in more attention to center relationships while still recognizing newly created student groups, constituency groups, and community members.</p>
                         </div>
                     </div>
                     <div class="row-fluid">
                         <div class="span12">
                             <blockquote class="full-width">
-                                <p>“The centers are a direct representation of the university's commitment and mission for diversity and inclusion all of students”</p>
+                                <p>“The Centers are a direct representation of the university's commitment and mission for diversity and inclusion all of students”</p>
                                 <small>Preston Keith</small>
                             </blockquote>
                         </div>
                     </div>
                     <div class="row-flulid">
                         <div class="span9 offset3">
-                           <p>The total usage of the multicultural centers in the fiscal years 2011-2012 was 28,769 person visits. From 2011 to 2012 FY, there was a 10.5% increase of visitations to the centers with the Asian Pacific American Cultural Center receiving the largest percentage of increase in visits (39%).</p>
+                           <p>From 2011 to 2012, there was a 10.5% increase in visitrs to the Centers, with the Asian Pacific American Cultural Center (APACC) receiving the largest percentage of increase in visits (39%). During the 2011-2012 school year, the Centers saw a total of 28,769 visitors. </p>
                         </div>
                     </div><!-- end row -->
                 </div>
