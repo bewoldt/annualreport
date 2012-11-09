@@ -105,7 +105,7 @@
 
         <section id="kotheid" class="video-block">
             <div class="row-fluid">
-                <div class="span8 offset2">
+                <div class="span8 offset1">
                     <div id="kotheid-video" class="video-container">
                         <img src="http://placehold.it/742x416/777&text=Video Goes Here" alt="">
                         <h1>Student Profile - Kotheid</h1>
