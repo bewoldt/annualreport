@@ -48,7 +48,7 @@
                 <li><a href="#cultural-centers">Cultural Centers</a></li>
                 <li><a href="#kotheid">Kotheid</a></li>
                 <li><a href="#change-teams">Change Teams</a></li>
-                <li><a href="#walkitout">Walk It Out</a></li>
+                <li><a href="#walkitout-quote">Walk It Out</a></li>
             </ul>
         </div>
     
@@ -75,18 +75,26 @@
                             <p><span class="dropcap">T</span>he University of Iowa Cultural and Resource Centers (UICRC) on campus are a resource for student on campus to support underrepresented groups on campus and provide empowerment and opportunities to make connections on campus. The UICRC do not only do this, but create a learning environment for students who are not necessarily affiliated with these groups, but want to get to know other cultures on campus. Within this, students can find allies on campus, understand how the university works, and get to know different people on campus ranging from students to faculty.</p>
                             <p>“It develops and fosters relationships that are often lost on such a large campus,” Preston Keith, the manager of the Lesbian Gay, Bisexual, and Transgender Resource Center, said. “It is pretty much a home away from home for each and every student to feel comfortable and safe.”</p>
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span12 img-callout">
                             <img src="images/culture-2.png" alt="">
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span9 offset3">
                             <p>There are four UICRC centers situated on campus including: Afro-American Cultural Center, Asian Pacific American Cultural Center, Latino Native American Cultural Center, and the Lesbian, Gay, Bisexual, Transgender Resource Center. In the last year, the UICRC has been successful in starting new initiatives and creating new staff changes. This culminates in more attention to center relationships while still recognizing newly created student groups, constituency groups, and community members.</p>
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span12">
                             <blockquote class="full-width">
                                 <p>“The centers are a direct representation of the university's commitment and mission for diversity and inclusion all of students”</p>
                                 <small>Preston Keith</small>
                             </blockquote>
                         </div>
+                    </div>
+                    <div class="row-flulid">
                         <div class="span9 offset3">
                            <p>The total usage of the multicultural centers in the fiscal years 2011-2012 was 28,769 person visits. From 2011 to 2012 FY, there was a 10.5% increase of visitations to the centers with the Asian Pacific American Cultural Center receiving the largest percentage of increase in visits (39%).</p>
                         </div>
@@ -211,16 +219,38 @@
                             <p>In terms of quality, the music transitions, the clothing the models wore, and even the containment of the 100+ models backstage, every aspect showed improvement from the year before.</p>
                            <p>“Most importantly, this year’s show had participants interact more with one another while educating them on unfamiliar topics at the same time,” Ivory said.</p>
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span12">
                             <blockquote class="full-width">
                                 <p style="color: #fc89ad;">“We learned and went through a lot as an executive board, but we all grew from it, both as a team and as individuals.”</p>
                                 <small style="color: #fc89ad;">Evan Ivory</small>
                             </blockquote>
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span9 offset3">
                             <p>The faces of WIO also promoted diversity by demonstrating that a cultured group of students can work and grow together to achieve excellence and higher education, all while enjoying themselves. The fashion show pushed their participants to actively seek out ways to meet people who are different from them. Furthermore, participating in the Walk It Out fashion show allowed several students the opportunity to step outside their comfort zone and participate in a character altering event.</p>
                         </div>
                     </div><!-- end row -->
+                </div>
+            </div><!-- end row -->
+            <div class="row-fluid">
+                <div class="span12">
+                    <div id="walkitout-gallery" class="flexslider">
+                        <ul class="slides">
+                            <li><img src="images/stretch/walk_a.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_b.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_c.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_e.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_g.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_h.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_i.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_j.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_k.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_l.jpg" alt="" /></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </section>

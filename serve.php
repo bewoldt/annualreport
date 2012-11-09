@@ -156,27 +156,13 @@
                 <div class="span12">
                     <div id="saturdays-gallery" class="flexslider">
                         <ul class="slides">
-                            <li>
-                                <img src="images/serve/saturdays_a.jpg" />
-                            </li>
-                            <li>
-                                <img src="images/serve/saturdays_b.jpg" />
-                            </li>
-                            <li>
-                                <img src="images/serve/saturdays_c.jpg" />
-                            </li>
-                            <li>
-                                <img src="images/serve/saturdays_d.jpg" />
-                            </li>
-                            <li>
-                                <img src="images/serve/saturdays_e.jpg" />
-                            </li>
-                            <li>
-                                <img src="images/serve/saturdays_f.jpg" />
-                            </li>
-                            <li>
-                                <img src="images/serve/saturdays_g.jpg" />
-                            </li>
+                            <li><img src="images/serve/saturdays_a.jpg" /></li>
+                            <li><img src="images/serve/saturdays_b.jpg" /></li>
+                            <li><img src="images/serve/saturdays_c.jpg" /></li>
+                            <li><img src="images/serve/saturdays_d.jpg" /></li>
+                            <li><img src="images/serve/saturdays_e.jpg" /></li>
+                            <li><img src="images/serve/saturdays_f.jpg" /></li>
+                            <li><img src="images/serve/saturdays_g.jpg" /></li>
                         </ul>
                     </div>
                 </div>

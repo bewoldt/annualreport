@@ -27,6 +27,10 @@ $(document).ready(function() {
         move: 1,
         directionNav: false
     });
+    $('#walkitout-gallery').flexslider({
+        animation: "slide",
+        itemWidth: 333
+    });
 
 
     /* TopBar Menu dropdown */
