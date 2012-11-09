@@ -38,11 +38,11 @@
                 <li>
                     <a href="index.php">Home<em>&nbsp;</em></a>
                 </li>
-                <li class="active"><a href="excel.php">Excel<em>Set high standards</em></a></li>
+                <li><a href="excel.php">Excel<em>Set high standards</em></a></li>
                 <li><a href="stretch.php">Stretch<em>diversity</em></a> </li>
                 <li><a href="engage.php">Engage<em>Get involved</em></a></li>
-                <li> <a href="choose.php">Choose<em>Make decisions</em></a></li>
-                <li> <a href="serve.php">Serve<em>community</em></a></li>
+                <li><a href="choose.php">Choose<em>Make decisions</em></a></li>
+                <li class="active"> <a href="serve.php">Serve<em>community</em></a></li>
             </ul>
             <ul class="sub-nav clearfix">
                 <li><a href="#serve-wrac">Volunteerism at WRAC</a></li>

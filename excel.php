@@ -85,23 +85,22 @@
                         	<small>Sarah Hansen, Assistant VP for Assessment & Strategic Initiatives, Division of Student Life</small>
                         </blockquote>
 
-                        	<p>For Bell, it was an unexpected honor to receive this award because she had not heard of the Meet the Challenge awards before. Her work was for her own pleasure of serving the community rather than being something with an end goal. 
-“I was honored as soon as [I was] notified of my nomination, but even more so after seeing how prestigious the Iowa Challenge is,” Bell said.</p>
+                        	<p>For Bell, it was an unexpected honor to receive this award because she had not heard of the Meet the Challenge awards before. Her work was for her own pleasure of serving the community rather than being something with an end goal. “I was honored as soon as [I was] notified of my nomination, but even more so after seeing how prestigious the Iowa Challenge is,” Bell said.</p>
 
-<p>Volunteering with RVAP was something that Bell desired to do to compliment her work in the classroom as a psychology major. Her plans after graduation are to have a therapy practice. She felt that volunteering would have the benefit of serving the Iowa City community as well as learning something new. Working there was something she could feel a sense of pride about.</p>
+                        <p>Volunteering with RVAP was something that Bell desired to do to compliment her work in the classroom as a psychology major. Her plans after graduation are to have a therapy practice. She felt that volunteering would have the benefit of serving the Iowa City community as well as learning something new. Working there was something she could feel a sense of pride about.</p>
 
-<p>“I thought this would be a good way to help people, get experience in the field and
-find out if a career in counseling is actually something that I want to do,” Bell said.</p>
+                        <p>“I thought this would be a good way to help people, get experience in the field and
+                        find out if a career in counseling is actually something that I want to do,” Bell said.</p>
 
-<p>Volunteering for RVAP was one of the many things that Bell was apart of on campus. Other student organizations and groups that she has had a hand in during her 4-year stay at the UI include Simply Food, the Local Foods Connection, and the Iowa City Farmers Market.</p>
+                        <p>Volunteering for RVAP was one of the many things that Bell was apart of on campus. Other student organizations and groups that she has had a hand in during her 4-year stay at the UI include Simply Food, the Local Foods Connection, and the Iowa City Farmers Market.</p>
 
-<p>The awards have distinguished students among their peers as not just a way to recognize the unique abilities of students, but to encourage others. These five awards for the expectations of the Iowa Challenge set the standard for what excellence is and what all students should strive to do at the University of Iowa and beyond. </p>
+                        <p>The awards have distinguished students among their peers as not just a way to recognize the unique abilities of students, but to encourage others. These five awards for the expectations of the Iowa Challenge set the standard for what excellence is and what all students should strive to do at the University of Iowa and beyond. </p>
 
-<p>“We hope that seeing the amazing things our Meet the Challenge winners are doing will inspire all students to use the challenge as a guide for their own path to success,” Hansen said.</p>
+                        <p>“We hope that seeing the amazing things our Meet the Challenge winners are doing will inspire all students to use the challenge as a guide for their own path to success,” Hansen said.</p>
 
-<p>Bell graduated with a degree in Psychology and a minor in Health Promotion in 2012. She has continued engaging with the Iowa City community by working as the Family Service Specialist at the Local Foods Connection as well as the manage the Iowa City Farmers Market. </p>
+                        <p>Bell graduated with a degree in Psychology and a minor in Health Promotion in 2012. She has continued engaging with the Iowa City community by working as the Family Service Specialist at the Local Foods Connection as well as the manage the Iowa City Farmers Market. </p>
 
-<p>Other award winners for the 2011-2012 academic year include Rachel Kentor (Excel Award), Kotheid Nicoue (Stretch Award), Jason Heard (Choose Award), and Ben Phol (Serve Award). </p>
+                        <p>Other award winners for the 2011-2012 academic year include Rachel Kentor (Excel Award), Kotheid Nicoue (Stretch Award), Jason Heard (Choose Award), and Ben Phol (Serve Award). </p>
 
                     </div>
                 </div>
@@ -180,7 +179,7 @@ find out if a career in counseling is actually something that I want to do,” B
                     </div>
                     <div class="span12">
                         <blockquote class="full-width">
-                            <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="right">
+                            <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="right" style="margin-bottom: -1.5em;">
                             <p>“The focus is not on learning to relax but to actually engage with what is here, even when it isn’t relaxing, in a conscious and discerning manner. This means learning how to be with difficult thoughts and emotions as well as external stressors.</p>
                             <small>Kerri Eness-Potter, Program Coordinator for Mindfulness-Based Programs</small>
                         </blockquote>

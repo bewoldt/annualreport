@@ -34,10 +34,8 @@
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
             <ul id="nav" class="clearfix">
-                <li>
-                    <a href="index.php">Home<em>&nbsp;</em></a>
-                </li>
-                <li class="active"><a href="excel.php">Excel<em>Set high standards</em></a></li>
+                <li class="active"><a href="index.php">Home<em>&nbsp;</em></a></li>
+                <li><a href="excel.php">Excel<em>Set high standards</em></a></li>
                 <li><a href="stretch.php">Stretch<em>diversity</em></a> </li>
                 <li><a href="engage.php">Engage<em>Get involved</em></a></li>
                 <li> <a href="choose.php">Choose<em>Make decisions</em></a></li>
