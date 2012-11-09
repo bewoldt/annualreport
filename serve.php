@@ -45,52 +45,11 @@
                 <li class="active"> <a href="serve.php">Serve<em>community</em></a></li>
             </ul>
             <ul class="sub-nav clearfix">
-                <li><a href="#serve-wrac">Volunteerism at WRAC</a></li>
-                <li><a href="#sorority-services">Fraternity Services Video</a></li>
                 <li><a href="#sorority-life">Fraternity and Sorority Life</a></li>
+                <li><a href="#sorority-services">Fraternity Services Video</a></li>
                 <li><a href="#saturdays-in-service">Saturdays In Service</a></li>
             </ul>
         </div>
-
-         <section id="serve-wrac">
-            <div class="row-fluid">
-                <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Volunteerism At WRAC</h1>
-                        <h3 class="sub-head">Sub Heading Goes Here</h3>
-                    </header>
-                    <div class="row-fluid">
-                        <div class="span3 meta">
-                           <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Goes Here</span></em></li>
-                            </ul>
-                        </div>
-                        <div class="span9">
-                            <p><span class="dropcap">L</span>orem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-                            <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus. Etiam porta sem malesuada magna mollis euismod.</p>
-                            <blockquote>
-                                <p>"Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum."</p>
-                                <small>Gordon Parks</small>
-                            </blockquote>
-                            <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum.</p>
-                        </div>
-                    </div><!-- end row -->
-                </div>
-            </div><!-- end row -->
-        </section>
-
-        <section id="sorority-services" class="video-block fixed-img">
-            <div class="row-fluid">
-                <div class="span8 offset2">
-                    <div id="sorority-services-video" class="video-container">
-                        <img src="http://placehold.it/642x360/777&text=Video Goes Here" alt="">
-                        <h1>Fraternity and Sorority Life</h1>
-                        <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
 
         <section id="sorority-life">
             <div class="row-fluid">
@@ -141,6 +100,18 @@
                     </div><!-- end row -->
                 </div>
             </div><!-- end row -->
+        </section>
+
+        <section id="sorority-services" class="video-block fixed-img">
+            <div class="row-fluid">
+                <div class="span8 offset2">
+                    <div id="sorority-services-video" class="video-container">
+                        <img src="http://placehold.it/642x360/777&text=Video Goes Here" alt="">
+                        <h1>Fraternity and Sorority Life</h1>
+                        <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <section id="saturdays-in-service">

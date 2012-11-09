@@ -76,26 +76,37 @@
                             <p>“[The Center] develops and fosters relationships that are often lost on such a large campus,” Preston Keith, the manager of the Lesbian Gay, Bisexual, and Transgender Resource Center, said. “It is pretty much a home away from home for each and every student to feel comfortable and safe.”</p>
                         </div>
                     </div>
+                    <hr>
                     <div class="row-fluid">
-                        <div class="span12 img-callout">
-                            <img src="images/culture-2.png" alt="">
+                        <div class="span3">
+                            <img src="images/stretch/centers/afro_american.jpg" alt="">
+                            <br>
+                            <p class="smtxt">Afro-Amercian Cultural Center</p>
                         </div>
-                    </div>
-                    <div class="row-fluid">
-                        <div class="span9 offset3" contenteditable="true">
-                            <p>There are four UICRC centers situated on campus including: Afro-American Cultural Center, Asian Pacific American Cultural Center, Latino Native American Cultural Center, and the Lesbian, Gay, Bisexual, Transgender Resource Center. In the last year, the UICRC has been successful in starting new initiatives and creating new staff changes. This culminates in more attention to center relationships while still recognizing newly created student groups, constituency groups, and community members.</p>
+                        <div class="span3">
+                            <img src="images/stretch/centers/lgbt.jpg" alt="">
+                            <p class="smtxt">Lesbian, Gay, Bisexual, and Transgender Cultural Center</p>
+                        </div>
+                        <div class="span3">
+                            <img src="images/stretch/centers/asian_pacific.jpg" alt="">
+                            <p class="smtxt">Latino Native American Cultural Center</p>
+                        </div>
+                        <div class="span3">
+                            <img src="images/stretch/centers/latino_native_american.jpg" alt="">
+                            <p class="smtxt">Asian Pacific American Cultural Center</p>
                         </div>
                     </div>
                     <div class="row-fluid">
                         <div class="span12">
-                            <blockquote class="full-width">
+                            <blockquote class="full-width" style="border-top: 0;">
                                 <p>“The Centers are a direct representation of the university's commitment and mission for diversity and inclusion all of students”</p>
                                 <small>Preston Keith</small>
                             </blockquote>
                         </div>
                     </div>
-                    <div class="row-flulid">
-                        <div class="span9 offset3">
+                    <div class="row-fluid">
+                        <div class="span9 offset3" contenteditable="true">
+                            <p>There are four UICRC centers situated on campus including: Afro-American Cultural Center, Asian Pacific American Cultural Center, Latino Native American Cultural Center, and the Lesbian, Gay, Bisexual, Transgender Resource Center. In the last year, the UICRC has been successful in starting new initiatives and creating new staff changes. This culminates in more attention to center relationships while still recognizing newly created student groups, constituency groups, and community members.</p>
                            <p>From 2011 to 2012, there was a 10.5% increase in visitrs to the Centers, with the Asian Pacific American Cultural Center (APACC) receiving the largest percentage of increase in visits (39%). During the 2011-2012 school year, the Centers saw a total of 28,769 visitors. </p>
                         </div>
                     </div><!-- end row -->
