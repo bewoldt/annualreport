@@ -38,8 +38,8 @@
                 <li>
                     <a href="index.php">Home<em>&nbsp;</em></a>
                 </li>
-                <li class="active"><a href="excel.php">Excel<em>Set high standards</em></a></li>
-                <li><a href="stretch.php">Stretch<em>diversity</em></a> </li>
+                <li><a href="excel.php">Excel<em>Set high standards</em></a></li>
+                <li class="active"><a href="stretch.php">Stretch<em>diversity</em></a> </li>
                 <li><a href="engage.php">Engage<em>Get involved</em></a></li>
                 <li> <a href="choose.php">Choose<em>Make decisions</em></a></li>
                 <li> <a href="serve.php">Serve<em>community</em></a></li>
@@ -246,7 +246,6 @@
                             <li><img src="images/stretch/walk_g.jpg" alt="" /></li>
                             <li><img src="images/stretch/walk_h.jpg" alt="" /></li>
                             <li><img src="images/stretch/walk_i.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_j.jpg" alt="" /></li>
                             <li><img src="images/stretch/walk_k.jpg" alt="" /></li>
                             <li><img src="images/stretch/walk_l.jpg" alt="" /></li>
                         </ul>
