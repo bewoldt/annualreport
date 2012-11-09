@@ -177,6 +177,8 @@
 
                         <p>In the 2011-2012 academic year, UCs offered two non-academic courses titled “Mindfulness Foundations” and “Mindfulness: Being Here With It All.” Both of these classes contained eight-week group sessions that differ in scope. The “Mindfulness Foundations” course focused upon teaching students the secular, personal practices of mindfulness. It also focused upon the conceptual and theoretical aspects of mindfulness and the academic importance of mindfulness when looking at research and other resources. The course, “Mindfulness: Being Here With It All” is a course that is meant for first-year students to help them transition from prior life to university life by teaching them the skills they can use in relation to personal stresses internally and externally.</p>
                     </div>
+                </div>
+                <div class="row-fluid">
                     <div class="span12">
                         <blockquote class="full-width">
                             <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="right" style="margin-bottom: -1.5em;">
@@ -184,6 +186,8 @@
                             <small>Kerri Eness-Potter, Program Coordinator for Mindfulness-Based Programs</small>
                         </blockquote>
                     </div>
+                </div>
+                <div class="row-fluid">
                     <div class="span9 offset3">
                         <p>Between 15-20 students attended each section of the two courses. In the for-credit courses, students are achieving high scores. The student evaluations conducted at the closing of each course have come back very positive. Although the program has been at the University of Iowa Hospitals and Clinics since 1996, the mindfulness courses started in 2009. It is still in the pilot research phase, but the effect that it has had on students is evident.</p>
                         <p>“Students do quite well in the for credit classes, though most comment that they are more work than what they expected!” Eness-Potter said.</p>

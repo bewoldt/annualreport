@@ -731,7 +731,7 @@ section {
   text-transform: uppercase; }
 
 .challenge-bot {
-  background: url(../images/border-bottom.png) no-repeat center 10px;
+  background: url(../images/borders.png) no-repeat center 10px;
   color: #fff;
   font-size: 13px;
   font-weight: bold;
@@ -845,31 +845,39 @@ section {
 
 /* ----- .sub-nav ----- */
 .sub-nav {
-  background: #fff;
+  background: #ffffff;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, white 51%, whitesmoke 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(51%, white), color-stop(100%, whitesmoke));
+  background: -webkit-linear-gradient(top, white 51%, whitesmoke 100%);
+  background: -o-linear-gradient(top, white 51%, whitesmoke 100%);
+  background: -ms-linear-gradient(top, white 51%, whitesmoke 100%);
+  background: linear-gradient(to bottom, white 51%, whitesmoke 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f5f5f5',GradientType=0 );
+  border-bottom: 1px solid #fff;
   list-style: none;
   margin: 0 auto;
-  padding: 3px 0 5px;
+  padding: 3px 0 4px;
   text-align: center;
   width: 100%; }
-
-.sub-nav li {
-  display: inline;
-  margin-right: 10px; }
-
-.sub-nav li a {
-  color: #444;
-  display: inline-block;
-  font-size: 11px;
-  padding: 3px 10px;
-  text-transform: uppercase; }
-
-.sub-nav li a:hover {
-  text-decoration: none; }
+  .sub-nav li {
+    display: inline;
+    margin-right: 10px; }
+    .sub-nav li a {
+      color: #444;
+      display: inline-block;
+      font-size: 11px;
+      padding: 3px 10px;
+      text-transform: uppercase; }
 
 .sub-nav li .selected {
   background: #EEE;
   border-radius: 18px;
-  box-shadow: inset 0 1px 1px #AAA; }
+  -webkit-box-shadow: inset 0 1px 1px #888;
+  -moz-box-shadow: inset 0 1px 1px #888;
+  box-shadow: inset 0 1px 1px #888; }
+  .sub-nav li .selected:hover {
+    text-decoration: none; }
 
 /* headings */
 .header {
@@ -1147,6 +1155,13 @@ section header .sub-head {
 
 /* Stretch  
 ========================================================================== */
+#stretch #header {
+  background: url(../images/stretch/stretch_header_md.jpg) no-repeat center top;
+  background-size: cover; }
+  @media (min-width: 768px) {
+    #stretch #header {
+      background-image: url(../images/stretch/stretch_header_lg.jpg); } }
+
 /* cultural centers */
 #cultural-centers {
   background: #eeeeee url(../images/bg-wave.png); }
