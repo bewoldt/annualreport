@@ -1565,7 +1565,20 @@ img.right {
     widows: 3; }
 
   h2, h3 {
-    page-break-after: avoid; } }
+    page-break-after: avoid; }
+
+  /* custom styles */
+  #division-nav, #nav-wrapper, #header, #footer {
+    display: none; }
+
+  section header .title {
+    font-size: 30px; }
+
+  blockquote.full-width {
+    border: 0; }
+
+  blockquote.full-width p {
+    font-size: 16px; } }
 /* @import animation.scss */
 .animated {
   -webkit-animation-fill-mode: both;
