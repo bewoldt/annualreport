@@ -2,7 +2,7 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -27,7 +27,7 @@
         <div id="header">
              <div class="challenge-heading fadeInDown">
                 <p class="challenge-top">Division of Student Life</p>
-                <h1>Choose</h1>
+                <h1>Serve</h1>
                 <p class="challenge-bot">2012 Annual Report</p>
             </div>
         </div>
@@ -110,20 +110,28 @@
                         <div class="span9">
                             <p><span class="dropcap">F</span>raternity and Sorority Life at the University of Iowa is not just known for their abilities to help students connect to others on campus, but also for their effort to give back to the community. Dance Marathon, an annual charity,  is only one of many that Fraternity and Sorority Life contributes to each year. As a whole, the group donates their time and resources to the Child’s Miracle Network, the Juvenile Diabetes Foundation, the American Heart Association, Susan G. Komen Breast Cancer Foundation, Make a Wish Foundation, Crisis Center of Iowa City, Big Brothers and Big Sisters, American Cancer Society, Ronald McDonald Foundation, Habitat for Humanity, Mark Twain Elementary of Iowa City, and Dance Marathon. In 2011, the Fraternity/Sorority Community contributed to over 22,000 hours of community service and donated over $382,000 to their various organizations.</p>
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span12">
                             <blockquote class="full-width">
                                 <p>Delta Delta Delta raised $22,000 for St. Jude’s Children’s Hospital in 2011. Another sorority, Zeta Tau Alpha, focused their efforts on Susan G. Komen’s Breast Cancer Foundation, raising $75,000 for the cause.</p>
                             </blockquote>
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span9 offset3">
                             <p>In the Fall of 2011, the Fraternity and Sorority Life hosted their annual United Way 5K on Sunday, October 16th, to begin Homecoming week. This 3.1 mile race took place at Lower City Park to help raise awareness and funds for the United Way of Johnson County. The foundation unifies the Iowa City community to give, advocate, and volunteer to positively impact the conditions of Iowa City and measurably improve lives. All proceeds from the race benefited the United Way of Johnson County.</p>
                             <p>Every year the women of Zeta Tau Alpha come together to raise money for our breast cancer awareness philanthropy. To raise money we hold our annual 5K races every October, in 2011 we raised over $17,500. Before the day of the race we do a lot of marketing throughout the community. We start by handing out our “Think Pink” breast cancer ribbons at several University of Iowa football games. We see this as a great way of spreading the word about breast cancer awareness to a wider variety of people. In addition to the “Think Pink” we set up community fund raising nights at local restaurants.  This has worked very well for us, and we also see it as a significant way to get involved in the fight against breast cancer. Another big benefactor in our race has been the Greek Community. Every year (all) of the chapters on campus have come out to support our philanthropy, and we cannot thank them enough.</p>
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span12 img-callout">
                             <div id="greek-video" class="video-container">
                                 <img src="http://placehold.it/830x457/777&text=Video Goes Here" alt="">
                              </div>
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span9 offset3">
                             <h2>Story from Tri Delta:</h2>
                             <p>Last year in particular, Phi Kappa Psi had members of their fraternity walk with backpacks on filled with 100 stones that each way 1 pound, with names of women who have, or have had, breast cancer. Zeta Tau Alpha, and many other people, saw this as one of the most genuine, caring, things, to do to support breast cancer awareness. The weeks before the race, and getting people involved is what makes our philanthropy very successful, but we also do a lot the day of the race. On the day of the race we have a silent auction, a raffle, prizes, awards for runners, free massages and a live DJ. When the race is finished we have a table full of food for the runners, we have had donations from places such as Buffalo Wild Wings, Cheba Hut, and Panera.</p>
@@ -142,10 +150,40 @@
                         <h1 class="title">Saturdays in Service</h1>
                         <h3 class="sub-head">Sub Heading Goes Here</h3>
                     </header>
-                    <div>
-                        <img src="http://placehold.it/830x400/777&text=Photo Gallery Goes Here" alt="">
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span12">
+                    <div id="saturdays-gallery" class="flexslider">
+                        <ul class="slides">
+                            <li>
+                                <img src="images/serve/saturdays_a.jpg" />
+                            </li>
+                            <li>
+                                <img src="images/serve/saturdays_b.jpg" />
+                            </li>
+                            <li>
+                                <img src="images/serve/saturdays_c.jpg" />
+                            </li>
+                            <li>
+                                <img src="images/serve/saturdays_d.jpg" />
+                            </li>
+                            <li>
+                                <img src="images/serve/saturdays_e.jpg" />
+                            </li>
+                            <li>
+                                <img src="images/serve/saturdays_f.jpg" />
+                            </li>
+                            <li>
+                                <img src="images/serve/saturdays_g.jpg" />
+                            </li>
+                        </ul>
                     </div>
-                    <br>
+                </div>
+            </div>
+            <br>
+            <div class="row-fluid">
+                <div class="span10 offset1">
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
@@ -157,7 +195,9 @@
                         <div class="span9">
                             <p><span class="dropcap">L</span>ast year, the most popular opportunity was volunteering at the animal sanctuary, Witty Kitties. Students miss their pets from back home, so it was a good way for students to get in some animal time while helping out a good cause. (pull quote)</p>
 
-                            <p>Did you know that Iowa City is the number one city in Iowa and the number three city in the nation for volunteer involvement, according to an article in the Press-Citizen?</p>
+                            <blockquote>
+                                <p>Did you know that Iowa City is the number one city in Iowa and the number three city in the nation for volunteer involvement, according to an article in the Press-Citizen?</p>
+                            </blockquote>
 
                             <p>National Residence Hall Honors (NRHH) is an organization that students at the University of Iowa can get involved with through their residence hall. The four pillars of NRHH are Service, Leadership, Recognition, and Academics. As part of their Service pillar, NRHH created a program called Saturdays in Service. Saturdays in Service is a monthly volunteer opportunity for students living in the residence halls. There is no long-term commitment and the volunteer opportunities change every month. </p>
 
@@ -167,7 +207,7 @@
 
                             <p>Is Saturdays in Service not exactly what you’re looking for? That’s ok. Find your passion. Get involved with 1-2 things, but don’t overcommit. Whatever you choose to do, make an impact and leave your mark on the University of Iowa campus.</p>
                         </div>
-                    </div><!-- end row -->
+                    </div>
                 </div>
             </div><!-- end row -->
         </section>

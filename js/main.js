@@ -15,20 +15,19 @@ $(document).ready(function() {
     });
 
     /* Flexslider */
-    $('.flexslider').flexslider({
+    $('#readwrite-gallery').flexslider({
         animation: "slide",
         slideshow: false,
         smoothHeight: true,
         touch: true
     });
+    $('#saturdays-gallery').flexslider({
+        animation: "slide",
+        itemWidth: 328,
+        move: 1,
+        directionNav: false
+    });
 
-    /* Flexslider
-    $('#gallery').flexslider({
-        animation: "fade",
-        slideshow: false,
-        touch: true,
-        manualControls: ".flex-ctrl li"
-    }); */
 
     /* TopBar Menu dropdown */
     var $menu = $('#univ-nav'),

@@ -691,6 +691,13 @@ section header .sub-head {
 
 /* Serve  
 ========================================================================== */
+#serve #header {
+	background: url(../images/serve/serve_header_md.jpg) no-repeat center top;
+	background-size: cover;
+	@media (min-width: 768px) {
+    	background-image: url(../images/serve/serve_header_lg.jpg);
+  	}
+}
 #serve-wrac {
 	background: #eee url(../images/bg-wave.png);
 	border-bottom: 1px solid #ccc;
@@ -702,6 +709,12 @@ section header .sub-head {
 #saturdays-in-service {
 	background: #eee url(../images/bg-wave.png);
 	border-top: 1px solid #ccc;
+}
+#saturdays-gallery {
+	box-shadow: none;
+}
+#saturdays-gallery li {
+	margin-right: 8px;
 }
 
 
