@@ -80,13 +80,9 @@
                         <div class="span12 img-callout">
                             <img src="images/culture-2.png" alt="">
                         </div>
-<<<<<<< HEAD
                     </div>
                     <div class="row-fluid">
-                        <div class="span9 offset3">
-=======
                         <div class="span9 offset3" contenteditable="true">
->>>>>>> text edits
                             <p>There are four UICRC centers situated on campus including: Afro-American Cultural Center, Asian Pacific American Cultural Center, Latino Native American Cultural Center, and the Lesbian, Gay, Bisexual, Transgender Resource Center. In the last year, the UICRC has been successful in starting new initiatives and creating new staff changes. This culminates in more attention to center relationships while still recognizing newly created student groups, constituency groups, and community members.</p>
                         </div>
                     </div>
