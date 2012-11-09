@@ -575,12 +575,9 @@ section header .sub-head {
     	background-image: url(../images/excel/excel-header-lg.jpg);
   	}
 }
-#cassidy-bell {
-	background: url(../images/bg-social-feed-fade.png) repeat-x center top;
-}
-#cassidy-bell {
-	background: #eee url(../images/bg-wave.png);
-}
+#cassidy-bell {background: url(../images/bg-social-feed-fade.png) repeat-x center top;}
+#cassidy-bell {background: #eee url(../images/bg-wave.png);}
+
 #cassidy-bell .hero-img {
 	background: url(../images/excel/cassidy_sm.jpg) no-repeat right top;
 
@@ -591,24 +588,12 @@ section header .sub-head {
     	background-image: url(../images/excel/cassidy_lg.jpg);
   	}
 }
-
 /* iowa grow */
-#iowagrow {
-	border-top: 1px solid #ccc;
-}
-
-#hanna {
-	background-image: url(../images/hanna-books.jpg);
-}
-
+#iowagrow {border-top: 1px solid #ccc;}
+#mindfulness {background-image: url(../images/excel/mindfulness2.jpg);}
 /* ucs */
-#ucs {
-	border-top: 1px solid #ccc;
-	border-bottom: 1px solid #ccc;
-}
-#readwrite {
-	background: #eee url(../images/bg-wave.png);
-}
+#ucs {border-top: 1px solid #ccc;border-bottom: 1px solid #ccc;}
+#readwrite {background: #eee url(../images/bg-wave.png);}
 
 
 
@@ -622,18 +607,14 @@ section header .sub-head {
   	}
 }
 /* cultural centers */
-#cultural-centers {
-	background: #eee url(../images/bg-wave.png);
-}
+#cultural-centers {background: #eee url(../images/bg-wave.png);}
 
 #kotheid {
 	background-image: url(../images/stretch/kotheid_bg.jpg);
 	background-position: right top;
 }
 /* change teams */
-#change-teams {
-	background: #eee url(../images/bg-wave.png);
-}
+#change-teams {background: #eee url(../images/bg-wave.png);}
 
 #change-teams .hero-img {
 	background-image: url(../images/stretch/changeteams_sm.jpg);
@@ -652,19 +633,16 @@ section header .sub-head {
 	color: #eee;
 	padding: 0;
 }
-#walkitout-quote {
-	background-image: url(../images/stretch/walk_it_out.jpg);
-}
+#walkitout-quote {background-image: url(../images/stretch/walk_it_out.jpg);}
 #walkitout header {border-top: none;}
 #walkitout header h1 {
 	color: #FC89AD;
 	font-size: 65px;
 }
 #walkitout .dropcap {color: #eee;}
+
 /* gallery */
-#walkitout-gallery {
-	margin: 50px 0 0 0;
-}
+#walkitout-gallery {margin: 50px 0 0 0;}
 #walkitout-gallery .flex-control-nav {
 	top: -40px;
 	bottom: auto;
