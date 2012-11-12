@@ -63,32 +63,32 @@
             </div>
             <div class="row-fluid">
                 <div class="span2 offset1">
-                    <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
-                    <h4>Excel</h4>
+                    <img src="images/home_excel.jpg" alt="" />
+                    <h4 style="margin-top: 10px;">Excel</h4>
                     <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
                     <p class="smtxt"><a href="excel.html">Read the stories</a></p>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
-                    <h4>Stretch</h4>
+                    <h4 style="margin-top: 10px;">Stretch</h4>
                     <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
                     <p class="smtxt"><a href="#">Read the stories</a></p>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
-                    <h4>Engage</h4>
+                    <h4 style="margin-top: 10px;">Engage</h4>
                     <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
                     <p class="smtxt"><a href="#">Read the stories</a></p>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
-                    <h4>Choose</h4>
+                    <h4 style="margin-top: 10px;">Choose</h4>
                     <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
                     <p class="smtxt"><a href="#">Read the stories</a></p>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
-                    <h4>Serve</h4>
+                    <h4 style="margin-top: 10px;">Serve</h4>
                     <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
                     <p class="smtxt"><a href="#">Read the stories</a></p>
                 </div>

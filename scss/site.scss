@@ -160,6 +160,7 @@ section {
 		top: 0;
 		max-width: 1000px;
 		z-index: 100;
+		width: 97%;
   	}
 }
 #nav {
@@ -390,7 +391,7 @@ section header .sub-head {
 /* Random Shit  
 ========================================================================== */
 .shadow {
-	@media (min-width: 768px) {
+	@media (min-width: 480px) {
 		-webkit-box-shadow: 0 1px 6px rgba(0,0,0,.5);
 	       -moz-box-shadow: 0 1px 6px rgba(0,0,0,.5);
 	            box-shadow: 0 1px 6px rgba(0,0,0,.5);
@@ -752,8 +753,9 @@ img.right {
 	text-align: left;
 	font-size: 12px;
 	padding: 1em;
-	@media (min-width: 768px) {
+	@media (min-width: 480px) {
 		margin-top: 2em;
+		padding: 1em 0;
 	}
  }
 #footer-header p {
@@ -871,8 +873,10 @@ a.give-now {
 /* 480px and above
 ========================================================================== */
 @media only screen and (min-width: 480px) {
-
-
+	.container-fluid {
+		width: 97%;
+		margin: 0 auto;
+	}
 }
 
 /* 768px and above
@@ -894,15 +898,17 @@ a.give-now {
 /* 980px and above
 ========================================================================== */
 @media only screen and (min-width: 1000px) {
-
-  body {
-    padding: 0;
+	body {
+		padding: 0;
+	}
+	.container-fluid {
+		margin: 0 auto;
+		padding-left: 0;
+		padding-right: 0;
+		width: 1000px;
   }
-  .container-fluid {
-    margin: 0 auto;
-    padding-left: 0;
-    padding-right: 0;
-    width: 1000px;
-  }
+	#nav-wrapper.fixed{
+		width: 100%;
+	}
 
 }
