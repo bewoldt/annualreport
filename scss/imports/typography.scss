@@ -88,7 +88,10 @@ blockquote.full-width {
     margin: 1em 0;
 }
 blockquote.full-width p {
-      font-size: 22px;
+    font-size: 16px;
+    @media (min-width: 768px) {
+        font-size: 22px;
+    }
 }
 /* .pull-right */
 blockquote.pull-right {
