@@ -51,7 +51,10 @@ section {
 #division-nav .logo {
 	display: block;
 	float: left;
-	margin-left: 1em;
+	margin-right: 10px;
+	@media (max-width: 480px) {
+		margin-left: 1em;
+	}
 	@media (min-width: 1000px) {
 		margin-left: 0;
 	}
@@ -59,16 +62,21 @@ section {
 #division-nav ul {
 	float: right;
 	list-style: none;
-	margin: 2.2em 1em 0 0;
+	margin: 2.2em 0 0 0;
 	padding: 0;
 	text-align: center;
-	@media (max-width: 906px) {
+	@media (max-width: 480px) {
+		margin-left: 1em;
+		margin-right: 1em;
+	}
+	@media (max-width: 895px) {
 		float: left;
 		margin-top: 1em;
 	}
 	& li {
 		float: left;
-		margin-left: 1em;
+		margin-right: 1em;
+		&:last-child {margin-right: 0;}
 	}
 	& a {
 		display: block;
@@ -160,7 +168,7 @@ section {
 		top: 0;
 		max-width: 1000px;
 		z-index: 100;
-		width: 97%;
+		width: 96%;
   	}
 }
 #nav {
@@ -874,7 +882,7 @@ a.give-now {
 ========================================================================== */
 @media only screen and (min-width: 480px) {
 	.container-fluid {
-		width: 97%;
+		width: 96%;
 		margin: 0 auto;
 	}
 }
