@@ -95,7 +95,7 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                     <div id="hawkeye-awards-video" class="video-container">
-                        <img src="http://placehold.it/642x360/777&text=Video Goes Here" alt="">
+                        <img src="http://placehold.it/742x360/777&text=Video Goes Here" alt="">
                         <h1>Hawkeye Awards</h1>
                         <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>

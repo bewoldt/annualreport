@@ -476,14 +476,13 @@ img.right {
 .video-container {
 	@media (min-width: 768px) {
     	margin: 0 1em;
-		-webkit-box-shadow: 0 0 10px rgba(0,0,0,.3);
-   		-moz-box-shadow: 0 0 10px rgba(0,0,0,.3);
-        box-shadow: 0 0 10px rgba(0,0,0,.3);
+		-webkit-box-shadow: 0 0 5px rgba(0,0,0,.4);
+   		   -moz-box-shadow: 0 0 5px rgba(0,0,0,.4);
+                box-shadow: 0 0 5px rgba(0,0,0,.4);
   	}
 }
 .video-block .video-container {
 	background: #fff;
-	background: rgba(255,255,255,.9);
 	padding: 9px;
 }
 .video-block .video-container h1 {
