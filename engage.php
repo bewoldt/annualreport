@@ -2,7 +2,7 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -140,7 +140,7 @@
             <div class="row-fluid">
                 <div class="span8 offset3">
                     <div id="mentoring-video" class="video-container">
-                        <img src="http://placehold.it/642x360/777&text=Video Goes Here" alt="">
+                        <img src="http://placehold.it/742x360/777&text=Video Goes Here" alt="">
                         <h1>Supporting Students Through Mentoring</h1>
                         <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>

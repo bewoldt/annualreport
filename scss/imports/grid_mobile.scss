@@ -7,13 +7,6 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
-.hide-text {
-  font: 0/0 a;
-  color: transparent;
-  text-shadow: none;
-  background-color: transparent;
-  border: 0;
-}
 .row-fluid {
   width: 100%;
   *zoom: 1;
@@ -185,26 +178,11 @@
   margin-left: 8.51063829787234%;
   *margin-left: 8.404255319148938%;
 }
-[class*="span"].hide,
-.row-fluid [class*="span"].hide {
-  display: none;
-}
-[class*="span"].pull-right,
-.row-fluid [class*="span"].pull-right {
-  float: right;
-}
 
 
 @media (max-width: 767px) {
   .row-fluid {
     width: 100%;
-  }
-  .row, .thumbnails {
-    margin-left: 0;
-  }
-  .thumbnails > li {
-    float: none;
-    margin-left: 0;
   }
   [class*="span"],
   .row-fluid [class*="span"],
@@ -226,8 +204,7 @@
   .row-fluid .offset12, .row-fluid .offset12:first-child, .row-fluid .offset11, .row-fluid .offset11:first-child, .row-fluid .offset10, .row-fluid .offset10:first-child, .row-fluid .offset9, .row-fluid .offset9:first-child, .row-fluid .offset8, .row-fluid .offset8:first-child, .row-fluid .offset7, .row-fluid .offset7:first-child, .row-fluid .offset6, .row-fluid .offset6:first-child, .row-fluid .offset5, .row-fluid .offset5:first-child, .row-fluid .offset4, .row-fluid .offset4:first-child, .row-fluid .offset3, .row-fluid .offset3:first-child, .row-fluid .offset2, .row-fluid .offset2:first-child, .row-fluid .offset1, .row-fluid .offset1:first-child { margin-left: 0;}
 }
 
-
-@media (min-width: 768px) and (max-width: 999px) {
+@media (min-width: 768px) {
   [class*="span"] {
     float: left;
     min-height: 1px;

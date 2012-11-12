@@ -10,8 +10,6 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
 
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/flexslider.css">
     <link rel="stylesheet" href="css/site.css">
@@ -106,7 +104,7 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                     <div id="sorority-services-video" class="video-container">
-                        <img src="http://placehold.it/642x360/777&text=Video Goes Here" alt="">
+                        <img src="http://placehold.it/742x360/777&text=Video Goes Here" alt="">
                         <h1>Fraternity and Sorority Life</h1>
                         <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>
