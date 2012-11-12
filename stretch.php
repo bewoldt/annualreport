@@ -59,7 +59,7 @@
                         <h1 class="title">Fostering Inclusion</h1>
                         <h3 class="sub-head">Cultural Centers See an Increase in Meaningful Activity and Interaction</h3>
                     </header>
-                    <div id="cultural-centers-video" class="video-container">
+                    <div id="cultural-centers-video">
                         <img src="images/stretch/cultural-centers-still.jpg" alt="">
                     </div>
                     <br>

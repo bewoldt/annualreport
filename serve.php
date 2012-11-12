@@ -83,7 +83,7 @@
                     </div>
                     <div class="row-fluid">
                         <div class="span12 img-callout">
-                            <div id="greek-video" class="video-container">
+                            <div id="greek-video">
                                 <img src="http://placehold.it/830x457/777&text=Video Goes Here" alt="">
                              </div>
                         </div>

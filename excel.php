@@ -114,7 +114,7 @@
                         <h1 class="title">Iowa Grow</h1>
                         <h3 class="sub-head">Creating Meaningful Connections Between Work and Academics</h3>
                     </header>
-                    <div id="iowagrow-video" class="video-container">
+                    <div id="iowagrow-video">
                         <img src="images/excel/iowa-grow-still.jpg" alt="">
                     </div>
                     <br>
