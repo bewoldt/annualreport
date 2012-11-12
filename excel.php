@@ -176,7 +176,7 @@
                         </div>
                     </div>
                     <div class="row-fluid">
-                        <div class="span11 offset1">
+                        <div class="span12">
                             <blockquote class="full-width">
                                 <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="right" style="margin-bottom: -1.5em;margin-left: 3em;" width="225">
                                 <p>“The focus is not on learning to relax but to actually engage with what is here, even when it isn’t relaxing, in a conscious and discerning manner. This means learning how to be with difficult thoughts and emotions as well as external stressors.</p>
