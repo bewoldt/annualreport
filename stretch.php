@@ -81,19 +81,19 @@
                         <div class="span3">
                             <img src="images/stretch/centers/afro_american.jpg" alt="">
                             <br>
-                            <p class="smtxt">Afro-Amercian Cultural Center</p>
+                            <p class="caption">Afro-Amercian Cultural Center</p>
                         </div>
                         <div class="span3">
                             <img src="images/stretch/centers/lgbt.jpg" alt="">
-                            <p class="smtxt">Lesbian, Gay, Bisexual, and Transgender Cultural Center</p>
+                            <p class="caption">Lesbian, Gay, Bisexual, and Transgender Cultural Center</p>
                         </div>
                         <div class="span3">
                             <img src="images/stretch/centers/asian_pacific.jpg" alt="">
-                            <p class="smtxt">Latino Native American Cultural Center</p>
+                            <p class="caption">Latino Native American Cultural Center</p>
                         </div>
                         <div class="span3">
                             <img src="images/stretch/centers/latino_native_american.jpg" alt="">
-                            <p class="smtxt">Asian Pacific American Cultural Center</p>
+                            <p class="caption">Asian Pacific American Cultural Center</p>
                         </div>
                     </div>
                     <div class="row-fluid">
