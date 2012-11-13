@@ -248,7 +248,7 @@
             </div><!-- end row -->
             <div class="row-fluid">
                 <div class="span12">
-                    <div id="walkitout-gallery" class="flexslider">
+                    <div id="walkitout-gallery" class="flexslider carousel">
                         <ul class="slides">
                             <li><img src="images/stretch/walk_a.jpg" alt="" /></li>
                             <li><img src="images/stretch/walk_b.jpg" alt="" /></li>

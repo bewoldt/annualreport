@@ -24,12 +24,14 @@ $(document).ready(function() {
     $('#saturdays-gallery').flexslider({
         animation: "slide",
         itemWidth: 328,
-        move: 1,
-        directionNav: false
+        itemMargin: 5,
+        move: 1
     });
     $('#walkitout-gallery').flexslider({
         animation: "slide",
-        itemWidth: 333
+        itemWidth: 328,
+        itemMargin: 5,
+        move: 1
     });
 
 
