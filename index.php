@@ -16,6 +16,9 @@
     <link rel="stylesheet" href="css/site.css">
     
     <script src="http://use.edgefonts.net/open-sans:n4,i4,n7;alfa-slab-one:n4.js"></script>
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
     
 </head>
 <body id="home">

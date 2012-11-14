@@ -94,9 +94,26 @@ section {
 
 /* Header
 ========================================================================== */
-#header {
-	background: #000;
-	height: 300px;
+/* Calculate fluid ratio based on two dimensions (width/height) */
+@mixin fluid-ratio($large-size, $small-size) {
+	$width-large: nth($large-size, 1);
+	$width-small: nth($small-size, 1);
+	$height-large: nth($large-size, 2);
+	$height-small: nth($small-size, 2);
+	$slope: ($height-large - $height-small) / ($width-large - $width-small);
+	$height: $height-small - $width-small * $slope;
+
+	padding-top: $slope * 100%;
+	height: $height;
+
+	background-size: cover;
+	-moz-background-size: cover;  /* Firefox 3.6 */
+	background-position: center;  /* Internet Explorer 7/8 */
+}
+
+#header  {
+	/* (width2, heigh2, width1, height1) */
+	@include fluid-ratio(1000px 500px, 500px 300px);
 	position: relative;
 	-webkit-box-shadow: 0 1px 6px rgba(0,0,0,.5), inset 0 -7px 7px rgba(0,0,0,.3);
 	   -moz-box-shadow: 0 1px 6px rgba(0,0,0,.5), inset 0 -7px 7px rgba(0,0,0,.3);
@@ -134,9 +151,6 @@ section {
 	text-transform: none;
 }
 @media only screen and (min-width: 768px) {
-	#header {
-		height: 500px;
-	}
 	.challenge-heading {
 		margin-top: -83px;
     	margin-left: -256px;
@@ -577,8 +591,7 @@ img.right {
 /* Excel  
 ========================================================================== */
 #excel #header {
-	background: url(../images/excel/excel-header-md.jpg) no-repeat center top;
-	background-size: cover;
+	background-image: url(../images/excel/excel-header-md.jpg);
 	@media (min-width: 768px) {
     	background-image: url(../images/excel/excel-header-lg.jpg);
   	}
@@ -608,8 +621,7 @@ img.right {
 /* Stretch  
 ========================================================================== */
 #stretch #header {
-	background: url(../images/stretch/stretch_header_md.jpg) no-repeat center top;
-	background-size: cover;
+	background-image: url(../images/stretch/stretch_header_md.jpg);
 	@media (min-width: 768px) {
     	background-image: url(../images/stretch/stretch_header_lg.jpg);
   	}
@@ -675,8 +687,7 @@ img.right {
 /* Engage  
 ========================================================================== */
 #engage #header {
-	background: url(../images/engage/engage_header_md.jpg) no-repeat center top;
-	background-size: cover;
+	background-image: url(../images/engage/engage_header_md.jpg);
 	@media (min-width: 768px) {
     	background-image: url(../images/engage/engage_header_lg.jpg);
   	}
@@ -715,8 +726,7 @@ img.right {
 /* Choose  
 ========================================================================== */
 #choose #header {
-	background: url(../images/choose/choose_header_md.jpg) no-repeat center top;
-	background-size: cover;
+	background-image: url(../images/choose/choose_header_md.jpg);
 	@media (min-width: 768px) {
     	background-image: url(../images/choose/choose_header_lg.jpg);
   	}
@@ -746,8 +756,7 @@ img.right {
 /* Serve  
 ========================================================================== */
 #serve #header {
-	background: url(../images/serve/serve_header_md.jpg) no-repeat center top;
-	background-size: cover;
+	background-image: url(../images/serve/serve_header_md.jpg);
 	@media (min-width: 768px) {
     	background-image: url(../images/serve/serve_header_lg.jpg);
   	}
