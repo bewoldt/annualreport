@@ -62,30 +62,29 @@
                 <div class="span8 offset2">
                      <div class="content">
                         <header>
-                            <h1 class="title">Building Up the Young Girls Network</h1>
+                            <h1 class="title">Building Up the Young Women's Network</h1>
+                            <h3 class="sub-head">Iowa N.E.W. Leadership Summer Institute</h3>
                         </header>
                         <div class="meta">
                             <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Goes Here</span></em></li>
-                                <li><em>Photography by <span>Name Goes Here</span></em></li>
+                                <li>Women's Resource and Action Center</li>
+                                <li><em>Words by <span>Mary Koberstein</span></em></li>
+                                <li><em>Photography by <span>Chelsea Darter</span></em></li>
                             </ul>
                         </div>
-                        <p><span class="dropcap">T</span>he Women’s Resource and Action Center (WRAC) held it’s fifth Iowa N.E.W. Leadership Summer Institute from May 21 -25 last academic year. The 5-day intensive institute inspires women to participate in creating awareness for underrepresented groups in all sectors of public leadership. Approximately 35 women from colleges and universities across Iowa were selected to attend the conference this year. Their experience at the institute is built around a challenging curriculum that develops knowledge and skill in key areas such as strategic communication, policy analysis, philanthropy, negotiation, community development, professional sustainability, relationship-building, productive engagement with difference, conflict, and collaboration.</p>
-                        <p>In the Institutes fifth year, WRAC has made notable improvements to the program. Director at WRAC, Linda Kroon, says that she notices a significant difference in the women in the program throughout the course of the week.</p>
+                        <p><span class="dropcap">T</span>he Women’s Resource and Action Center (WRAC) held its fifth Iowa N.E.W. Leadership Summer Institute in May, 2011. The five-day intensive institute inspires women to participate in creating awareness for underrepresented groups in all sectors of public leadership. Approximately 35 women from colleges and universities across Iowa attended the conference last year. Their experience at the institute was built around a challenging curriculum that developed knowledge and skill in key areas such as strategic communication,  policy analysis, philanthropy, negotiation, community development, professional sustainability, relationship-building, engagement, conflict, and collaboration.</p>
+                        <p>In the Institute's fifth year, WRAC made notable improvements to the program. Linda Kroon, Director for WRAC, says that she noticed a significant difference in the women in the program throughout the course of the Institute.</p>
                         <blockquote>
-                            <p>“As the week goes on, you really start to see the women flex their skills, you can tell these women are gaining confidence in themselves.”</p>
+                            <p>“As the week goes on, you really start to see the women flex their skills. You can tell these women are gaining confidence in themselves.”</p>
                             <small>Linda Kroon</small>
                         </blockquote>
                         <p>Through Iowa N.E.W., WRAC is assisting the development of relationships among women in the Iowa City community. The skills learned through this program are crucial in the support of helping other women develop their personal goals.</p>
-
-                        <p>A new component implemented this year is the mentorship portion. While at the Institute, the students are assigned to professionals to help guide them through the process. Students are matched based on their interests. They work on building experience by connecting to women who are leaders in their desired fields. Once the students complete the workshop, they are qualified to become a professional mentor.</p>
-
-                        <p>Now in its fifth year, the Iowa N.E.W. Leadership Institute’s alumni group is growing. Kroon says she likes to say the Institute is building up the young girls network. One Iowa N.E.W. alumnus described her experience.</p>
+                        <p>A new component implemented last year is the mentorship portion. While at the Institute, the students are assigned to professionals to help guide them through the process. Students are matched based on their interests. They work on building experience by connecting to women who are leaders in their desired fields. Once the students complete the workshop, they are qualified to become a professional mentor.</p>
+                        <p>Iowa N.E.W. Leadership has given students new skills that have helped them gain executive roles in student organizations on campus. The program has also helped UI graduates start and maintain great careers post-graduation.</p>
                         <blockquote>
-                            <p>“N.E.W. Leadership gave me confidence in my ability to lead. Not only for future political positions, but the current leadership posts I have and am striving for my career. It created a real desire to know more about the world and to help change it.” </p>
+                            <p>“N.E.W. Leadership gave me confidence in my ability to lead. Not only for future political positions, but the current leadership posts I have and am striving for my career. It created a real desire to know more about the world and to help change it.”</p>
+                            <small>Anonymous Iowa N.E.W. Participant</small>
                         </blockquote>
-                        <p>After participating in the Institute’s workshop, participants had a new sense of leadership and ambition in the community. Students have qualified and held executive board positions in student organizations on campus, along with acquiring reputable jobs across the nation.</p>
                     </div>
                 </div>
             </div><!-- end row -->
@@ -107,29 +106,27 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">
-                        <h1 class="title">Find Your Pick One!</h1>
-                        <h3 class="sub-head">Sub Heading Goes Here</h3>
+                        <h1 class="title">Pick One Encourages Student Involvement</h1>
+                        <h3 class="sub-head">Participation Rate Reaches 42% of First Year Students</h3>
                     </header>
+                    <div>
+                        <img src="images/pickone.jpg" alt="">
+                    </div>
+                    <br>
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Goes Here</span></em></li>
-                                <li><em>Photography by <span>Name Goes Here</span></em></li>
+                                <li>Center for Student Involvement and Leadership</li>
+                                <li><em>Words by <span>Madeline Osman</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">P</span>ick One is an initiative for first year students to get involved on campus. There are nine areas students can choose from: Academic/Honors Opportunities, Campus Employment, Fraternities and Sororities, Intramural or Club Sports, Leadership, Multicultural Activities, Performing Arts, Student Organizations, and Volunteering. But don’t let that limit you to just one opportunity! The most popular categories are student organizations (there are over 450 on campus!). Close followers are Fraternities and Sororities, Intramural Sports, and Student Employment. The most popular specific Pick One opportunity is Dance Marathon, but HawksNest and Intramural Football/Flag Football also have a lot of student involvement.</p>
-                        </div>
-                        <div class="span12 img-callout">
-                            <img src="images/pickone.jpg" alt="">
-                        </div>
-                        <div class="span9 offset3">
-                            <p>Pick One is in its 5th year of operation and sees continuous growth and engagement each year. This year, Pick One had a participation rate of more than 42% of all first-year students.</p>
-                            <blockquote>
-                                <p>Pick One had a participation rate of more than 42% of all first-year students</p>
+                            <p><span class="dropcap">A</span>rriving on campus can be a daunting experience for first year students. New social and living situations, academic challenges, and newly found independence can take up every minute of every day. Pick One is an initiative that encourages students to get involved in at least one organization early on. Being involved in student organizations or activities can be a valuable experiential learning experience.</p>
+                            <p>There are nine areas students can choose from: Academic/Honors Opportunities, Campus Employment, Fraternities and Sororities, Intramural or Club Sports, Leadership, Multicultural Activities, Performing Arts, Student Organizations, and Volunteering. There are more than 450 student organizations through the Center for Student Involvement and Leadership, and these organizations are the most popular choices by students using Pick One. Close followers are fraternities and sororities, intramural sports, and student employment. The most popular Pick One opportunity is Dance Marathon, but Hawks Nest and intramural football are close seconds.</p>
+                            <blockquote class="full-width">
+                                <p>Pick One is in its 5th year of operation and sees continuous growth and engagement each year. This year, Pick One had a participation rate of more than <strong>42%</strong> of all first-year students.</p>
                             </blockquote>
-                            <p>Why should you participate? Pick One gives students the chance to feel more connected on campus while having fun and meeting people. Involvement helps build your resume with teamwork and leadership skills. Getting involved makes people feel more connected to their campus, and increases retention for the University. By simply registering your Pick One on the exploration tool at <a href="http://pickone.uiowa.edu" target="_blank">http://pickone.uiowa.edu</a>, you will be eligible to win great prizes, including an iPad. Pick One started as a catalyst to get students involved, but there are so many other things people can do on campus. In the future, the Pick One program may expand to include transfer students.</p>
+                            <p>Pick One gives students the chance to feel more connected on campus while having fun and meeting people. Involvement helps build teamwork and leadership skills. Getting involved makes people feel more is also tied to retaining UI students who might otherwise leave the University. Future initiatives for Pick One include extending the program to transfer students.</p>
                         </div>
                     </div><!-- end row -->
                 </div>

@@ -53,47 +53,38 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">
-                        <h1 class="title">Fraternity and Sorority Life and Services</h1>
-                        <h3 class="sub-head">Sub Heading Goes Here</h3>
+                        <h1 class="title">Fostering a Philanthropic Community</h1>
+                        <h3 class="sub-head">Fraternity and Sorority Life Raises Funds and Awareness</h3>
                     </header>
+                    <div id="greek-video">
+                        <img src="http://placehold.it/830x457/777&text=Video Goes Here" alt="">
+                    </div>
+                    <br>
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Goes Here</span></em></li>
-                                <li><em>Video by <span>Name Goes Here</span></em></li>
+                                <li><em>Words by <span>Mary Koberstein and Hanna Rossman</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">F</span>raternity and Sorority Life at the University of Iowa is not just known for their abilities to help students connect to others on campus, but also for their effort to give back to the community. Dance Marathon, an annual charity,  is only one of many that Fraternity and Sorority Life contributes to each year. As a whole, the group donates their time and resources to the Child’s Miracle Network, the Juvenile Diabetes Foundation, the American Heart Association, Susan G. Komen Breast Cancer Foundation, Make a Wish Foundation, Crisis Center of Iowa City, Big Brothers and Big Sisters, American Cancer Society, Ronald McDonald Foundation, Habitat for Humanity, Mark Twain Elementary of Iowa City, and Dance Marathon. In 2011, the Fraternity/Sorority Community contributed to over 22,000 hours of community service and donated over $382,000 to their various organizations.</p>
+                            <p><span class="dropcap">S</span>tudents carrying backpacks on a walk is a normal thing for a college campus. Rather than having backpacks filled with textbooks and crumpled notes, the Phi Kappa Psi fraternity carried stones inscribed with the names of women who have fallen victim to breast cancer. The stones were part of a breast cancer awareness walk, one of many philanthropic events organized by fraternities and sororities in 2011. In the last year, the UI fraternity and sorority community has contributed over 22,000 hours of community service and donated a total of $382,000 to various organizations.</p>
+                            <blockquote>
+                                <p>[Quote to be added here]</p>
+                            </blockquote>
+                            <p>UI fraternities and sororities donate their time to as many as 12 community and philanthropic organizations ranging from the Susan G. Komen Breast Cancer Foundation to Habitat for Humanity. Rather than focusing on just one cause, the students in the greek community strive to help those in need from all walks of life. This support not only generates monetary donations, it also serves to increase awareness.</p>
+                            <p>One effort, carried out by the women of Zeta Tau Alpha, included distributing “Think Pink” breast cancer ribbons at several UI football games last year. This effort was followed up by their annual 5K race in October. The ribbons are a visual reminder of the cause, while the 5K race is a direct fundraising effort. These multi-faceted campaigns helps press community members to do more than simply write a check. It’s a way for the community to unite. In 2011, the race raised over $17,500 from participants and donors.</p>
                         </div>
                     </div>
                     <div class="row-fluid">
                         <div class="span12">
                             <blockquote class="full-width">
-                                <p>Delta Delta Delta raised $22,000 for St. Jude’s Children’s Hospital in 2011. Another sorority, Zeta Tau Alpha, focused their efforts on Susan G. Komen’s Breast Cancer Foundation, raising $75,000 for the cause.</p>
+                                <p>[Quote to be added here]</p>
                             </blockquote>
                         </div>
                     </div>
                     <div class="row-fluid">
                         <div class="span9 offset3">
-                            <p>In the Fall of 2011, the Fraternity and Sorority Life hosted their annual United Way 5K on Sunday, October 16th, to begin Homecoming week. This 3.1 mile race took place at Lower City Park to help raise awareness and funds for the United Way of Johnson County. The foundation unifies the Iowa City community to give, advocate, and volunteer to positively impact the conditions of Iowa City and measurably improve lives. All proceeds from the race benefited the United Way of Johnson County.</p>
-                            <p>Every year the women of Zeta Tau Alpha come together to raise money for our breast cancer awareness philanthropy. To raise money we hold our annual 5K races every October, in 2011 we raised over $17,500. Before the day of the race we do a lot of marketing throughout the community. We start by handing out our “Think Pink” breast cancer ribbons at several University of Iowa football games. We see this as a great way of spreading the word about breast cancer awareness to a wider variety of people. In addition to the “Think Pink” we set up community fund raising nights at local restaurants.  This has worked very well for us, and we also see it as a significant way to get involved in the fight against breast cancer. Another big benefactor in our race has been the Greek Community. Every year (all) of the chapters on campus have come out to support our philanthropy, and we cannot thank them enough.</p>
-                        </div>
-                    </div>
-                    <div class="row-fluid">
-                        <div class="span12 img-callout">
-                            <div id="greek-video">
-                                <img src="http://placehold.it/830x457/777&text=Video Goes Here" alt="">
-                             </div>
-                        </div>
-                    </div>
-                    <div class="row-fluid">
-                        <div class="span9 offset3">
-                            <h2>Story from Tri Delta:</h2>
-                            <p>Last year in particular, Phi Kappa Psi had members of their fraternity walk with backpacks on filled with 100 stones that each way 1 pound, with names of women who have, or have had, breast cancer. Zeta Tau Alpha, and many other people, saw this as one of the most genuine, caring, things, to do to support breast cancer awareness. The weeks before the race, and getting people involved is what makes our philanthropy very successful, but we also do a lot the day of the race. On the day of the race we have a silent auction, a raffle, prizes, awards for runners, free massages and a live DJ. When the race is finished we have a table full of food for the runners, we have had donations from places such as Buffalo Wild Wings, Cheba Hut, and Panera.</p>
-
-                            <p>We see this as a great way to give back to the people who have come out to support breast cancer awareness, and to let them know how much we appreciate them. Without them we would not be able to raise the amount of money we have in the past, for a cause that Zeta Tau Alpha feels so passionately about. Our race this year falls on October 21, 2012. Last year we had nearly 700 runners, and we want to make this year even better. If anybody would like to donate to our philanthropy you can email Kayla Dano at <a href="mailto:kayla-dano@uiowa.edu">kayla-dano@uiowa</a>.edu or Stephanie Kleeman at  <a href="mailto:stephanie-kleeman@uiowa.edu">Stephanie-kleeman@uiowa.edu</a>, and if you want to sign up for the 5K you can go to our website</p>
+                            <p>What makes the Fraternities and Sororities on campus so successful is the passion they have for helping others. This passion is evident in the effort that goes into their philanthropic events. They do not simply put on a race or donate money to charities, but they create an atmosphere for giving in businesses around Iowa City. At the annual 5K race, food was donated from restaurants around town, including Buffalo Wild Wings, Cheba Hut, and Panera. Their desire to make a difference is contagious, and so by creating a united front with others, the Fraternities and Sororities of the University of Iowa help bring the world one step closer to finding the cure for breast cancer, aid children fighting for their lives, and provide homes to families in need.</p>
                         </div>
                     </div><!-- end row -->
                 </div>
@@ -117,7 +108,6 @@
                 <div class="span10 offset1">
                     <header class="header">
                         <h1 class="title">Saturdays in Service</h1>
-                        <h3 class="sub-head">Sub Heading Goes Here</h3>
                     </header>
                 </div>
             </div>
@@ -144,23 +134,28 @@
                            <ul>
                                 <li>Department Name Goes Here</li>
                                 <li><em>Words by <span>Name Goes Here</span></em></li>
-                                <li><em>Video by <span>Name Goes Here</span></em></li>
+                                <li>For more information visit: <a href="http://www.facebook.com/uiowasis">facebook.com/uiowasis</a></li>
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">L</span>ast year, the most popular opportunity was volunteering at the animal sanctuary, Witty Kitties. Students miss their pets from back home, so it was a good way for students to get in some animal time while helping out a good cause. (pull quote)</p>
+                            <p><span class="dropcap">V</span>olunteering to help others can be an important learning experience and at the University of Iowa there are many opportunities to get involved. Students can join student organizations and help with their philanthropic efforts or volunteer their time at various community centers that need help. One of the ways the residence halls look to get students started out in volunteering is through their Saturdays in Service program.</p>
 
-                            <blockquote>
-                                <p>Did you know that Iowa City is the number one city in Iowa and the number three city in the nation for volunteer involvement, according to an article in the Press-Citizen?</p>
-                            </blockquote>
+                            <p>This program was created by the National Residence Hall Honors (NRHH) as one of the ways to fulfill one of their founding pillars &mdash; service. Saturdays in Service is a monthly volunteer opportunity for students living in the residence halls. There is no long-term commitment and the volunteer opportunities change every month. “[It is] a good way for students to get a better taste of what service opportunities are available, and hopefully spark some interest for them,” said Amy Baumgartner, the Residence Life Program Coordinator.</p>
+                        </div>
+                    </div>
+                    <div class="row-fluid">
+                        <blockquote class="full-width">
+                            <p>"Students are the backbone of the program; they choose the activities, generate excitement among peers, and have passion to work hard to help others."</p>
+                            <small>Kristi Roehr, a previous volunteer</small>
+                        </blockquote>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="span9 offset3">
+                            <p>This year, Saturdays in Service kicked off with an event that provided a choice of six different opportunities students could choose from. They included the Children’s Museum, river cleanup, Witty Kitties (an animal sanctuary), Potentially Yours (a thrift store), the Johnson County Crisis Center, and the Ronald McDonald House. All of the locations are easy to get to or had transportation provided and lasted about half a day.</p>
 
-                            <p>National Residence Hall Honors (NRHH) is an organization that students at the University of Iowa can get involved with through their residence hall. The four pillars of NRHH are Service, Leadership, Recognition, and Academics. As part of their Service pillar, NRHH created a program called Saturdays in Service. Saturdays in Service is a monthly volunteer opportunity for students living in the residence halls. There is no long-term commitment and the volunteer opportunities change every month. </p>
+                            <p>Last year, the volunteering at Witty Kitties, a local animal sanctuary, was the most popular program. Many students missed their pets from back home, so volunteering at the sanctuary was a good way for students to get in bonding time animals while helping out a good cause.</p>
 
-                            <p>This year, Saturdays in Service kicked off with an event that provided a choice of six different locations and opportunities students could choose from. Opportunities include the Children’s Museum, river clean-up, Witty Kitties (an animal sanctuary), Potentially Yours (a thrift store), Johnson County Crisis Center and Ronald McDonald House. All of the locations are easy to get to or have transportation provided and last about half a day. Last year, the most popular opportunity was volunteering at the animal sanctuary, Witty Kitties. Many students missed their pets from back home, so volunteering at the sanctuary was a good way for students to get in some animal bonding time while helping out a good cause.</p>
-
-                            <p>Generally, about 20-25 students participate each Saturday. Students are the backbone of Saturdays in Service. They pick the activities that people can participate in, generate excitement among their peers, are very passionate and work really hard.</p>
-
-                            <p>Is Saturdays in Service not exactly what you’re looking for? That’s ok. Find your passion. Get involved with 1-2 things, but don’t overcommit. Whatever you choose to do, make an impact and leave your mark on the University of Iowa campus.</p>
+                            <p>Approximately 25 students volunteer at each Saturdays in Service event. Students are the backbone of the program; they choose the activities, generate excitement among peers, and have passion to work hard to help others. Kristi Roehr, a previous volunteer, said, “It’s a fun and easy way to get involved, meet new people, and help out the community.”</p>
                         </div>
                     </div>
                 </div>

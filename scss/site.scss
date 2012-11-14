@@ -502,9 +502,9 @@ img.right {
 .video-container {
 	@media (min-width: 768px) {
     	margin: 0 1em;
-		-webkit-box-shadow: 0 0 5px rgba(0,0,0,.4);
-   		   -moz-box-shadow: 0 0 5px rgba(0,0,0,.4);
-                box-shadow: 0 0 5px rgba(0,0,0,.4);
+		-webkit-box-shadow: 0 0 20px rgba(0,0,0,.6);
+   		   -moz-box-shadow: 0 0 20px rgba(0,0,0,.6);
+                box-shadow: 0 0 20px rgba(0,0,0,.6);
   	}
 }
 .video-block .video-container {
@@ -771,9 +771,6 @@ img.right {
 }
 #saturdays-gallery {
 	box-shadow: none;
-}
-#saturdays-gallery li {
-	xmargin-right: 8px;
 }
 
 
