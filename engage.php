@@ -94,7 +94,7 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                     <div id="hawkeye-awards-video" class="video-container">
-                        <img src="http://placehold.it/742x360/777&text=Video Goes Here" alt="">
+                        <iframe width="560" height="315" src="http://www.youtube.com/embed/MD5nMi2Hv7Q?rel=0" frameborder="0" allowfullscreen></iframe>
                         <h1>Hawkeye Awards</h1>
                         <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>
@@ -136,8 +136,8 @@
         <section id="mentoring" class="video-block">
             <div class="row-fluid">
                 <div class="span8 offset3">
-                    <div id="mentoring-video" class="video-container">
-                        <img src="http://placehold.it/742x360/777&text=Video Goes Here" alt="">
+                    <div id="critical-mass" class="video-container">
+                        <iframe width="560" height="315" src="http://www.youtube.com/embed/RRA2kGY-yig?rel=0" frameborder="0" allowfullscreen></iframe>
                         <h1>Supporting Students Through Mentoring</h1>
                         <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>

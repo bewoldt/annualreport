@@ -63,7 +63,7 @@
                         <h3 class="sub-head">Cultural Centers See an Increase in Meaningful Activity and Interaction</h3>
                     </header>
                     <div id="cultural-centers-video">
-                        <img src="images/stretch/cultural-centers-still.jpg" alt="">
+                        <iframe width="560" height="315" src="http://www.youtube.com/embed/k4cqzu5pZis?rel=0" frameborder="0" allowfullscreen></iframe>
                     </div>
                     <hr>
                     <div class="row-fluid">
@@ -84,7 +84,7 @@
                         <div class="span3">
                             <img src="images/stretch/centers/afro_american.jpg" alt="">
                             <br>
-                            <p class="caption">Afro-Amercian Cultural Center</p>
+                            <p class="caption">Afro-Amercian Cultural Center &nbsp;</p>
                         </div>
                         <div class="span3">
                             <img src="images/stretch/centers/lgbt.jpg" alt="">
@@ -101,7 +101,7 @@
                     </div>
                     <div class="row-fluid">
                         <div class="span12">
-                            <blockquote class="full-width" style="border-top: 0;">
+                            <blockquote class="full-width">
                                 <p>“The Centers are a direct representation of the university's commitment and mission for diversity and inclusion all of students”</p>
                                 <small>Preston Keith</small>
                             </blockquote>
@@ -121,7 +121,7 @@
             <div class="row-fluid">
                 <div class="span8 offset1">
                     <div id="kotheid-video" class="video-container">
-                        <img src="http://placehold.it/742x416/777&text=Video Goes Here" alt="">
+                        <iframe width="560" height="315" src="http://www.youtube.com/embed/jYxO8wk7bIs?rel=0" frameborder="0" allowfullscreen></iframe>
                         <h1>Student Profile - Kotheid</h1>
                         <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>

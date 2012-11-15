@@ -46,8 +46,9 @@
                 <li class="active"> <a href="serve.php">Serve<em>community</em></a></li>
             </ul>
             <ul class="sub-nav clearfix">
-                <li><a href="#sorority-life">Fraternity and Sorority Life</a></li>
-                <li><a href="#sorority-services">Fraternity Services Video</a></li>
+                <li><a href="#sorority-life">Fostering a Philanthropic Community</a></li>
+                <li><a href="#sorority-services">Fraternity and Sorority Life</a></li>
+                <li><a href="#wrac-serve">WRAC: Not Just for Women</a></li>
                 <li><a href="#saturdays-in-service">Saturdays In Service</a></li>
             </ul>
         </div>
@@ -98,12 +99,43 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                     <div id="sorority-services-video" class="video-container">
-                        <img src="http://placehold.it/742x360/777&text=Video Goes Here" alt="">
+                        <iframe width="560" height="315" src="http://www.youtube.com/embed/UqDJ0buBn9M?rel=0" frameborder="0" allowfullscreen></iframe>
                         <h1>Fraternity and Sorority Life</h1>
                         <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>
                 </div>
             </div>
+        </section>
+
+        <section id="wrac-serve" class="hero-story">
+            <div class="row-fluid hero-img">
+                <div class="frame"></div>
+            </div>
+            <div class="row-fluid">
+                <div class="span8 offset2">
+                     <div class="content">
+                        <header>
+                            <h1 class="title">WRAC: Not Just For Women</h1>
+                            <h3 class="sub-head">All Are Welcome</h3>
+                        </header>
+                        <div class="meta">
+                            <ul>
+                                <li>Women's Resource and Action Center</li>
+                                <li><em>Words by <span>Maddy Osman</span></em></li>
+                                <li><em>Photography by <span>Lev Cantoral</span></em></li>
+                            </ul>
+                        </div>
+                        <p><span class="dropcap">C</span>ontrary to what some might assume the name suggests, the Women’s Resource and Action Center (WRAC) is a safe haven on campus for people of all genders. WRAC has many different resources available to support greater equity and empowerment for women, men and trans people. WRAC is convenient for students to visit in the center of campus, across from the Iowa Memorial Union.</p>
+                        <blockquote class="full-width">
+                            <p>"People of all genders are welcome here and that's true of all of our services and programs."</p>
+                            <small>Linda Stewart Kroon, WRAC Director</small>
+                        </blockquote>
+                        <p>There are many opportunities available for students to get involved with WRAC, including discussion groups, events, and volunteer opportunities. Depending if you are seeking help, want to help, or both, WRAC has a solution to fit your needs. Volunteers must attend training sessions offered early each semester to get started.Those who become volunteers generally help out on a weekly basis, and hours are flexible.
+                        The “Women” part of WRAC might seem to mean that only women are served by the Center, but WRAC actively provides services and opportunities that are open to all. The Men’s Anti-Violence Council is an example of a WRAC program that specifically gives men a chance to get involved in a positive way, conversing about issues and initiating projects related to WRAC’s mission. In addition to volunteer opportunities, WRAC presents many public events such as panel discussions, film screenings, and workshops, that students can get involved in. There’s also an annual music festival each September, and an annual spaghetti dinner which helps to raise funds for the center. Recently, WRAC started a program called “Fun Fridays,” where community members and students come together for fun activities, food, and conversation at the end of the week.</p>
+                        <p>Major initiatives for WRAC include Iowa N.E.W. Leadership, diversity trainings  and Violence Prevention. These programs focus on different parts of WRAC’s mission, which includes: empowering women, embracing diversity, and preventing violence. Students, staff, faculty, and community members of identities are welcome at WRAC.</p>
+                    </div>
+                </div>
+            </div><!-- end row -->
         </section>
 
         <section id="saturdays-in-service">
@@ -164,6 +196,7 @@
                 </div>
             </div><!-- end row -->
         </section>
+        
         <ul id="pagination" class="row-fluid clearfix unstyled">
             <li class="prev">
                 <a href="choose.php"><span></span>Choose</a>

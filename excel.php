@@ -115,7 +115,7 @@
                         <h3 class="sub-head">Creating Meaningful Connections Between Work and Academics</h3>
                     </header>
                     <div id="iowagrow-video">
-                        <img src="images/excel/iowa-grow-still.jpg" alt="">
+                        <iframe width="560" height="315" src="http://www.youtube.com/embed/D02HqwcXMQo?rel=0" frameborder="0" allowfullscreen></iframe>
                     </div>
                     <hr>
                     <div class="row-fluid">
@@ -152,7 +152,7 @@
             </div>
         </section>
         
-        <section id="ucs" class="last-story">
+        <section id="ucs">
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">

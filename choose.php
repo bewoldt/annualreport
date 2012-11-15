@@ -102,7 +102,7 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                     <div id="leisure-video" class="video-container">
-                        <img src="http://placehold.it/742x360/777&text=Video Goes Here" alt="">
+                        <iframe width="560" height="315" src="http://www.youtube.com/embed/d1csMTIM58M?rel=0" frameborder="0" allowfullscreen></iframe>
                         <h1>Lifetime Leisure Skills</h1>
                         <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>

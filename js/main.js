@@ -5,7 +5,7 @@ $(document).ready(function() {
     $('body').addClass('js');
 
     /* FitVid Videos */
-    $("#ESEE").fitVids();
+    $('#ESEE, #iowagrow-video, #cultural-centers-video, .video-container').fitVids();
 
     /* Video Screencap Click function */
     $('#ESEE .screencap').click(function() {
@@ -15,7 +15,7 @@ $(document).ready(function() {
     });
 
     /* Flexslider */
-    $('#readwrite-gallery').flexslider({
+    $('#readwrite-gallery, #wrac-gallery').flexslider({
         animation: "slide",
         slideshow: false,
         smoothHeight: true,
