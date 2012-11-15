@@ -66,34 +66,34 @@
             </div>
             <div class="row-fluid">
                 <div class="span2 offset1">
-                    <img src="images/home_excel.jpg" alt="" />
+                    <a href="excel.php"><img src="images/home_excel.jpg" alt="" /></a>
                     <h4 style="margin-top: 10px;">Excel</h4>
                     <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
-                    <p class="smtxt"><a href="excel.html">Read the stories</a></p>
+                    <a href="excel.html" class="btn btn-small">Read the stories</a>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
                     <h4 style="margin-top: 10px;">Stretch</h4>
                     <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
-                    <p class="smtxt"><a href="#">Read the stories</a></p>
+                    <a href="stretch.php" class="btn btn-small">Read the stories</a>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
                     <h4 style="margin-top: 10px;">Engage</h4>
                     <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
-                    <p class="smtxt"><a href="#">Read the stories</a></p>
+                    <a href="engage.php" class="btn btn-small">Read the stories</a>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
                     <h4 style="margin-top: 10px;">Choose</h4>
                     <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
-                    <p class="smtxt"><a href="#">Read the stories</a></p>
+                    <a href="choose.php" class="btn btn-small">Read the stories</a>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
                     <h4 style="margin-top: 10px;">Serve</h4>
                     <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
-                    <p class="smtxt"><a href="#">Read the stories</a></p>
+                    <a href="serve.php" class="btn btn-small">Read the stories</a>
                 </div>
             </div>
         </section>
