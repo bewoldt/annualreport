@@ -26,7 +26,7 @@
 
     <div class="container-fluid">
         <?php include 'includes/division-nav.php'; ?>
-        <div id="header">
+        <div id="header" class="header-img">
              <div class="challenge-heading fadeInDown">
                 <p class="challenge-top">Division of Student Life</p>
                 <h1>Engage</h1>
@@ -55,10 +55,7 @@
         </div>
 
         <section id="wrac" class="hero-story">
-            <div class="row-fluid">
-                <div class="span12 hero-img">
-                   
-                </div>
+            <div class="row-fluid hero-img">
                 <div class="frame"></div>
             </div>
             <div class="row-fluid">
@@ -147,7 +144,14 @@
                 </div>
             </div> <!-- end row -->
         </section>
-
+        <ul id="pagination" class="row-fluid clearfix unstyled">
+            <li class="prev">
+                <a href="stretch.php"><span></span>Stretch</a>
+            </li>
+            <li class="next">
+                <a href="choose.php">Choose<span></span></a>
+            </li>
+        </ul>
     </div><!-- end .container-fluid -->
 
 

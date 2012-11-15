@@ -30,7 +30,7 @@
                 <a href="#" class="screencap">
                     <img src="images/home_header.jpg" alt="">
                 </a>
-                <iframe width="560" height="315" src="http://www.youtube.com/embed/rRVOh6W4YPk?rel=0" frameborder="0" allowfullscreen></iframe>
+                <iframe width="1000" height="563" src="http://www.youtube.com/embed/rRVOh6W4YPk?rel=0" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
     </div>
@@ -97,7 +97,14 @@
                 </div>
             </div>
         </section>
-
+        <ul id="pagination" class="row-fluid clearfix unstyled">
+            <li class="prev">
+               &nbsp;
+            </li>
+            <li class="next">
+                <a href="excel.php">Excel<span></span></a>
+            </li>
+        </ul>
     </div><!-- end .container-fluid -->
 
     <?php include 'includes/footer.php'; ?>

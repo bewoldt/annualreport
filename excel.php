@@ -27,7 +27,7 @@
 
     <div class="container-fluid">
         <?php include 'includes/division-nav.php'; ?>
-        <div id="header">
+        <div id="header" class="header-img">
              <div class="challenge-heading fadeInDown">
                 <p class="challenge-top">Division of Student Life</p>
                 <h1>Excel</h1>
@@ -56,10 +56,7 @@
         </div>
 
         <section id="cassidy-bell" class="first-story hero-story">
-            <div class="row-fluid">
-                <div class="span12 hero-img">
-                   
-                </div>
+            <div class="row-fluid hero-img">
                 <div class="frame"></div>
             </div>
             <div class="row-fluid">
@@ -238,7 +235,14 @@
                 </div>
             </div><!-- end row -->
         </section>
-
+        <ul id="pagination" class="row-fluid clearfix unstyled">
+            <li class="prev">
+                <a href="index.php"><span></span>Home</a>
+            </li>
+            <li class="next">
+                <a href="stretch.php">Stretch<span></span></a>
+            </li>
+        </ul>
     </div><!-- end .container-fluid -->
 
     <?php include 'includes/footer.php'; ?>
