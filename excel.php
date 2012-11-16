@@ -50,8 +50,8 @@
             <ul class="sub-nav clearfix">
                 <li><a href="#cassidy-bell">Cassidy Bell</a></li>
                 <li><a href="#iowagrow">Iowa Grow</a></li>
-                <li><a href="#ucs">UCS</a></li>
-                <li><a href="#readwrite">Read and Write Gold on Campus</a></li>
+                <li><a href="#ucs">University Counseling Service</a></li>
+                <li><a href="#readwrite">Read and Write Gold</a></li>
             </ul>
         </div>
 
@@ -73,7 +73,7 @@
                                 <li><em>Photography by <span>Chelsea Darter</span></em></li>
                             </ul>
                         </div>
-                        <p><span class="dropcap">T</span>The Meet the Challenge Awards are given to those who are examples of successes coming to life at the University of Iowa. When students take their first steps on campus they are not simply inducted into an academic community that strives towards higher education, but they become apart of the Hawkeye family. Cassidy Bell, a 2012 graduate, won the Meet the Challenge award for Engage in the last year for her work at the Rape Victim Advocacy Program (RVAP) where she had been volunteering since June 2011. By recognizing students such as Bell with the Meet the Challenge awards, it allows students to act as visible examples to inspire future students in the paths that they take on in their 4-year stay at the University of Iowa.</p>
+                        <p><span class="dropcap">T</span>he Meet the Challenge Awards are given to those who are examples of successes coming to life at the University of Iowa. When students take their first steps on campus they are not simply inducted into an academic community that strives towards higher education, but they become apart of the Hawkeye family. Cassidy Bell, a 2012 graduate, won the Meet the Challenge award for Engage in the last year for her work at the Rape Victim Advocacy Program (RVAP) where she had been volunteering since June 2011. By recognizing students such as Bell with the Meet the Challenge awards, it allows students to act as visible examples to inspire future students in the paths that they take on in their 4-year stay at the University of Iowa.</p>
                         <blockquote>
                             <p>“It is a thrill and honor to be recognized for the work that I do. I certainly feel like I am engaged in the community,” Bell said. “Iowa City has become my home in the last several years and I am proud to be on both the giving and receiving side of support in this community.”</p>
                             <small>Cassidy Bell</small>

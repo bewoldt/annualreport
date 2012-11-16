@@ -246,14 +246,15 @@ section {
 	border-top: 5px solid #987900;
 	padding-top: 10px;
 }
+
 #nav li.active a:after {
 	display: inline-block;
 	width: 0;
 	height: 0;
 	vertical-align: top;
-	border-top: 6px solid #987900;
-	border-right: 6px solid transparent;
-	border-left: 6px solid transparent;
+	border-top: 4px solid #987900;
+	border-right: 4px solid transparent;
+	border-left: 4px solid transparent;
 	content: "";
 	position: absolute;
 	top: 6px;
@@ -343,7 +344,7 @@ section header .title {
     	font-size: 50px;
   	}
   	@media (min-width: 768px) {
-    	font-size: 54px;
+    	font-size: 55px;
   	}
 }
 section header .sub-head {
@@ -542,11 +543,11 @@ img.right {
 	}
 }
 .dropcap {
-	width: 88px;
+	width: 62px;
 	text-align: center;
 	color: #333;
-	font-size: 75px;
-	line-height: 65px;
+	font-size: 65px;
+	line-height: 60px;
 	margin-right: 15px;
 	top: 6px;
 	float: left;
@@ -555,6 +556,7 @@ img.right {
 	font-family: alfa-slab-one, arial, verdana, sans-serif;
 	text-shadow: 1px 1px 2px rgba(0,0,0,.2);
 }
+.dropwide {width: 82px;}
 .fixed-img {
 	background-position: center top;
 	background-repeat: no-repeat;
@@ -726,7 +728,7 @@ img.right {
 
 /* walkitout */
 #walkitout {
-	background: url(../images/cartographer.png);
+	background: url(../images/cartographer.jpg);
 	color: #eee;
 	padding-top: 0;
 	padding-bottom: 0;

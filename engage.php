@@ -47,10 +47,10 @@
                 <li> <a href="serve.php">Serve<em>community</em></a></li>
             </ul>
             <ul class="sub-nav nav">
-                <li><a href="#wrac">WRAC</a></li>
+                <li><a href="#wrac">Iowa N.E.W. Leadership</a></li>
                 <li><a href="#hawkeye-awards">Hawkeye Awards</a></li>
                 <li><a href="#pick-one">Pick One</a></li>
-                <li><a href="#mentoring">Mentoring</a></li>
+                <li><a href="#mentoring">Student Mentoring</a></li>
             </ul>
         </div>
 

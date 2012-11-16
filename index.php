@@ -68,31 +68,31 @@
                 <div class="span2 offset1">
                     <a href="excel.php"><img src="images/home_excel.jpg" alt="" /></a>
                     <h4 style="margin-top: 10px;">Excel</h4>
-                    <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
+                    <p class="smtxt">Set high standards—push yourself academically.</p>
                     <a href="excel.html" class="btn btn-small">Read the stories</a>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
                     <h4 style="margin-top: 10px;">Stretch</h4>
-                    <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
+                    <p class="smtxt">Learn from diverse people, ideas, and experiences.</p>
                     <a href="stretch.php" class="btn btn-small">Read the stories</a>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
                     <h4 style="margin-top: 10px;">Engage</h4>
-                    <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
+                    <p class="smtxt">Get involved and be a leader.</p>
                     <a href="engage.php" class="btn btn-small">Read the stories</a>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
                     <h4 style="margin-top: 10px;">Choose</h4>
-                    <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
+                    <p class="smtxt">Make decisions that support your goals.</p>
                     <a href="choose.php" class="btn btn-small">Read the stories</a>
                 </div>
                 <div class="span2">
                     <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
                     <h4 style="margin-top: 10px;">Serve</h4>
-                    <p class="smtxt">Lorem ipsum dolor sit amet consectitur adipiscing elit.</p>
+                    <p class="smtxt">Contribute to a community that’s a great place to live and learn.</p>
                     <a href="serve.php" class="btn btn-small">Read the stories</a>
                 </div>
             </div>
