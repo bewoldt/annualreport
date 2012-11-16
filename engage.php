@@ -37,20 +37,18 @@
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
             <ul id="nav" class="clearfix">
-                <li>
-                    <a href="index.php">Home<em>&nbsp;</em></a>
-                </li>
-                <li><a href="excel.php">Excel<em>Set high standards</em></a></li>
-                <li><a href="stretch.php">Stretch<em>diversity</em></a> </li>
-                <li class="active"><a href="engage.php">Engage<em>Get involved</em></a></li>
-                <li> <a href="choose.php">Choose<em>Make decisions</em></a></li>
-                <li> <a href="serve.php">Serve<em>community</em></a></li>
+                <li> <a href="index.php">Home</a></li>
+                <li><a href="excel.php">Excel</a></li>
+                <li><a href="stretch.php">Stretch</a> </li>
+                <li class="active"><a href="engage.php">Engage</a></li>
+                <li> <a href="choose.php">Choose</a></li>
+                <li> <a href="serve.php">Serve</a></li>
             </ul>
             <ul class="sub-nav nav">
                 <li><a href="#wrac">Iowa N.E.W. Leadership</a></li>
                 <li><a href="#hawkeye-awards">Hawkeye Awards</a></li>
                 <li><a href="#pick-one">Pick One</a></li>
-                <li><a href="#mentoring">Student Mentoring</a></li>
+                <li><a href="#critical-mass">Critical M.A.S.S.</a></li>
             </ul>
         </div>
 
@@ -93,10 +91,12 @@
         <section id="hawkeye-awards" class="video-block fixed-img">
             <div class="row-fluid">
                 <div class="span8 offset2">
-                    <div id="hawkeye-awards-video" class="video-container">
-                        <iframe width="560" height="315" src="http://www.youtube.com/embed/MD5nMi2Hv7Q?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <div class="video-container video">
+                        <a href="http://www.youtube.com/embed/MD5nMi2Hv7Q?rel=0" data-video="MD5nMi2Hv7Q">
+                            <img src="images/engage/hawkeye_awards_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
+                            <img src="images/play.png" alt="play" class="play">
+                        </a>
                         <h1>Hawkeye Awards</h1>
-                        <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>
                 </div>
             </div> <!-- end row -->
@@ -133,13 +133,15 @@
             </div><!-- end row -->
         </section>
 
-        <section id="mentoring" class="video-block">
+        <section id="critical-mass" class="video-block">
             <div class="row-fluid">
                 <div class="span8 offset3">
-                    <div id="critical-mass" class="video-container">
-                        <iframe width="560" height="315" src="http://www.youtube.com/embed/RRA2kGY-yig?rel=0" frameborder="0" allowfullscreen></iframe>
-                        <h1>Supporting Students Through Mentoring</h1>
-                        <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
+                    <div class="video-container video">
+                        <a href="http://www.youtube.com/embed/RRA2kGY-yig?rel=0" data-video="RRA2kGY-yig">
+                            <img src="images/engage/critical_mass_video.jpg" alt="Click to view the Critical M.A.S.S. Video" width="718" height="404">
+                            <img src="images/play.png" alt="play" class="play">
+                        </a>
+                        <h1>Critical M.A.S.S.</h1>
                     </div>
                 </div>
             </div> <!-- end row -->

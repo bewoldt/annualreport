@@ -36,14 +36,12 @@
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
             <ul id="nav" class="clearfix">
-                <li>
-                    <a href="index.php">Home<em>&nbsp;</em></a>
-                </li>
-                <li><a href="excel.php">Excel<em>Set high standards</em></a></li>
-                <li><a href="stretch.php">Stretch<em>diversity</em></a> </li>
-                <li><a href="engage.php">Engage<em>Get involved</em></a></li>
-                <li><a href="choose.php">Choose<em>Make decisions</em></a></li>
-                <li class="active"> <a href="serve.php">Serve<em>community</em></a></li>
+                <li><a href="index.php">Home<em>&nbsp;</em></a></li>
+                <li><a href="excel.php">Excel</a></li>
+                <li><a href="stretch.php">Stretch</a></li>
+                <li><a href="engage.php">Engage</a></li>
+                <li><a href="choose.php">Choose</a></li>
+                <li class="active"> <a href="serve.php">Serve</a></li>
             </ul>
             <ul class="sub-nav clearfix">
                 <li><a href="#sorority-life">Fostering a Philanthropic Community</a></li>
@@ -98,8 +96,11 @@
         <section id="sorority-services" class="video-block fixed-img">
             <div class="row-fluid">
                 <div class="span8 offset2">
-                    <div id="sorority-services-video" class="video-container">
-                        <iframe width="560" height="315" src="http://www.youtube.com/embed/UqDJ0buBn9M?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <div class="video-container video">
+                        <a href="http://www.youtube.com/embed/UqDJ0buBn9M?rel=0" data-video="UqDJ0buBn9M">
+                            <img src="images/serve/fraternity_sorority_still.jpg" alt="Click to view the Critical M.A.S.S. Video" width="714" height="402">
+                            <img src="images/play.png" alt="play" class="play">
+                        </a>
                         <h1>Fraternity and Sorority Life</h1>
                     </div>
                 </div>

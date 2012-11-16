@@ -4,14 +4,17 @@ $(document).ready(function() {
     // add js class to body if javascript enabled
     $('body').addClass('js');
 
-    /* FitVid Videos */
-    $('#ESEE, #iowagrow-video, #cultural-centers-video, .video-container').fitVids();
-
-    /* Video Screencap Click function */
-    $('#ESEE .screencap').click(function() {
-        $(this).fadeOut(1000);
-        $('#ESEE iframe').attr('src', 'http://www.youtube.com/embed/rRVOh6W4YPk?rel=0&autoplay=1');
-        return false;
+    /* Videos */
+    $('.video a').click(function(e){
+        var that = $(this);
+        var video = that.data('video');
+        var width = $('img', that).width();
+        var height = $('img', that).height();
+        that.parent().addClass('on');
+        that.parent().prepend('<iframe src="http://www.youtube.com/embed/' + video + '?rel=0&autoplay=1" width="' + width + '" height="' + height + '" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>');
+        that.fadeOut(1000);
+        that.parent().fitVids();
+        e.preventDefault();
     });
 
     /* Flexslider */
@@ -45,28 +48,7 @@ $(document).ready(function() {
         $menulink.toggleClass('active');
         $menu.toggleClass('active');
         return false;
-    });
-
-    
-	/* localscroll
-	$('.sub-nav').localScroll({
-		offset: -98,
-		duration:1200
-	}); */
-
-    /* Scrollorama
-    var scrollorama = $.scrollorama({
-        blocks:'.scrollblock',
-        enablePin: false
-    });
-
-    scrollorama.animate('#block',{ 
-        delay: 0,
-        duration: 1190,
-        property: 'top',
-        start: -200,
-        end: 0
-    }); */
+    });     
 
 
     /* Navigation Sticky */

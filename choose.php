@@ -37,12 +37,12 @@
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
             <ul id="nav" class="clearfix">
-                <li><a href="index.php">Home<em>&nbsp;</em></a></li>
-                <li><a href="excel.php">Excel<em>Set high standards</em></a></li>
-                <li><a href="stretch.php">Stretch<em>diversity</em></a> </li>
-                <li><a href="engage.php">Engage<em>Get involved</em></a></li>
-                <li class="active"><a href="choose.php">Choose<em>Make decisions</em></a></li>
-                <li><a href="serve.php">Serve<em>community</em></a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="excel.php">Excel</a></li>
+                <li><a href="stretch.php">Stretch</a> </li>
+                <li><a href="engage.php">Engage</a></li>
+                <li class="active"><a href="choose.php">Choose</a></li>
+                <li><a href="serve.php">Serve</a></li>
             </ul>
             <ul class="sub-nav clearfix">
                 <li><a href="#student-health">Student Health Services</a></li>
@@ -101,10 +101,12 @@
         <section id="leisure-skills" class="video-block fixed-img">
             <div class="row-fluid">
                 <div class="span8 offset2">
-                    <div id="leisure-video" class="video-container">
-                        <iframe width="560" height="315" src="http://www.youtube.com/embed/d1csMTIM58M?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <div class="video-container video">
+                        <a href="http://www.youtube.com/embed/d1csMTIM58M?rel=0" data-video="d1csMTIM58M">
+                            <img src="images/choose/leisure_skills_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
+                            <img src="images/play.png" alt="play" class="play">
+                        </a>
                         <h1>Lifetime Leisure Skills</h1>
-                        <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>
                 </div>
             </div> <!-- end row -->

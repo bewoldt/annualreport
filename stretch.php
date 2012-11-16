@@ -38,14 +38,12 @@
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
             <ul id="nav" class="clearfix">
-                <li>
-                    <a href="index.php">Home<em>&nbsp;</em></a>
-                </li>
-                <li><a href="excel.php">Excel<em>Set high standards</em></a></li>
-                <li class="active"><a href="stretch.php">Stretch<em>diversity</em></a> </li>
-                <li><a href="engage.php">Engage<em>Get involved</em></a></li>
-                <li> <a href="choose.php">Choose<em>Make decisions</em></a></li>
-                <li> <a href="serve.php">Serve<em>community</em></a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="excel.php">Excel</a></li>
+                <li class="active"><a href="stretch.php">Stretch</a> </li>
+                <li><a href="engage.php">Engage</a></li>
+                <li> <a href="choose.php">Choose</a></li>
+                <li> <a href="serve.php">Serve</a></li>
             </ul>
             <ul class="sub-nav nav">
                 <li><a href="#cultural-centers">Cultural Centers</a></li>
@@ -62,8 +60,11 @@
                         <h1 class="title">Fostering Inclusion</h1>
                         <h3 class="sub-head">Cultural Centers See an Increase in Meaningful Activity and Interaction</h3>
                     </header>
-                    <div id="cultural-centers-video">
-                        <iframe width="560" height="315" src="http://www.youtube.com/embed/k4cqzu5pZis?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <div id="cultural-centers-video" class="video">
+                        <a href="http://www.youtube.com/embed/k4cqzu5pZis?rel=0" data-video="k4cqzu5pZis">
+                            <img src="images/stretch/cultural-centers-still.jpg" alt="Click to view the Cultural Centers Video" width="830" height="467">
+                            <img src="images/play.png" alt="play" class="play">
+                        </a>
                     </div>
                     <hr>
                     <div class="row-fluid">
@@ -108,7 +109,7 @@
                         </div>
                     </div>
                     <div class="row-fluid">
-                        <div class="span9 offset3" contenteditable="true">
+                        <div class="span9 offset3">
                             <p>There are four UICRC centers situated on campus including: Afro-American Cultural Center, Asian Pacific American Cultural Center, Latino Native American Cultural Center, and the Lesbian, Gay, Bisexual, Transgender Resource Center. In the last year, the UICRC has been successful in starting new initiatives and creating new staff changes. This culminates in more attention to center relationships while still recognizing newly created student groups, constituency groups, and community members.</p>
                            <p>From 2011 to 2012, there was a 10.5% increase in visitrs to the Centers, with the Asian Pacific American Cultural Center (APACC) receiving the largest percentage of increase in visits (39%). During the 2011-2012 school year, the Centers saw a total of 28,769 visitors. </p>
                         </div>
@@ -120,10 +121,12 @@
         <section id="kotheid" class="video-block">
             <div class="row-fluid">
                 <div class="span8 offset1">
-                    <div id="kotheid-video" class="video-container">
-                        <iframe width="560" height="315" src="http://www.youtube.com/embed/jYxO8wk7bIs?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <div class="video-container video">
+                        <a href="http://www.youtube.com/embed/jYxO8wk7bIs?rel=0" data-video="jYxO8wk7bIs">
+                            <img src="images/stretch/kotheid-video.jpg" alt="Click to view the Kotheid Video" width="718" height="404">
+                            <img src="images/play.png" alt="play" class="play">
+                        </a>
                         <h1>Student Profile - Kotheid</h1>
-                        <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>
                 </div>
             </div> <!-- end row -->

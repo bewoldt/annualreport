@@ -26,23 +26,22 @@
     <div class="container-fluid">
         <?php include 'includes/division-nav.php'; ?>
         <div id="header">
-            <div id="ESEE">
-                <a href="#" class="screencap">
-                    <img src="images/home_header.jpg" alt="">
+            <div id="ESEE" class="video">
+                <a href="http://www.youtube.com/embed/rRVOh6W4YPk?rel=0" data-video="rRVOh6W4YPk">
+                    <img src="images/home_header.jpg" alt="Click to view Tom Rocklin's Message" width="1000" height="563">
                 </a>
-                <iframe width="1000" height="563" src="http://www.youtube.com/embed/rRVOh6W4YPk?rel=0" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
     </div>
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
             <ul id="nav" class="clearfix">
-                <li class="active"><a href="index.php">Home<em>&nbsp;</em></a></li>
-                <li><a href="excel.php">Excel<em>Set high standards</em></a></li>
-                <li><a href="stretch.php">Stretch<em>diversity</em></a> </li>
-                <li><a href="engage.php">Engage<em>Get involved</em></a></li>
-                <li> <a href="choose.php">Choose<em>Make decisions</em></a></li>
-                <li> <a href="serve.php">Serve<em>community</em></a></li>
+                <li class="active"><a href="index.php">Home</a></li>
+                <li><a href="excel.php">Excel</a></li>
+                <li><a href="stretch.php">Stretch</a> </li>
+                <li><a href="engage.php">Engage</a></li>
+                <li> <a href="choose.php">Choose</a></li>
+                <li> <a href="serve.php">Serve</a></li>
             </ul>
         </div>
 

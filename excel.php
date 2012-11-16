@@ -38,14 +38,12 @@
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
             <ul id="nav" class="clearfix">
-                <li>
-                    <a href="index.php">Home<em>&nbsp;</em></a>
-                </li>
-                <li class="active"><a href="excel.php">Excel<em>Set high standards</em></a></li>
-                <li><a href="stretch.php">Stretch<em>diversity</em></a> </li>
-                <li><a href="engage.php">Engage<em>Get involved</em></a></li>
-                <li> <a href="choose.php">Choose<em>Make decisions</em></a></li>
-                <li> <a href="serve.php">Serve<em>community</em></a></li>
+                <li><a href="index.php">Home</a></li>
+                <li class="active"><a href="excel.php">Excel</a></li>
+                <li><a href="stretch.php">Stretch</a> </li>
+                <li><a href="engage.php">Engage</a></li>
+                <li> <a href="choose.php">Choose</a></li>
+                <li> <a href="serve.php">Serve</a></li>
             </ul>
             <ul class="sub-nav clearfix">
                 <li><a href="#cassidy-bell">Cassidy Bell</a></li>
@@ -114,8 +112,11 @@
                         <h1 class="title">Iowa Grow</h1>
                         <h3 class="sub-head">Creating Meaningful Connections Between Work and Academics</h3>
                     </header>
-                    <div id="iowagrow-video">
-                        <iframe width="560" height="315" src="http://www.youtube.com/embed/D02HqwcXMQo?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <div class="video">
+                        <a href="http://www.youtube.com/embed/D02HqwcXMQo?rel=0" data-video="D02HqwcXMQo">
+                            <img src="images/excel/iowa-grow-still.jpg" alt="Click to view Iowa Grow Video" width="830" height="467">
+                            <img src="images/play.png" alt="play" class="play">
+                        </a>
                     </div>
                     <hr>
                     <div class="row-fluid">
