@@ -101,7 +101,6 @@
                     <div id="sorority-services-video" class="video-container">
                         <iframe width="560" height="315" src="http://www.youtube.com/embed/UqDJ0buBn9M?rel=0" frameborder="0" allowfullscreen></iframe>
                         <h1>Fraternity and Sorority Life</h1>
-                        <p>Sed posuere consectetur est at lobortis consectitur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et ornare egestas mattis.</p>
                     </div>
                 </div>
             </div>
