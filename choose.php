@@ -18,6 +18,10 @@
     <script src="http://use.edgefonts.net/open-sans:n4,i4,n7;alfa-slab-one:n4.js"></script>
     <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="js/vendor/respond.min.js"></script>
+        <link href="http://hulk.imu.uiowa.edu/annualreport/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+        <link href="respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+        <script src="respond.proxy.js"></script>
     <![endif]-->
     
 </head>
@@ -45,7 +49,7 @@
                 <li><a href="serve.php">Serve</a></li>
             </ul>
             <ul class="sub-nav clearfix">
-                <li><a href="#student-health">Student Health Services</a></li>
+                <li><a href="#student-health">Supporting Health and Safety</a></li>
                 <li><a href="#leisure-skills">Lifetime Leisure Skills</a></li>
                 <li><a href="#starrez">Star Rez</a></li>
             </ul>
@@ -55,26 +59,25 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">
-                        <h1 class="title">Student Health Service and Health Iowa</h1>
-                        <h3 class="sub-head">Encouraging Student Health and Safety</h3>
+                        <h1 class="title">Supporting Health and Safety</h1>
+                        <h3 class="sub-head">Students Benefit from Student Health Service and Health Iowa</h3>
                     </header>
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Goes Here</span></em></li>
-                                <li><em>Photography by <span>Name Goes Here</span></em></li>
+                                <li>Encouraging Student Health and Safety</li>
+                                <li><em>Words by <span>Mary Koberstein</span></em></li>
+                                <li><em>Video by <span>Scott Lahn</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">F</span>or most students, college introduces far more freedom than ever before. Fortunately, the University of Iowa Student Health Service and Health Iowa provide programs that encourage beneficial choices in crucial areas: health and safety.</p>
-                            <h2>Colorful Choices</h2>
+                            <p><span class="dropcap">F</span>or most students, going to college means newfound freedom and choices that must be made daily. Fortunately, Student Health Service encourages smart choices in the crucial area of health and safety.</p>
                             <img src="images/choose/colorful_choices.png" alt="Colorful Chilces logo" class="left">
-                            <p>Colorful Choices is a program promoting students to make healthy nutritional decisions. Rather than stressing over calorie counting, fat gram tabulating, or weighing and measuring, the program boasts a simple way of eating healthier through opting for colorful fruits and vegetables. The 20-day program provides students with a log form to track their daily intake of fruits and vegetables by color group (red, orange, yellow/white, green, and blue/violet). Along with this, participants receive weekly emails featuring health tips and motivation.</p>
+                            <p>Colorful Choices is one such program, which works to promote healthy decision making by students. Rather than focusing on metrics such calories, fat grams, or weights, the program promotes a simpler way of eating healthier through opting for colorful fruits and vegetables. The program asks students to log their intake of fruits and vegetables for 20 days, while grouping them by color. Along with this, participants receive weekly emails featuring health tips and motivation.</p>
                             
-                            <p>Colorful Choices took place from September 28th through October 17th of the Fall 2011 semester. Four hundred eighty-nine students registered to participate. Beyond individual accountability for logging daily intake of fruits and vegetables, these students were provided with resources for healthy recipes, tips on where to find fresh, local produce, and the opportunity to attend a cooking class.</p>
+                            <p>Last year, 489 students registered to participate in the program. Beyond individual accountability for logging daily intake of fruits and vegetables, these students were provided with resources for healthy recipes, tips on where to find fresh, local produce, and the opportunity to attend a cooking class.</p>
                             
-                            <p>To calculate the success of the program, students were encouraged to take a post survey questioning their progress, and approximately half of those registered participated in this survey. Of those questioned, 41.7% were eating five or more servings of fruits and vegetables per day prior to participating in the Colorful Choices program. Following the program, those eating five or more servings a day jumped to 80.6%. To see a breakdown of daily averages before and after Colorful Choices please see the graph below.</p>
+                            <p>To calculate the success of the program, a participant survey was conducted with a 50% return rate. Of those who responded, 41.7% were eating five or more servings of fruits and vegetables per day prior to participating. Following the program, those eating five or more servings a day jumped to 80.6%.</p>
                         </div>
                         <div class="span12">
                             <blockquote class="full-width">
@@ -83,14 +86,12 @@
                             </blockquote>
                         </div>
                         <div class="span9 offset3">
-                            <p>In addition, there was extensive positive feedback from participants, including anonymous comments such as, “I liked that the suggestions were realistic for a college budget and time-frame. This program is conducive to the student lifestyle, and provides people with the information necessary to start making better nutritional choices one step at a time.” Another student remarked, “I like that it was easy to see how many fruits and vegetables you eat and the variety that you consume. I liked the follow up emails and the encouragement in them. I also appreciated the links to further info in those emails.” Due to this success, the program will continue to run during the 2012-2013 school year.</p>
+                            <p>In addition, participants left many comments in the survey such as, “I liked that the suggestions were realistic for a college budget and time-frame. This program is conducive to the student lifestyle, and provides people with the information necessary to start making better nutritional choices one step at a time.” Another student remarked, “I like that it was easy to see how many fruits and vegetables you eat and the variety that you consume. I liked the follow up emails and the encouragement in them. I also appreciated the links to further info in those emails.” Due to this success, the program will continue to run during the 2012-2013 school year.</p>
 
                             <img src="images/choose/headstrong.png" alt="HeadStrong logo" class="left">
                             <p>Beyond encouraging healthy dietary decisions, Student Health Service and Health Iowa, in collaboration with the University of Iowa Student Government and MopedU, promoted personal safety through the HeadStrong campaign implemented during the Spring 2012 semester. The goal of the campaign was to increase the number of student moped riders wearing helmets.</p>
                             
-                            <p>Eleven Peer Agents identified as helmet-wearing moped riders were recruited to aid in spreading the word. These Peer Agents were given fifteen brochures about the campaign and vouchers for free helmets, a HeadStrong t-shirt, and talking points to encourage others to also wear a helmet. Peer Agents were then asked to approach friends and peers who ride mopeds without the protection of a helmet. If these friends or peers signed a pledge card to wear a helmet, they received a voucher to redeem a free helmet from MopedU. One hundred fifty helmets were purchased for this purpose.</p>
-
-                            <p>In order to track the success of the campaign, Health Iowa and UISG staff conducted pre-observation studies in seven areas on campus at different times of day throughout the week of March 26 - March 30, 2012. Tallies of moped riders wearing and not wearing helmets were made. During the month of April, vouchers were distributed and helmet-wearing was encouraged by the Peer Agents, MopedU staff, and Student Health Service staff. Other marketing efforts were made on the Student Health Service website, the Student Health Service e-newsletter, on Cambuses, and on Visix screens at the IMU, CRWC, and Field House. Following these efforts, a post-observation study replicating the original pre-observation study was conducted during the week of April 30 - May 4, 2012.</p>
+                            <p>Eleven Peer Agents identified as helmet-wearing moped riders were recruited to aid in spreading the word. These Peer Agents were given fifteen brochures about the campaign and vouchers for free helmets, a HeadStrong t-shirt, and talking points to encourage others to also wear a helmet. Peer Agents were then asked to approach friends and peers who ride mopeds without the protection of a helmet. If these friends or peers signed a pledge card to wear a helmet, they received a voucher to redeem a free helmet from MopedU. 150 helmets were purchased for this purpose.</p>
                         </div>
                     </div><!-- end row -->
                 </div>
@@ -115,32 +116,22 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <header class="header">
-                        <h1 class="title">Choose Your College Destiny With Star Rez</h1>
-                        <h3 class="sub-head">What if you could pick your roommate based on mutual preferences?</h3>
+                        <h1 class="title">Star Rez Helps Find Compatible Roommates</h1>
+                        <h3 class="sub-head">New Program Results in Greater Roommate Compatibility</h3>
                     </header>
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Goes Here</span></em></li>
+                                <li>University Housing & Dining</li>
+                                <li><em>Words by <span>Maddy Osman</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">T</span>he University of Iowa Housing Department was faced with a dilemma - their old housing application system was about to become obsolete and they had to figure out how to best replace it. The answer came in the form of Star Rez, which is a survey incoming freshman can voluntarily take to match them to a roommate with similar interests and values. Star Rez was used by about 1100 out of the over 4300 (about 25%) incoming freshman in its first year of inception. It asked questions about ideal study environment, allowable noise level, and other preferences. So far, the program seems to have been successful. RAs are reporting fewer roommate disputes on their floors and all else equal, there are fewer room switches compared with last year at the same time. It’s still too early to see how successful this program really is, but the data so far is positive.</p>
-                        </div>
-                    </div>
-                    <div class="row-fluid">
-                        <div class="span12">
+                            <p><span class="dropcap">L</span>ast year, the University of Iowa Housing Department was faced with a challenge: their housing application system needed to be replaced. The answer came in the form of Star Rez; a system which helps match incoming students with a roommate with similar interests. Star Rez was used by about 25% of the incoming freshmen (about 1,100) during its first year of operation. The system asks questions about ideal study environment, allowable noise level, and other preferences.</p>
                             <blockquote class="full-width">
                                 <p>Star Rez was used by about 1100 out of the over 4300 (about 25%) incoming freshman in its first year of inception.</p>
                             </blockquote>
-                        </div>
-                    </div>
-                    <div class="row-fluid">
-                        <div class="span9 offset3">
-                            <p>Unexpected benefits of using the Star Rez system include winning over students who have seen it as a competitive advantage of the University of Iowa compared to other schools they were considering. Choosing your roommate makes for a much easier first year and transition into a new place. Star Rez has even allowed Housing to get roommate assignments out earlier. However, there are still issues to address. Some of the verbiage the Star Rez system uses is unclear and makes the process unnecessarily difficult and time consuming in some cases.</p>
-                        
-                            <p>Regardless of a person’s situation, it’s always scary to go out on your own for the first time without your parents to fall back on. What it comes down to is perspective - are you going to let it ruin your time or seize the opportunity for growth? Roommates bring you a whole new world to learn from. What’s better than making sure the roommate you want is the roommate you get?</p>
+                            <p>So far, the program seems to have been successful. RAs are reporting fewer roommate disputes on their floors and fewer roommate changes when compared with the previous year. Previously, roommates were matched based on the building and room type they requested. University Housing staff is looking forward to seeing increased use of the system in the coming years.</p>
                         </div>
                     </div><!-- end row -->
                 </div>

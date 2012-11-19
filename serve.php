@@ -17,6 +17,10 @@
     <script src="http://use.edgefonts.net/open-sans:n4,i4,n7;alfa-slab-one:n4.js"></script>
     <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="js/vendor/respond.min.js"></script>
+        <link href="http://hulk.imu.uiowa.edu/annualreport/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+        <link href="respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+        <script src="respond.proxy.js"></script>
     <![endif]-->
     
 </head>

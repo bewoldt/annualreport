@@ -19,6 +19,10 @@
     <script src="http://use.edgefonts.net/open-sans:n4,i4,n7;alfa-slab-one:n4.js"></script>
     <!--[if lt IE 9]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="js/vendor/respond.min.js"></script>
+        <link href="http://hulk.imu.uiowa.edu/annualreport/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+        <link href="respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+        <script src="respond.proxy.js"></script>
     <![endif]-->
     
 </head>
@@ -46,7 +50,7 @@
                 <li> <a href="serve.php">Serve</a></li>
             </ul>
             <ul class="sub-nav clearfix">
-                <li><a href="#cassidy-bell">Cassidy Bell</a></li>
+                <li><a href="#cassidy-bell">Rising to the Iowa Challenge</a></li>
                 <li><a href="#iowagrow">Iowa Grow</a></li>
                 <li><a href="#ucs">University Counseling Service</a></li>
                 <li><a href="#readwrite">Read and Write Gold</a></li>
@@ -59,8 +63,8 @@
                 <div class="span8 offset2">
                      <div class="content">
                         <header>
-                            <h1 class="title">Cassidy Bell</h1>
-                            <h3 class="sub-head">Rising to the Iowa Challenge</h3>
+                            <h1 class="title">Rising to the Iowa Challenge</h1>
+                            <h3 class="sub-head">Cassidy Bell Sets an Example for Students</h3>
                         </header>
                         <div class="meta">
                             <ul>
@@ -69,35 +73,31 @@
                                 <li><em>Photography by <span>Chelsea Darter</span></em></li>
                             </ul>
                         </div>
-                        <p><span class="dropcap">T</span>he Meet the Challenge Awards are given to those who are examples of successes coming to life at the University of Iowa. When students take their first steps on campus they are not simply inducted into an academic community that strives towards higher education, but they become apart of the Hawkeye family. Cassidy Bell, a 2012 graduate, won the Meet the Challenge award for Engage in the last year for her work at the Rape Victim Advocacy Program (RVAP) where she had been volunteering since June 2011. By recognizing students such as Bell with the Meet the Challenge awards, it allows students to act as visible examples to inspire future students in the paths that they take on in their 4-year stay at the University of Iowa.</p>
+                        <p><span class="dropcap">T</span>he Meet the Challenge Awards are given to those who exemplify the values outlined in the Iowa Challenge. Cassidy Bell, a 2012 graduate, won the "Engage" award for her work at the Rape Victim Advocacy Program (RVAP), where she had been volunteering since June 2011.</p>
                         <blockquote>
-                            <p>“It is a thrill and honor to be recognized for the work that I do. I certainly feel like I am engaged in the community,” Bell said. “Iowa City has become my home in the last several years and I am proud to be on both the giving and receiving side of support in this community.”</p>
+                            <p>“It is a thrill and honor to be recognized for the work that I do. I certainly feel like I am engaged in the community. Iowa City has become my home in the last several years and I am proud to be on both the giving and receiving side of support in this community.”</p>
                             <small>Cassidy Bell</small>
                         </blockquote>
                         <p>The Meet the Challenge Awards are broken down by each of the five initiatives by the Iowa Challenge. Five awards are given each year with a $500 award to each recipient for the awards: Excel, Stretch, Choose, Engage, Serve.</p>
-
                         <blockquote>
-                        	<p>“In a sense, it helps provide a roadmap that students can use to achieve success at Iowa and beyond,” said Sarah Hansen, Director of Assessment and Strategic Initiatives at the Division of Student Life.</p>
+                        	<p>“In a sense, it helps provide a roadmap that students can use to achieve success at Iowa and beyond."</p>
                         	<small>Sarah Hansen, Assistant VP for Assessment & Strategic Initiatives, Division of Student Life</small>
                         </blockquote>
+                        <p>For Bell, the award was an unexpected honor, and she had not heard of the Meet the Challenge Awards before being nominated. “I was honored as soon as [I was] notified of my nomination, but even more so after seeing how prestigious the Iowa Challenge is,” Bell said. “I thought this would be a good way to help people, get experience in the field and find out if a career in counseling is actually something that I want to do."</p>
 
-                        	<p>For Bell, it was an unexpected honor to receive this award because she had not heard of the Meet the Challenge awards before. Her work was for her own pleasure of serving the community rather than being something with an end goal. “I was honored as soon as [I was] notified of my nomination, but even more so after seeing how prestigious the Iowa Challenge is,” Bell said.</p>
-
-                        <p>Volunteering with RVAP was something that Bell desired to do to compliment her work in the classroom as a psychology major. Her plans after graduation are to have a therapy practice. She felt that volunteering would have the benefit of serving the Iowa City community as well as learning something new. Working there was something she could feel a sense of pride about.</p>
+                        <p>Volunteering with RVAP also complemented Bell's work in the classroom as a psychology major. Her plans after graduation are to have a therapy practice. She felt that volunteering would have the benefit of serving the Iowa City community as well as learning something new. Working there was something she could feel a sense of pride about. Other student organizations and groups that she has had a hand in during her 4-year stay at the UI include Simply Food, the Local Foods Connection, and the Iowa City Farmers Market.</p>
 
                         <p>“I thought this would be a good way to help people, get experience in the field and
                         find out if a career in counseling is actually something that I want to do,” Bell said.</p>
 
                         <p>Volunteering for RVAP was one of the many things that Bell was apart of on campus. Other student organizations and groups that she has had a hand in during her 4-year stay at the UI include Simply Food, the Local Foods Connection, and the Iowa City Farmers Market.</p>
-
                         <blockquote>
                             <p>“We hope that seeing the amazing things our Meet the Challenge winners are doing will inspire all students to use the challenge as a guide for their own path to success.”</p>
                             <small>Sarah Hansen</small>
                         </blockquote>
+                        <p>Bell graduated with a degree in Psychology and a minor in Health Promotion in 2012. She has continued engaging with the Iowa City community by working as the Family Service Specialist at the Local Foods Connection as well as the manage the Iowa City Farmers Market.</p>
 
-                        <p>Bell graduated with a degree in Psychology and a minor in Health Promotion in 2012. She has continued engaging with the Iowa City community by working as the Family Service Specialist at the Local Foods Connection as well as the manage the Iowa City Farmers Market. </p>
-
-                        <p>Other award winners for the 2011-2012 academic year include Rachel Kentor (Excel Award), Kotheid Nicoue (Stretch Award), Jason Heard (Choose Award), and Ben Phol (Serve Award). </p>
+                        <p>Other award winners for the 2011-2012 academic year include Rachel Kentor (Excel Award), Kotheid Nicoue (Stretch Award), Jason Heard (Choose Award), and Ben Phol (Serve Award).</p>
 
                     </div>
                 </div>
@@ -127,14 +127,14 @@
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">E</span>mployment during college can contribute to student success while at the University of Iowa. Student supervisors in IOWA GROW™ help students make the connection between what they learn in their classes to what they are learning at their place of employment. This connection is key to the overall professional and academic success of our students. IOWA GROW™ uses four essential questions to keep their long term goals in sight:</p>
+                            <p><span class="dropcap dropwide">W</span>orking in a job or internship during college can be a valuable learning experience. Student supervisors in IOWA GROW™ help students make meaningful connections between their student jobs and academic pursuits. IOWA GROW™ uses four essential questions to keep their long-term goals in sight:</p>
                             <ul>
                                 <li>How is this job fitting in with your academics?</li>
                                 <li>What are you learning here that’s helping you in school?</li>
                                 <li>What are you learning in class that you can apply here at work?</li>
                                 <li>Can you give me a couple of examples of things you’ve learned  here that you think you’ll use in your chosen profession?</li>
                             </ul>
-                            <p>These questions reinforce “Every Student, Every Encounter” through the personal relationships student supervisors are making with their employees. This connection is crucial to student academic success through their campus employment.</p>
+                            <p>These conversations help students discover connections between work and academics, leading to a deeper understanding of future career paths, professional environments, and how to apply what they learn in the classroom.</p>
                         </div>
                     </div><!-- end row -->
                 </div>
@@ -168,11 +168,11 @@
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">A</span>ccording to the University Counseling Services (UCS), the education students gain during their time at the University of Iowa is a 4-year experience that is both academic and nonacademic. The education they build through these experiences coalesce and contribute to their overall development. Student development is built on a base of the mindfulness they have in any situation that they may face. The UCS offers Mindfulness programming to students in various group courses ranging from outside of the classroom to for-credit courses available through the university.</p>
+                            <p><span class="dropcap">A</span>ccording to the University Counseling Services (UCS), the education students gain during their time at the University of Iowa is a mix of academic and non-academic learning and development. Mindfulness practice helps students learn to face challenging situations, manage stress, and increase focus. The UCS offers Mindfulness programming to students in various group courses ranging from outside of the classroom to for-credit courses available through the university.</p>
                     
                             <p>“Students learn formal mindfulness meditation practices that include awareness of physical, cognitive and emotional experiences, as well as informal practices such as mindful eating, studying, communication, and mindful use of cellphones and social media,” Kerri Eness-Potter, Program Coordinator for MIndfulness-Based Programs, said. “They are also introduced to research and application to professional and academic areas.”</p>
 
-                            <p>In the 2011-2012 academic year, UCs offered two non-academic courses titled “Mindfulness Foundations” and “Mindfulness: Being Here With It All.” Both of these classes contained eight-week group sessions that differ in scope. The “Mindfulness Foundations” course focused upon teaching students the secular, personal practices of mindfulness. It also focused upon the conceptual and theoretical aspects of mindfulness and the academic importance of mindfulness when looking at research and other resources. The course, “Mindfulness: Being Here With It All” is a course that is meant for first-year students to help them transition from prior life to university life by teaching them the skills they can use in relation to personal stresses internally and externally.</p>
+                            <p>In the 2011-2012 academic year, UCS offered two non-academic courses titled “Mindfulness Foundations” and “Mindfulness: Being Here With It All.” Both of these classes contained eight-week group sessions that differ in scope. The “Mindfulness Foundations” course focused upon teaching students the secular, personal practices of mindfulness. It also focused upon the conceptual and theoretical aspects of mindfulness and the academic importance of mindfulness when looking at research and other resources. “Mindfulness: Being Here With It All” is meant for first-year students to help them transition to university life by teaching them skills they can use in relation to personal stresses.</p>
                         </div>
                     </div>
                     <div class="row-fluid">
@@ -187,8 +187,6 @@
                     <div class="row-fluid">
                         <div class="span9 offset3">
                             <p>Between 15-20 students attended each section of the two courses. In the for-credit courses, students are achieving high scores. The student evaluations conducted at the closing of each course have come back very positive. Although the program has been at the University of Iowa Hospitals and Clinics since 1996, the mindfulness courses started in 2009. It is still in the pilot research phase, but the effect that it has had on students is evident.</p>
-                            <p>“Students do quite well in the for credit classes, though most comment that they are more work than what they expected!” Eness-Potter said.</p>
-                            <p>In the last year, University Counseling Service has extended their reach to students by establishing a Facebook page and twitter accounts. With this outreach, along with classes offered, students can reach their potential at the UI and find their path in life.</p>
                         </div>
                     </div>
                 </div>

@@ -44,6 +44,7 @@ section {
 }
 #division-nav .logo {
 	display: block;
+	overflow: hidden;
 }
 #division-nav ul {
 	display: none;
@@ -81,6 +82,7 @@ section {
 	background-size: cover;
 	-moz-background-size: cover;  /* Firefox 3.6 */
 	background-position: center;  /* Internet Explorer 7/8 */
+	background-repeat: no-repeat;
 }
 #header {
 	position: relative;
@@ -138,6 +140,9 @@ section {
 	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.3);
 	   -moz-box-shadow: 0 1px 3px rgba(0,0,0,.3);
 	        box-shadow: 0 1px 3px rgba(0,0,0,.3);
+}
+.lt-ie9 #nav-wrapper {
+	border-bottom: 1px solid #ccc;
 }
 #nav {
 	border-bottom: 1px solid #937600;
@@ -685,6 +690,9 @@ img.right {
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
 }
+.lt-ie9 .fixed-img {
+	background-attachment: scroll;
+}
 #critical-mass {
 	background-color: #fff;
 	border-top: 1px solid #ccc;
@@ -853,6 +861,7 @@ a.give-now {
 	#division-nav .logo {
 		float: left;
 		margin-right: 10px;
+		display: inline;
 	}
 	#division-nav ul {
 		display: block;
