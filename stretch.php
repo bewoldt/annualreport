@@ -195,33 +195,6 @@
                                 <li><em>Words by <span>Maddy Osman</span></em></li>
                                 <li><em>Video by <span>Scott Lahn</span></em></li>
                             </ul>
-                            <h4 style="text-align: center;
-                            background: pink;
-                            color: #333;
-                            width: 100px;
-                            border-radius: 54px;
-                            height: 65px;
-                            font-size: 14px;
-                            margin: 10px auto;
-                            padding: 35px 0 0 0;">1,000+<br>attendance</h4>
-                                                    <h4 style="text-align: center;
-                            background: pink;
-                            color: #333;
-                            width: 100px;
-                            border-radius: 54px;
-                            height: 65px;
-                            font-size: 14px;
-                            margin: 10px auto;
-                            padding: 35px 0 0 0;">100+<br>models</h4>
-                                                    <h4 style="text-align: center;
-                            background: pink;
-                            color: #333;
-                            width: 100px;
-                            font-size: 14px;
-                            border-radius: 54px;
-                            height: 65px;
-                            margin: 10px auto;
-                            padding: 35px 0 0 0;">15<br>student orgs</h4>
                         </div>
                         <div class="span9">
                             <p><span class="dropcap dropwide">W</span>alk It Out (WIO) held their third annual multicultural fashion show on April 7, 2012, showcasing an array of fashions from diverse cultures across the globe. With over 1,000 people in attendance, fifteen student organizations collaborated to celebrate cultural diversity on the University of Iowa campus. This year, University Hospitals and Clinics HIV/AIDS Program also participated in the fashion show to increase awareness and promote education of HIV and AIDS on campus. Hip-Hop, East Asian, LGBTQ, South Asian, Middle Eastern, African, and Latin American cultures and regions were represented in the show.</p>
@@ -250,13 +223,13 @@
                     <div id="walkitout-gallery" class="flexslider carousel">
                         <ul class="slides">
                             <li><img src="images/stretch/walk_a.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_b.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_i.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_k.jpg" alt="" /></li>
                             <li><img src="images/stretch/walk_c.jpg" alt="" /></li>
                             <li><img src="images/stretch/walk_e.jpg" alt="" /></li>
                             <li><img src="images/stretch/walk_g.jpg" alt="" /></li>
                             <li><img src="images/stretch/walk_h.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_i.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_k.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_b.jpg" alt="" /></li>
                             <li><img src="images/stretch/walk_l.jpg" alt="" /></li>
                         </ul>
                     </div>

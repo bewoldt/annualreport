@@ -266,9 +266,6 @@ section {
 	margin: 0 0 1em;
 	padding: 1em 0;
 }
-.reverse .header {
-	border-color: #ddd;
-}
 section header .title {
 	font-family: alfa-slab-one, arial, verdana, sans-serif;
 	font-size: 30px;
@@ -583,6 +580,7 @@ img.right {
 /* iowa grow */
 #iowagrow {border-top: 1px solid #ccc;}
 #mindfulness {background-image: url(../images/excel/mindfulness2.jpg);}
+#mindfulness blockquote {border-color: #ff5256;}
 /* ucs */
 #ucs {border-top: 1px solid #ccc;border-bottom: 1px solid #ccc;}
 #readwrite {background: #eee url(../images/bg-wave.png);}
@@ -615,6 +613,7 @@ img.right {
 	padding-bottom: 0;
 }
 #walkitout-quote {background-image: url(../images/stretch/walk_it_out.jpg);}
+#walkitout-quote blockquote {border-left-color: #FC89AD;}
 #walkitout header {border-top: none;}
 #walkitout header h1 {color: #FC89AD;}
 #walkitout .dropcap {color: #fff;}

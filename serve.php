@@ -67,7 +67,7 @@
                     <hr>
                     <div class="row-fluid">
                         <div class="span6">
-                            <p><span class="dropcap">S</span>tudents carrying backpacks on a walk is a normal thing for a college campus. Rather than having backpacks filled with textbooks and crumpled notes, the Phi Kappa Psi fraternity carried stones inscribed with the names of women who have fallen victim to breast cancer. The stones were part of a breast cancer awareness walk, one of many philanthropic events organized by fraternities and sororities in 2011. In the last year, the UI fraternity and sorority community has contributed over 22,000 hours of community service and donated a total of $382,000 to various organizations.</p>
+                            <p><span class="dropcap">S</span>tudents carrying backpacks on a walk is a normal thing for a college campus. Rather than having backpacks filled with textbooks and crumpled notes, the Phi Kappa Psi fraternity carried stones inscribed with the names of women who have fallen victim to breast cancer. The stones were part of a breast cancer awareness walk, one of many philanthropic events organized by fraternities and sororities in 2011. In the last year, the UI fraternity and sorority community has contributed over <strong>22,000</strong> hours of community service and donated a total of <strong>$382,000</strong> to various organizations.</p>
                             <p>UI fraternities and sororities donate their time to as many as 12 community and philanthropic organizations ranging from the Susan G. Komen Breast Cancer Foundation to Habitat for Humanity. Rather than focusing on just one cause, the students in the greek community strive to help those in need from all walks of life. This support not only generates monetary donations, it also serves to increase awareness.</p>
                             <p>One effort, carried out by the women of Zeta Tau Alpha, included distributing “Think Pink” breast cancer ribbons at several UI football games last year.</p>
                         </div>
@@ -111,7 +111,7 @@
                             </ul>
                         </div>
                         <p><span class="dropcap">C</span>ontrary to what some might assume the name suggests, the Women’s Resource and Action Center (WRAC) is a safe haven on campus for people of all genders. WRAC has many different resources available to support greater equity and empowerment for women, men and trans people. WRAC is convenient for students to visit in the center of campus, across from the Iowa Memorial Union.</p>
-                        <blockquote class="full-width">
+                        <blockquote>
                             <p>"People of all genders are welcome here and that's true of all of our services and programs."</p>
                             <small>Linda Stewart Kroon, WRAC Director</small>
                         </blockquote>
