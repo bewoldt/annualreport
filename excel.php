@@ -122,7 +122,6 @@
                         <div class="span3 meta">
                            <ul>
                                 <li>Division of Student Life</li>
-                                <!--<li><em>Words by <span>Name Here</span></em></li>-->
                                 <li><em>Video by <span>Scott Lahn and Maddy Osman</span></em></li>
                             </ul>
                         </div>
@@ -165,6 +164,7 @@
                            <ul>
                                 <li>University Counseling Service</li>
                                 <li><em>Words by <span>Hanna Rosman</span></em></li>
+                                <li>For more information visite: <a href="http://www.uiowa.edu/ucs/">http://www.uiowa.edu/ucs/</a></li>
                             </ul>
                         </div>
                         <div class="span9">
@@ -200,7 +200,7 @@
                         <h1 class="title">Read and Write Gold</h1>
                         <h3 class="sub-head">New Software Makes Studying and Reading More Accessible</h3>
                     </header>
-                   <div id="readwrite-gallery" class="flexslider">
+                    <div id="readwrite-gallery" class="flexslider">
                         <ul class="slides">
                             <li>
                                 <img src="images/excel/readwrite_slide1.jpg" alt="" />

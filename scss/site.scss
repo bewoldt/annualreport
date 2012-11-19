@@ -863,6 +863,9 @@ a.give-now {
 		margin-right: 10px;
 		display: inline;
 	}
+	.lt-ie9 #division-nav .logo {
+		float: none;
+	}
 	#division-nav ul {
 		display: block;
 		float: right;

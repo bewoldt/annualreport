@@ -138,7 +138,7 @@
             </div>
             <div class="row-fluid">
                 <div class="span12">
-                    <div id="saturdays-gallery" class="flexslider carousel">
+                    <div id="saturdays-gallery" class="flexslider">
                         <ul class="slides">
                             <li><img src="images/serve/saturdays_a.jpg" alt="" /></li>
                             <li><img src="images/serve/saturdays_b.jpg" alt="" /></li>

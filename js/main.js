@@ -18,19 +18,20 @@ $(function() {
     });
 
     /* Flexslider */
+    $('#saturdays-gallery, #walkitout-gallery').flexslider({
+        animation: "slide",
+        slideshow: false,
+        itemWidth: 333,
+        move: 1,
+        touch: true
+    });
     $('#readwrite-gallery, #greek-gallery').flexslider({
         animation: "slide",
         slideshow: false,
         smoothHeight: true,
         touch: true
     });
-    $('#saturdays-gallery, #walkitout-gallery').flexslider({
-        animation: "slide",
-        slideshow: false,
-        itemWidth: 328,
-        itemMargin: 5,
-        move: 1
-    });
+
 
     /* TopBar Menu dropdown */
     var $menu = $('#univ-nav'),

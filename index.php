@@ -73,7 +73,7 @@
                     </a>
                     <h4>Excel</h4>
                     <p class="smtxt">Set high standards—push yourself academically.<br>
-                    <a href="excel.html">Read Excel stories</a></p>
+                    <a href="excel.php">Read Excel stories</a></p>
                 </div>
                 <div class="span2 blurbs">
                     <a href="stretch.php" class="box">
