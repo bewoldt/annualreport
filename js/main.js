@@ -24,21 +24,13 @@ $(function() {
         smoothHeight: true,
         touch: true
     });
-    $('#saturdays-gallery').flexslider({
+    $('#saturdays-gallery, #walkitout-gallery').flexslider({
         animation: "slide",
         slideshow: false,
         itemWidth: 328,
         itemMargin: 5,
         move: 1
     });
-    $('#walkitout-gallery').flexslider({
-        animation: "slide",
-        slideshow: false,
-        itemWidth: 328,
-        itemMargin: 5,
-        move: 1
-    });
-
 
     /* TopBar Menu dropdown */
     var $menu = $('#univ-nav'),
@@ -89,7 +81,6 @@ $(function() {
 
         }, offset: 102
     })
-
 
     // Waypoints - smooth scrolling for internal links
     var scrollElement = 'html, body';

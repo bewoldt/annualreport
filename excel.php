@@ -178,7 +178,7 @@
                     <div class="row-fluid">
                         <div class="span12">
                             <blockquote class="full-width">
-                                <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="left" style="margin-bottom: -1.5em;margin-right: 3em;" width="225">
+                                <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="left" style="margin-bottom: -1.5em;margin-right: 3em;" width="210">
                                 <p>“The focus is not on learning to relax but to actually engage with what is here, even when it isn’t relaxing, in a conscious and discerning manner. This means learning how to be with difficult thoughts and emotions as well as external stressors.</p>
                                 <small>Kerri Eness-Potter, Program Coordinator for Mindfulness-Based Programs</small>
                             </blockquote>

@@ -468,7 +468,7 @@ img.right {
 	display: block;
 	position: relative;
 	font-family: alfa-slab-one, arial, verdana, sans-serif;
-	text-shadow: 1px 1px 2px rgba(0,0,0,.2);
+	text-shadow: 1px 1px 2px rgba(0,0,0,.15);
 }
 .dropwide {width: 82px;}
 .fixed-img {
@@ -537,32 +537,73 @@ img.right {
     	margin-top: -125px;
   	}
 }
-.screencap {
+.blurbs {
+	margin-bottom: 1em;
+	overflow: hidden;
+}
+.blurbs .box {
+	float: left;
+	display: block;
+	margin-right: 1em;
+	position: relative;
+	@media (min-width: 768px) {
+		float: none;
+		margin-right: 0;
+	}
+}
+.blurbs h4 {
+	margin-top: 1em;
+}
+.blurbs .view {
+	display: block;
+	opacity: 0;
+	filter: alpha(opacity=0);
 	position: absolute;
 	top: 0;
 	left: 0;
-	z-index: 100;
+	bottom: 10px;
+	width: 100%;
+	height: 100%;
+	background: #000;
+	-webkit-transition: opacity .3s;
+	-moz-transition: opacity .3s;
+	-ms-transition: opacity .3s;
+	-o-transition: opacity .3s;
+	transition: opacity .3s;
 }
-.blurbs a {
-	position: relative;
-}
-.blurbs .box:hover img {
-	opacity: 0.6;
-}
-.blurbs .box:hover:after {
+.blurbs .view p {
+	color: #fff;
 	position: absolute;
-	width: 70%;
-	margin-left: 15%;
+	top: 58%;
+	-webkit-transition: top .22s;
+	-moz-transition: top .22s;
+	-ms-transition: top .22s;
+	-o-transition: top .22s;
+	transition: top .22s;
+	margin: -12px 0 0;
+	width: 100%;
 	text-align: center;
-	top: 50%;
-	margin-top: -10px;
-	background: #fff;
-	line-height: 40px;
-	font-size: 16px;
-	content: "Read The Story →";
-	text-transform: uppercase;
-	display: block;
-	z-index: 5555;
+	font-style: italic;
+	font-size: 22px;
+	visibility: hidden;
+}
+.blurbs .box:hover .view {
+	opacity: .8;
+	filter: alpha(opacity=80);
+	-webkit-transition: opacity .3s;
+	-moz-transition: opacity .3s;
+	-ms-transition: opacity .3s;
+	-o-transition: opacity .3s;
+	transition: opacity .3s;
+}
+.blurbs .box:hover .view p {
+	visibility: visible;
+	top: 48%;
+	-webkit-transition: top .22s;
+	-moz-transition: top .22s;
+	-ms-transition: top .22s;
+	-o-transition: top .22s;
+	transition: top .22s;
 }
 
 /* Excel  
@@ -648,7 +689,6 @@ img.right {
 	background-color: #fff;
 	border-top: 1px solid #ccc;
 }
-
 
 /* Choose  
 ========================================================================== */

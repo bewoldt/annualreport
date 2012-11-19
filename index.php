@@ -60,31 +60,56 @@
                 </div>
             </div>
             <div class="row-fluid">
-                <div class="span2 offset1">
-                    <a href="excel.php"><img src="images/home_excel.jpg" alt="" /></a>
-                    <h4 style="margin-top: 10px;">Excel</h4>
+                <div class="span2 offset1 blurbs">
+                    <a href="excel.php" class="box">
+                        <img src="images/home_excel.jpg" alt="" />
+                        <div class="view">
+                            <p>View</p>
+                        </div>
+                    </a>
+                    <h4>Excel</h4>
                     <p class="smtxt">Set high standards—push yourself academically.<br>
                     <a href="excel.html">Read Excel stories</a></p>
                 </div>
-                <div class="span2">
-                    <a href="stretch.php"><img src="images/home_stretch.jpg" alt="" /></a>
-                    <h4 style="margin-top: 10px;">Stretch</h4>
+                <div class="span2 blurbs">
+                    <a href="stretch.php" class="box">
+                        <img src="images/home_stretch.jpg" alt="" />
+                        <div class="view">
+                            <p>View</p>
+                        </div>
+                    </a>
+                    <h4>Stretch</h4>
                     <p class="smtxt">Learn from diverse people, ideas, and experiences.<br>
                     <a href="stretch.php">Read Stretch stories</a></p>
                 </div>
-                <div class="span2">
-                    <a href="engage.php"><img src="images/home_engage.jpg" alt="" /></a>
-                    <h4 style="margin-top: 10px;">Engage</h4>
+                <div class="span2 blurbs">
+                    <a href="engage.php" class="box">
+                        <img src="images/home_engage.jpg" alt="" />
+                        <div class="view">
+                            <p>View</p>
+                        </div>
+                    </a>
+                    <h4>Engage</h4>
                     <p class="smtxt">Get involved and be a leader.<br><a href="engage.php">Read Engage stories</a></p>
                 </div>
-                <div class="span2">
-                    <a href="choose.php"><img src="images/home_choose.jpg" alt="" /></a>
-                    <h4 style="margin-top: 10px;">Choose</h4>
+                <div class="span2 blurbs">
+                    <a href="choose.php" class="box">
+                        <img src="images/home_choose.jpg" alt="" />
+                        <div class="view">
+                            <p>View</p>
+                        </div>
+                    </a>
+                    <h4>Choose</h4>
                     <p class="smtxt">Make decisions that support your goals.<br><a href="choose.php">Read Choose stories</a></p>
                 </div>
-                <div class="span2">
-                    <a href="serve.php"><img src="images/home_serve.jpg" alt="" /></a>
-                    <h4 style="margin-top: 10px;">Serve</h4>
+                <div class="span2 blurbs">
+                    <a href="serve.php" class="box">
+                        <img src="images/home_serve.jpg" alt="" />
+                        <div class="view">
+                            <p>View</p>
+                        </div>
+                    </a>
+                    <h4>Serve</h4>
                     <p class="smtxt">Contribute to a community that’s a great place to live and learn.<br><a href="serve.php">Read Serve stories</a></p>
                 </div>
             </div>
