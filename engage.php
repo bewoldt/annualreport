@@ -54,7 +54,6 @@
 
         <section id="wrac" class="hero-story">
             <div class="row-fluid hero-img">
-                <div class="frame"></div>
             </div>
             <div class="row-fluid">
                 <div class="span8 offset2">
@@ -110,7 +109,7 @@
                         <h3 class="sub-head">Participation Rate Reaches 42% of First Year Students</h3>
                     </header>
                     <div>
-                        <img src="images/pickone.jpg" alt="">
+                        <img src="images/engage/pickone.jpg" alt="">
                     </div>
                     <hr>
                     <div class="row-fluid">

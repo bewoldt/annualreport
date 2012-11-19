@@ -54,9 +54,7 @@
         </div>
 
         <section id="cassidy-bell" class="first-story hero-story">
-            <div class="row-fluid hero-img">
-                <div class="frame"></div>
-            </div>
+            <div class="row-fluid hero-img"></div>
             <div class="row-fluid">
                 <div class="span8 offset2">
                      <div class="content">
@@ -92,9 +90,10 @@
 
                         <p>Volunteering for RVAP was one of the many things that Bell was apart of on campus. Other student organizations and groups that she has had a hand in during her 4-year stay at the UI include Simply Food, the Local Foods Connection, and the Iowa City Farmers Market.</p>
 
-                        <p>The awards have distinguished students among their peers as not just a way to recognize the unique abilities of students, but to encourage others. These five awards for the expectations of the Iowa Challenge set the standard for what excellence is and what all students should strive to do at the University of Iowa and beyond. </p>
-
-                        <p>“We hope that seeing the amazing things our Meet the Challenge winners are doing will inspire all students to use the challenge as a guide for their own path to success,” Hansen said.</p>
+                        <blockquote>
+                            <p>“We hope that seeing the amazing things our Meet the Challenge winners are doing will inspire all students to use the challenge as a guide for their own path to success.”</p>
+                            <small>Sarah Hansen</small>
+                        </blockquote>
 
                         <p>Bell graduated with a degree in Psychology and a minor in Health Promotion in 2012. She has continued engaging with the Iowa City community by working as the Family Service Specialist at the Local Foods Connection as well as the manage the Iowa City Farmers Market. </p>
 
@@ -179,7 +178,7 @@
                     <div class="row-fluid">
                         <div class="span12">
                             <blockquote class="full-width">
-                                <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="right" style="margin-bottom: -1.5em;margin-left: 3em;" width="225">
+                                <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="left" style="margin-bottom: -1.5em;margin-right: 3em;" width="225">
                                 <p>“The focus is not on learning to relax but to actually engage with what is here, even when it isn’t relaxing, in a conscious and discerning manner. This means learning how to be with difficult thoughts and emotions as well as external stressors.</p>
                                 <small>Kerri Eness-Potter, Program Coordinator for Mindfulness-Based Programs</small>
                             </blockquote>
@@ -206,7 +205,7 @@
                    <div id="readwrite-gallery" class="flexslider">
                         <ul class="slides">
                             <li>
-                                <img src="images/readwrite_slide1.jpg" alt="" />
+                                <img src="images/excel/readwrite_slide1.jpg" alt="" />
                             </li>
                             <li>
                                 <img src="images/excel/read_write_slide2.jpg" alt="" />
@@ -217,20 +216,28 @@
                         </ul>
                     </div>
                     <br>
+                    <div class="meta meta-horiz">
+                       <p>
+                            Student Disability Services&nbsp;&nbsp;&nbsp;
+                            <em>Words by <span>Mary Koberstein and Maddy Osman</span></em>&nbsp;&nbsp;&nbsp;
+                            <em>Photos by <span>Chelsea Darter</span></em>
+                        </p>
+                    </div>
+                    <hr>
                     <div class="row-fluid">
-                        <div class="span3 meta">
-                           <ul>
-                                <li>Student Disability Services</li>
-                                <li><em>Words by <span>Mary Koberstein and Maddy Osman</span></em></li>
-                                <li><em>Photos by <span>Chelsea Darter</span></em></li>
-                            </ul>
+                        <div class="span6">
+                            <p><span class="dropcap">A</span>t the beginning of the 2011-2012 academic school year, the University of Iowa, in conjunction with Student Disability Services (SDS), the ITS staff, and the Iowa Center for Assistive Technology Education and Research (ICATER), purchased a site license of Read and Write Gold 10. Read and Write Gold is assistive technology that provides access to required readings for students with "print disabilities" such as learning disabilities, ADHD, chronic health disabilities, and mobility impairments.</p>
+
+                            <p>The purchase of Read and Write Gold is a further commitment to making the University of Iowa’s campus, classes, and college experience more accessible for students with and without disabilities. It would cost an individual $650, but is free for all registered students to use on computer labs and is available as a free download for personal computers. The tool has helped students with reading, writing, studying and researching.</p>
+                            <p>This new technology is helping students with disabilities excel academically. The program features virtual highlighters, fact folders, spell check, definitions of words and phrases, and several reading and writing tools. With nearly 60% of student disabilities not registered, SDS was looking for a tool to provide assistance for all students at the university.</p>
                         </div>
-                        <div class="span9">
-                            <p><span class="dropcap">A</span>t the beginning of the 2011-2012 academic school year, the University of Iowa purchased a site license of Read and Write Gold 10. Read and Write Gold is assistive technology that provides access to required readings for students with “print disabilities” such as learning disabilities, ADHD, chronic health disabilities, and mobility impairments. Through the site license, students can install the software on their own computers at no cost. The program is a collaboration between Student Disability Services (SDS), Information Technology Services, and the Iowa Center for Assistive Technology Education and Research (ICATER).</p>
+                        <div class="span6">
+                            <blockquote>
+                                <p>The beauty of Read and Write Gold is that it is a valuable tool for all students and its use doesn’t come with a stigma of using “special” software.</p>
+                            </blockquote>
+                            <p>While Read and Write Gold is helping students with disabilities improve their academic work, it has also helped students without disabilities excel. When reading a document, students can use the virtual highlighters that allow users to highlight important information which will then collect into a personal study guide. Fact folders allow students to collect and gather facts while doing research papers. Once the fact folders are created, Read and Write Gold will automatically create a bibliography for the gathered information. There is an MP3 creator tool that turns text into an MP3 file that students can listen to on the go.</p>
 
-                            <p>The software includes tools such as virtual highlighters, fact folders, spell check, definitions of words and phrases, and several reading and writing tools. With nearly 60% of student disabilities not registered, SDS was looking for a tool to provide assistance for all students at the university. When reading a document, the virtual highlighters allow users to mark up their documents, then display them as a personal study guide. Fact folders allow students to collect data while doing research papers. Once the fact folders are created, Read and Write Gold will automatically create a bibliography for the gathered information. There is also an MP3 creator that transforms text into spoken word audio format that students can then listen to on their iPod, computer, or similar device.</p>
-
-                            <p>In addition to Read and Write Gold software, Student Disability Services offers an Alternative Media Services program. Through this, students can get class materials and textbooks made more accessible. Alternative Test Services is a program through which students can take exams in a format that is most accessible for them. The student staff at Student Disability Services assist approximately 200 students each year.</p>
+                            <p>Student Disability Services also plays a role in the use and distribution of Read and Write Gold. They offer Alternative Media Services, where students can get class materials, and textbooks made more accessible. Alternative Test Services is another program from SDS, allowing students to take exams in a format that is most accessible for them. The student employees in Student Disability Services assist approximately 200 students each year.</p>
                         </div>
                     </div><!-- end row -->
                 </div>

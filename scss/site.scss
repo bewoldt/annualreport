@@ -21,18 +21,12 @@ body {
 	line-height: 1.5;
 	padding: 0;
 	font-family: open-sans, arial, verdana, sans-serif;
-	@media (min-width: 768px) {
-		font-size: 16px;
-  	}
 }
 /* @import Typography.scss */
 @import "imports/typography.scss";
 
 /* @import Grid.scss */
 @import "imports/grid_mobile.scss";
-
-/* @import Buttons.scss */
-@import "imports/buttons.scss";
 
 section {
 	background-color: #fff;
@@ -47,37 +41,12 @@ section {
 ========================================================================== */
 #division-nav {
 	padding: .5em 0 1em;
-	@media (min-width: 768px) {
-		padding: 1.3em 0;
-	}
 }
 #division-nav .logo {
 	display: block;
-	@media (min-width: 480px) {
-		float: left;
-		margin-right: 10px;
-	}
-	@media (max-width: 480px) {
-		margin-left: 1em;
-	}
-	@media (min-width: 1000px) {
-		margin-left: 0;
-	}
 }
 #division-nav ul {
 	display: none;
-	@media (min-width: 480px) {
-		display: block;
-		float: right;
-		list-style: none;
-		margin: 2.2em 0 0 0;
-		padding: 0;
-		text-align: center;
-	}
-	@media (max-width: 895px) {
-		float: left;
-		margin-top: 1em;
-	}
 	& li {
 		float: left;
 		margin-right: 1em;
@@ -155,19 +124,6 @@ section {
 .challenge-bot {
 	text-transform: none;
 }
-@media only screen and (min-width: 768px) {
-	.challenge-heading {
-		margin-top: -83px;
-    	margin-left: -256px;
-		width: 500px;
-	}
-	.challenge-heading h1 {
-		font-size: 70px;
-	}
-	.challenge-top, .challenge-bot {
-		background-image: url(../images/borders.png);
-	}
-}
 
 /* Main Navigation 
 ========================================================================== */
@@ -182,15 +138,6 @@ section {
 	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.3);
 	   -moz-box-shadow: 0 1px 3px rgba(0,0,0,.3);
 	        box-shadow: 0 1px 3px rgba(0,0,0,.3);
-}
-#nav-wrapper.fixed{
-	@media (min-width: 768px) {
-    	position: fixed;
-		top: 0;
-		max-width: 1000px;
-		z-index: 100;
-		width: 96%;
-  	}
 }
 #nav {
 	border-bottom: 1px solid #937600;
@@ -229,9 +176,6 @@ section {
 		border-top: 5px solid #987900;
 		padding-top: 10px;
 	}
-	@media (min-width: 768px) {
-    	font-size: 18px;
-  	}
 }
 /* ----- active ----- */
 #nav li.active a {
@@ -316,8 +260,6 @@ section {
 		text-decoration: none;
 	}
 }
-
-
 .header {
 	border-top: 10px solid #333;
 	border-bottom: 1px dotted #aaa;
@@ -330,19 +272,13 @@ section {
 section header .title {
 	font-family: alfa-slab-one, arial, verdana, sans-serif;
 	font-size: 30px;
-	margin: 0 0 .2em;
+	margin: 0;
 	-webkit-transition:font-size ease .2s;
-	text-shadow: 1px 1px 2px rgba(0,0,0,.2);
-	@media (min-width: 480px) {
-    	font-size: 50px;
-  	}
-  	@media (min-width: 768px) {
-    	font-size: 55px;
-  	}
+	text-shadow: 1px 1px 2px rgba(0,0,0,.15);
 }
 section header .sub-head {
 	font-size: 20px;
-	margin-top: 0;
+	margin: .5em 0 0;
 }
 /* meta */
 .meta {
@@ -371,15 +307,25 @@ section header .sub-head {
 	font-style: normal;
 	text-transform: uppercase;
 }
+.meta-horiz li {border: none;display: inline;padding-right: 1em;}
 
 /* hero story */
 .hero-img {
 	/* (width2, heigh2, width1, height1) */
 	@include fluid-ratio(1000px 670px, 320px 300px);
 	margin: 0 auto;
-	@media (min-width: 768px) {
-    	width: 97%;
-  	}
+}
+.hero-img:after {
+	content: "";
+	border: 1px solid #fff;
+	box-shadow: 0 0 0 15px rgba(0, 0, 0, .05);
+	position: absolute;
+	top: 15px;
+	display: block;
+	bottom: 15px;
+	left: 15px;
+	right: 15px;
+	z-index: 12;
 }
 .frame {
 	border: 1px solid #fff;
@@ -403,10 +349,6 @@ section header .sub-head {
 	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .3);
 	   -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, .3);
 	        box-shadow: 0 1px 1px rgba(0, 0, 0, .3);
-	@media (min-width: 768px) {
-    	margin-top: -200px;
-    	padding: 1em 2.5em;
-  	}
 }
 .hero-story .meta {
 	margin-top: 1em;
@@ -491,18 +433,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', end
 
 /* Random Shit  
 ========================================================================== */
-.shadow {
-	@media (min-width: 480px) {
-		-webkit-box-shadow: 0 1px 6px rgba(0,0,0,.5);
-	       -moz-box-shadow: 0 1px 6px rgba(0,0,0,.5);
-	            box-shadow: 0 1px 6px rgba(0,0,0,.5);
-	}
-}
-.padding-top {
-	@media (min-width: 768px) {
-    	margin-top: 86px;
-  	}
-}
 .justify {text-align: justify;}
 .center {text-align: center;}
 
@@ -523,17 +453,11 @@ img.right {
 	font-size: 18px;
 	font-style: italic;
 	padding: 1em;
-	@media (min-width: 768px) {
-		font-size: 26px;
-	}
 }
 .quote-block blockquote small {
 	color: #eee;
 	font-family: arial, helvetica, sans-serif;
 	font-size: 12px;
-	@media (min-width: 768px) {
-		font-size: 14px;
-	}
 }
 .dropcap {
 	width: 62px;
@@ -573,16 +497,6 @@ img.right {
 /* videos */
 .video-block {
 	padding: 0;
-	@media (min-width: 768px) {
-		padding: 9em 0;
-	}
-}
-.video-container {
-	@media (min-width: 768px) {
-		-webkit-box-shadow: 0 0 20px rgba(0,0,0,.6);
-   		   -moz-box-shadow: 0 0 20px rgba(0,0,0,.6);
-                box-shadow: 0 0 20px rgba(0,0,0,.6);
-  	}
 }
 .video-block .video-container {
 	background: #fff;
@@ -592,11 +506,10 @@ img.right {
 	font-size: 20px;
 	margin: 9px 0 0 0;
 }
-.video-block .video-container p {
+.video-container p {
 	font-size: 13px;
-	margin: 5px 0;
+	margin: 5px 0 0;
 }
-
 .video {
 	position: relative;
 	overflow: hidden;
@@ -614,28 +527,14 @@ img.right {
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	margin: -27px 0 0 -27px;
+	margin: -40px 0 0 -40px;
 }
-
-
-.apple-shadow {
-	box-shadow: 0 8px 3px -5px rgba(0, 0, 0, .2);
-	border-radius: 100% / 33px;
-}
-
 .smtxt {font-size: 12px;}
 
 
 /* Home  
 ========================================================================== */
 #home #header {background-color: #000;}
-#home .padding-top {
-	@media (min-width: 768px) {
-		margin-top: 53px;
-	}
-}
-
-
 #home .challenge-heading {
 	@media (min-width: 900px) {
     	margin-top: -125px;
@@ -673,21 +572,13 @@ img.right {
 ========================================================================== */
 #excel #header {
 	background-image: url(../images/excel/excel-header-md.jpg);
-	@media (min-width: 768px) {
-    	background-image: url(../images/excel/excel-header-lg.jpg);
-  	}
 }
-#cassidy-bell {background: #eee url(../images/bg-wave.png);}
-
+#cassidy-bell {
+	background: #eee url(../images/bg-wave.png);
+}
 #cassidy-bell .hero-img {
 	background-image: url(../images/excel/cassidy_sm.jpg);
 	background-position: right top;
-	@media (min-width: 480px) {
-    	background-image: url(../images/excel/cassidy_md.jpg);
-  	}
-	@media (min-width: 768px) {
-    	background-image: url(../images/excel/cassidy_lg.jpg);
-  	}
 }
 /* iowa grow */
 #iowagrow {border-top: 1px solid #ccc;}
@@ -702,43 +593,18 @@ img.right {
 ========================================================================== */
 #stretch #header {
 	background-image: url(../images/stretch/stretch_header_md.jpg);
-	@media (min-width: 768px) {
-    	background-image: url(../images/stretch/stretch_header_lg.jpg);
-  	}
 }
-/* cultural centers */
-#stretch .caption {
-	@media (min-width: 768px) {
-		background: #000;
-		color: #eee;
-		font-size: 12px;
-		padding: 10px;
-		margin: 0;
-	}
-}
-
 #kotheid {
 	background-color: #fff;
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
-	@media (min-width: 768px) {
-		border: none;
-		background-image: url(../images/stretch/kotheid_bg.jpg);
-		background-position: right top;
-	}
 }
 /* change teams */
-#change-teams {background: #eee url(../images/bg-wave.png);}
-
+#change-teams {
+	background: #eee url(../images/bg-wave.png);
+}
 #change-teams .hero-img {
 	background-image: url(../images/stretch/changeteams_sm.jpg);
-
-	@media (min-width: 480px) {
-    	background-image: url(../images/stretch/changeteams_md.jpg);
-  	}
-	@media (min-width: 768px) {
-    	background-image: url(../images/stretch/changeteams_lg.jpg);
-  	}
 }
 
 /* walkitout */
@@ -767,38 +633,21 @@ img.right {
 ========================================================================== */
 #engage #header {
 	background-image: url(../images/engage/engage_header_md.jpg);
-	@media (min-width: 768px) {
-    	background-image: url(../images/engage/engage_header_lg.jpg);
-  	}
 }
 #wrac {
 	background: #eee url(../images/bg-wave.png);
 }
 #wrac .hero-img {
 	background-image: url(../images/engage/wrac_sm.jpg);
-	@media (min-width: 480px) {
-    	background-image: url(../images/engage/wrac_md.jpg);
-  	}
-	@media (min-width: 768px) {
-    	background-image: url(../images/engage/wrac_lg.jpg);
-  	}
 }
 #hawkeye-awards {
 	background-color: #fff;
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
-	@media (min-width: 768px) {
-		border: none;
-		background-image: url(../images/engage/hawkeye_awards.jpg);
-	}
 }
 #critical-mass {
 	background-color: #fff;
 	border-top: 1px solid #ccc;
-	@media (min-width: 768px) {
-		border: none;
-		background: url(../images/engage/heather-ockenfels-still.jpg) no-repeat left top;
-	}
 }
 
 
@@ -806,28 +655,14 @@ img.right {
 ========================================================================== */
 #choose #header {
 	background-image: url(../images/choose/choose_header_md.jpg);
-	@media (min-width: 768px) {
-    	background-image: url(../images/choose/choose_header_lg.jpg);
-  	}
 }
 #student-health {
 	background: #eee url(../images/bg-wave.png);
-}
-@media (min-width: 768px) {
-    #leisure-skills {
-		background-image: url(../images/choose/leisure_skills_cap.jpg);
-		background-position: right top;
-	}
 }
 #leisure-skills {
 	background-color: #000;
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
-	@media (min-width: 768px) {
-		border: none;
-		background-image: url(../images/choose/leisure_skills_cap.jpg);
-		background-position: right top;
-	}
 }
 
 
@@ -836,28 +671,14 @@ img.right {
 ========================================================================== */
 #serve #header {
 	background-image: url(../images/serve/serve_header_md.jpg);
-	@media (min-width: 768px) {
-    	background-image: url(../images/serve/serve_header_lg.jpg);
-  	}
 }
 #wrac-serve {background: #eee url(../images/bg-wave.png);}
 #wrac-serve .hero-img {
 	background-image: url(../images/serve/wrac_sm.jpg);
-	@media (min-width: 480px) {
-    	background-image: url(../images/serve/wrac_md.jpg);
-  	}
-	@media (min-width: 768px) {
-    	background-image: url(../images/serve/wrac_lg.jpg);
-  	}
 }
 #sorority-services {
 	background-color: #000;
 	border-top: 1px solid #ccc;
-	@media (min-width: 768px) {
-		border: none;
-		background-image: url(../images/serve/greek_cap.jpg);
-		background-position: center top;
-	}
 }
 #saturdays-in-service {
 	border-top: 1px solid #ccc;
@@ -877,11 +698,7 @@ img.right {
 	text-align: left;
 	font-size: 12px;
 	padding: 1em;
-	@media (min-width: 480px) {
-		margin-top: 2em;
-		padding: 1em 0;
-	}
- }
+}
 #footer-header p {
     @media (min-width: 520px) {
     	float: left;
@@ -987,13 +804,6 @@ a.give-now {
 @import "imports/animation.scss";
 
 
-
-/* 320px and above
-========================================================================== */
-
-
-
-
 /* 480px and above
 ========================================================================== */
 @media only screen and (min-width: 480px) {
@@ -1001,21 +811,188 @@ a.give-now {
 		width: 96%;
 		margin: 0 auto;
 	}
+	#division-nav .logo {
+		float: left;
+		margin-right: 10px;
+	}
+	#division-nav ul {
+		display: block;
+		float: right;
+		list-style: none;
+		margin: 2.2em 0 0 0;
+		padding: 0;
+		text-align: center;
+	}
+	section header .title {
+    	font-size: 50px;
+  	}
+  	.shadow {
+		-webkit-box-shadow: 0 1px 6px rgba(0,0,0,.5);
+	       -moz-box-shadow: 0 1px 6px rgba(0,0,0,.5);
+	            box-shadow: 0 1px 6px rgba(0,0,0,.5);
+	}
+	/* Excel */
+	#cassidy-bell .hero-img {
+    	background-image: url(../images/excel/cassidy_md.jpg);
+	}
+	/* Stretch */
+	#change-teams .hero-img {
+		background-image: url(../images/stretch/changeteams_md.jpg);
+  	}
+  	/* Engage */
+  	#wrac .hero-img {
+		background-image: url(../images/engage/wrac_md.jpg);
+  	}
+  	#footer {
+		margin-top: 2em;
+		padding: 1em 0;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	#division-nav .logo {
+		margin-left: 1em;
+	}
 }
 
 /* 768px and above
 ========================================================================== */
 @media only screen and (min-width: 768px) {
+	body {
+		font-size: 15px;
+  	}
 	section {
 		padding: 5em 0;
 	}
-
+	#division-nav {
+		padding: 1.3em 0;
+	}
+	.challenge-heading {
+		margin-top: -83px;
+    	margin-left: -256px;
+		width: 500px;
+	}
+	.challenge-heading h1 {
+		font-size: 70px;
+	}
+	.challenge-top, .challenge-bot {
+		background-image: url(../images/borders.png);
+	}
+	#nav-wrapper.fixed{
+    	position: fixed;
+		top: 0;
+		max-width: 1000px;
+		z-index: 100;
+		width: 96%;
+  	}
 	/* headings */
 	section .header {
 		padding: 2em 0;
 	}
 	section header .sub-head {
 		font-size: 24px;
+	}
+	section header .title {
+    	font-size: 55px;
+  	}
+  	#nav li a {
+		font-size: 18px;
+  	}
+  	.padding-top {
+    	margin-top: 86px;
+  	}
+  	.hero-img {
+		width: 97%;
+  	}
+  	.hero-story .content {
+		margin-top: -200px;
+    	padding: 1em 2.5em;
+  	}
+  	.quote-block blockquote {
+		font-size: 26px;
+	}
+	.quote-block blockquote small {
+		font-size: 14px;
+	}
+	.video-block {
+		padding: 9em 0;
+	}
+	.video-container {
+		-webkit-box-shadow: 0 0 20px rgba(0,0,0,.6);
+   		   -moz-box-shadow: 0 0 20px rgba(0,0,0,.6);
+                box-shadow: 0 0 20px rgba(0,0,0,.6);
+  	}
+  	#home .padding-top {
+		margin-top: 53px;
+	}
+  	/* excel */
+  	#excel #header {
+		background-image: url(../images/excel/excel-header-lg.jpg);
+  	}
+  	#cassidy-bell .hero-img {
+		background-image: url(../images/excel/cassidy_lg.jpg);
+  	}
+  	/* stretch */
+  	#stretch #header {
+		background-image: url(../images/stretch/stretch_header_lg.jpg);
+  	}
+  	#stretch .caption {
+		background: #000;
+		color: #eee;
+		font-size: 12px;
+		padding: 10px;
+		margin: 0;
+	}
+	#kotheid {
+		border: none;
+		background-image: url(../images/stretch/kotheid_bg.jpg);
+		background-position: right top;
+	}
+	#change-teams .hero-img {
+		background-image: url(../images/stretch/changeteams_lg.jpg);
+  	}
+  	/* Engage */
+  	#engage #header {
+		background-image: url(../images/engage/engage_header_lg.jpg);
+  	}
+  	#wrac .hero-img {
+		background-image: url(../images/engage/wrac_lg.jpg);
+  	}
+  	#hawkeye-awards {
+		border: none;
+		background-image: url(../images/engage/hawkeye_awards.jpg);
+	}
+	#critical-mass {
+		border: none;
+		background: url(../images/engage/heather-ockenfels-still.jpg) no-repeat left top;
+	}
+	/* Choose */
+	#choose #header {
+		background-image: url(../images/choose/choose_header_lg.jpg);
+  	}
+    #leisure-skills {
+		background-image: url(../images/choose/leisure_skills_cap.jpg);
+		background-position: right top;
+		border: none;
+	}
+	/* Serve */
+	#serve #header {
+		background-image: url(../images/serve/serve_header_lg.jpg);
+  	}
+  	#wrac-serve .hero-img {
+		background-image: url(../images/serve/wrac_lg.jpg);
+  	}
+  	#sorority-services {
+		background-image: url(../images/serve/greek_cap.jpg);
+		background-position: center top;
+		border: none;
+	}
+}
+
+@media only screen and (max-width: 895px) {
+	#division-nav ul {
+		float: left;
+		margin-top: 1em;
 	}
 }
 
@@ -1033,6 +1010,12 @@ a.give-now {
   }
 	#nav-wrapper.fixed{
 		width: 100%;
+	}
+	#home #header {
+		height: 563px;
+	}
+	#division-nav .logo {
+		margin-left: 0;
 	}
 
 }

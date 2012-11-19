@@ -1,5 +1,5 @@
 
-$(document).ready(function() {
+$(function() {
 
     // add js class to body if javascript enabled
     $('body').addClass('js');
@@ -18,7 +18,7 @@ $(document).ready(function() {
     });
 
     /* Flexslider */
-    $('#readwrite-gallery, #wrac-gallery').flexslider({
+    $('#readwrite-gallery, #greek-gallery').flexslider({
         animation: "slide",
         slideshow: false,
         smoothHeight: true,

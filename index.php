@@ -56,10 +56,6 @@
                 <div class="span6 offset3">
                     <br>
                     <br>
-                    <p class="justify challenge-desc">Through the newly implemented “Every Student, Every Encounter” initiative, Vice President for Student Life, Tom Rocklin, encourages faculty and staff to have frequent conversations with students about their academics. If the University of Iowa faculty surrounds them with a climate of high expectations, students are going to try to meet those expectations. “Every Student, Every Encounter” encourages students to pursue excellence both in and out of the classroom.</p>
-                    <br>
-                    <br>
-                    <br>
                     <br>
                 </div>
             </div>
@@ -67,32 +63,29 @@
                 <div class="span2 offset1">
                     <a href="excel.php"><img src="images/home_excel.jpg" alt="" /></a>
                     <h4 style="margin-top: 10px;">Excel</h4>
-                    <p class="smtxt">Set high standards—push yourself academically.</p>
-                    <a href="excel.html" class="btn btn-small">Read the stories</a>
+                    <p class="smtxt">Set high standards—push yourself academically.<br>
+                    <a href="excel.html">Read Excel stories</a></p>
                 </div>
                 <div class="span2">
-                    <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
+                    <a href="stretch.php"><img src="images/home_stretch.jpg" alt="" /></a>
                     <h4 style="margin-top: 10px;">Stretch</h4>
-                    <p class="smtxt">Learn from diverse people, ideas, and experiences.</p>
-                    <a href="stretch.php" class="btn btn-small">Read the stories</a>
+                    <p class="smtxt">Learn from diverse people, ideas, and experiences.<br>
+                    <a href="stretch.php">Read Stretch stories</a></p>
                 </div>
                 <div class="span2">
-                    <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
+                    <a href="engage.php"><img src="images/home_engage.jpg" alt="" /></a>
                     <h4 style="margin-top: 10px;">Engage</h4>
-                    <p class="smtxt">Get involved and be a leader.</p>
-                    <a href="engage.php" class="btn btn-small">Read the stories</a>
+                    <p class="smtxt">Get involved and be a leader.<br><a href="engage.php">Read Engage stories</a></p>
                 </div>
                 <div class="span2">
-                    <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
+                    <a href="choose.php"><img src="images/home_choose.jpg" alt="" /></a>
                     <h4 style="margin-top: 10px;">Choose</h4>
-                    <p class="smtxt">Make decisions that support your goals.</p>
-                    <a href="choose.php" class="btn btn-small">Read the stories</a>
+                    <p class="smtxt">Make decisions that support your goals.<br><a href="choose.php">Read Choose stories</a></p>
                 </div>
                 <div class="span2">
-                    <img src="http://placehold.it/150x150/444444/&text=+" alt="" />
+                    <a href="serve.php"><img src="images/home_serve.jpg" alt="" /></a>
                     <h4 style="margin-top: 10px;">Serve</h4>
-                    <p class="smtxt">Contribute to a community that’s a great place to live and learn.</p>
-                    <a href="serve.php" class="btn btn-small">Read the stories</a>
+                    <p class="smtxt">Contribute to a community that’s a great place to live and learn.<br><a href="serve.php">Read Serve stories</a></p>
                 </div>
             </div>
         </section>

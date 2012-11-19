@@ -69,7 +69,7 @@
                         <div class="span9">
                             <p><span class="dropcap">F</span>or most students, college introduces far more freedom than ever before. Fortunately, the University of Iowa Student Health Service and Health Iowa provide programs that encourage beneficial choices in crucial areas: health and safety.</p>
                             <h2>Colorful Choices</h2>
-                            <img src="images/colorful_choices.png" alt="Colorful Chilces logo" class="left">
+                            <img src="images/choose/colorful_choices.png" alt="Colorful Chilces logo" class="left">
                             <p>Colorful Choices is a program promoting students to make healthy nutritional decisions. Rather than stressing over calorie counting, fat gram tabulating, or weighing and measuring, the program boasts a simple way of eating healthier through opting for colorful fruits and vegetables. The 20-day program provides students with a log form to track their daily intake of fruits and vegetables by color group (red, orange, yellow/white, green, and blue/violet). Along with this, participants receive weekly emails featuring health tips and motivation.</p>
                             
                             <p>Colorful Choices took place from September 28th through October 17th of the Fall 2011 semester. Four hundred eighty-nine students registered to participate. Beyond individual accountability for logging daily intake of fruits and vegetables, these students were provided with resources for healthy recipes, tips on where to find fresh, local produce, and the opportunity to attend a cooking class.</p>
@@ -85,8 +85,7 @@
                         <div class="span9 offset3">
                             <p>In addition, there was extensive positive feedback from participants, including anonymous comments such as, “I liked that the suggestions were realistic for a college budget and time-frame. This program is conducive to the student lifestyle, and provides people with the information necessary to start making better nutritional choices one step at a time.” Another student remarked, “I like that it was easy to see how many fruits and vegetables you eat and the variety that you consume. I liked the follow up emails and the encouragement in them. I also appreciated the links to further info in those emails.” Due to this success, the program will continue to run during the 2012-2013 school year.</p>
 
-                            <h2>HeadStrong</h2>
-                            <img src="images/headstrong.png" alt="HeadStrong logo" class="left">
+                            <img src="images/choose/headstrong.png" alt="HeadStrong logo" class="left">
                             <p>Beyond encouraging healthy dietary decisions, Student Health Service and Health Iowa, in collaboration with the University of Iowa Student Government and MopedU, promoted personal safety through the HeadStrong campaign implemented during the Spring 2012 semester. The goal of the campaign was to increase the number of student moped riders wearing helmets.</p>
                             
                             <p>Eleven Peer Agents identified as helmet-wearing moped riders were recruited to aid in spreading the word. These Peer Agents were given fifteen brochures about the campaign and vouchers for free helmets, a HeadStrong t-shirt, and talking points to encourage others to also wear a helmet. Peer Agents were then asked to approach friends and peers who ride mopeds without the protection of a helmet. If these friends or peers signed a pledge card to wear a helmet, they received a voucher to redeem a free helmet from MopedU. One hundred fifty helmets were purchased for this purpose.</p>
@@ -106,7 +105,7 @@
                             <img src="images/choose/leisure_skills_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <h1>Lifetime Leisure Skills</h1>
+                        <p>Lifetime Leisure Skills</p>
                     </div>
                 </div>
             </div> <!-- end row -->
@@ -129,11 +128,15 @@
                         <div class="span9">
                             <p><span class="dropcap">T</span>he University of Iowa Housing Department was faced with a dilemma - their old housing application system was about to become obsolete and they had to figure out how to best replace it. The answer came in the form of Star Rez, which is a survey incoming freshman can voluntarily take to match them to a roommate with similar interests and values. Star Rez was used by about 1100 out of the over 4300 (about 25%) incoming freshman in its first year of inception. It asked questions about ideal study environment, allowable noise level, and other preferences. So far, the program seems to have been successful. RAs are reporting fewer roommate disputes on their floors and all else equal, there are fewer room switches compared with last year at the same time. It’s still too early to see how successful this program really is, but the data so far is positive.</p>
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span12">
                             <blockquote class="full-width">
                                 <p>Star Rez was used by about 1100 out of the over 4300 (about 25%) incoming freshman in its first year of inception.</p>
                             </blockquote>
                         </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span9 offset3">
                             <p>Unexpected benefits of using the Star Rez system include winning over students who have seen it as a competitive advantage of the University of Iowa compared to other schools they were considering. Choosing your roommate makes for a much easier first year and transition into a new place. Star Rez has even allowed Housing to get roommate assignments out earlier. However, there are still issues to address. Some of the verbiage the Star Rez system uses is unclear and makes the process unnecessarily difficult and time consuming in some cases.</p>
                         

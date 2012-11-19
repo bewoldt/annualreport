@@ -126,16 +126,14 @@
                             <img src="images/stretch/kotheid-video.jpg" alt="Click to view the Kotheid Video" width="718" height="404">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <h1>Student Profile - Kotheid</h1>
+                        <p>Student Profile - Kotheid</p>
                     </div>
                 </div>
             </div> <!-- end row -->
         </section>
 
         <section id="change-teams" class="hero-story">
-            <div class="row-fluid hero-img">
-                <div class="frame"></div>
-            </div>
+            <div class="row-fluid hero-img"></div>
             <div class="row-fluid">
                 <div class="span8 offset2">
                      <div class="content">
@@ -144,21 +142,19 @@
                         </header>
                         <div class="meta">
                             <ul>
-                                <li>Department Name Goes Here</li>
+                                <li>IMU Change Team</li>
                                 <li><em>Words by <span>Maddy Osman</span></em></li>
                                 <li><em>Video by <span>Scott Lahn</span></em></li>
                             </ul>
                         </div>
-                        <p><span class="dropcap">T</span>he University of Iowa encourages and inspires diversity campus-wide through many initiatives. The Change Teams are an initiative by the Division of Student Life’s Multicultural Work Group that are responsible for developing, implementing, and ensuring an inclusive environment for all students on campus. The Change Teams are organized by the Iowa Memorial Union Committee co-chaired by Roy Salcedo, Coordinator for Multicultural Programs, and Patricia Kruse, Associate Director of IMU administration and operations. The overall intention of the program is to increase awareness and acceptance of diverse populations of the campus.</p>
+                        <p><span class="dropcap">D</span>iversity efforts are at the core of the University of Iowa's mission, and as such, are a key priority for the Division of Student Life. During the 11-12 academic year, each department within the Division appointed a small workgroup, or change team, charged with developing plans to ensure an inclusive environment for all students on campus. The IMU Change Team is co-chaired by Roy Salcedo, Coordinator for Multicultural Programs, and Patricia Kruse, Associate Director of IMU Administration & Operations. The purpose of the program is to increase awareness and acceptance of diverse populations of the campus.</p>
                         <blockquote>
                             <p>“Our hope is that we will impact students and staff on a daily basis, if only in the way we all think about acceptance.”</p>
-                            <small>Patricia Kruse</small>
+                            <small>Patricia Kruse, Associate Director, IMU Administration & Operations</small>
                         </blockquote>
-                        <p>The teams work to raise this acceptance by creating a division wide effort to raise awareness across the campus based upon the daily interactions the team has with students. The Iowa Memorial committee meet every other week for an hour to discuss how the campus is currently and review how others are doing both within the University of Iowa and other institutions. They take that information and apply it to practical usage that they delegate among the committee. The change teams are currently in the planning stage, building a series of goals to accomplish over the upcoming years.</p>
-                        <p>Among these projects include creating a new vision for the Iowa Memorial Union. This involves creating a logo and a web page for the purpose of sharing with students the diversity, opportunities for culturally diverse student organizations, and cultural events on campus. The web page will also be a tool for staff because it provides surveys and training for better inclusiveness on campus. The change teams seek to create change not just by these means, but through ways that are always evolving.</p>
-                        <blockquote>
-                            <p>“We hope to affect change through questioning, learning, and listening.”</p>
-                        </blockquote>
+                        <p>Through daily interactions, staff training, changes to job requirements, and a communications effort, the Change Teams are hoping to curate an atmosphere of inclusion. The IMU Change Team meets bi-weekly for an hour to discuss the climate on campus and within the building, then decide on actions that can improve specific issues or situations.</p>
+
+                        <p>Some of the work in progress includes adding inclusionary language to position descriptions, vision statements, and other planning documents. Additionally, the group has dedicated a display case in the IMU to multicultural and diversity-related groups. A website has been created at the Division and the IMU level to reflect multicultural efforts. The sites will list upcoming training opportunities and reflect other efforts. The Change Team is always looking for new ways to create and support an inclusionary environment on campus.</p>
                     </div>
                 </div>
                 <div class="span2 meta">
