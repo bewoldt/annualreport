@@ -80,7 +80,7 @@
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">T</span>he University of Iowa Cultural and Resource Centers (UICRC's) provide space, programming, and community for underrepresented groups on campus. The Centers also play an important role in facilitating cross-cultural experiences for students who want to broaden their exposure to peers from diverse cultures and backgrounds. Through these experiences, students  find allies, form friendships, learn from peers about University life, and also .</p>
+                            <p><span class="dropcap">T</span>he University of Iowa Cultural and Resource Centers (UICRC's) provide space, programming, and community for underrepresented groups on campus. The Centers also play a role in facilitating cross-cultural experiences for students who seek exposure to peers from diverse cultures and backgrounds. Through these experiences, students form lasting communities and relationships. </p>
                             <p>“[The Center] develops and fosters relationships that are often lost on such a large campus,” Preston Keith, the manager of the Lesbian Gay, Bisexual, and Transgender Resource Center, said. “It is pretty much a home away from home for each and every student to feel comfortable and safe.”</p>
                         </div>
                     </div>
@@ -164,8 +164,8 @@
                 <div class="span2 meta">
                     <p><strong>Pictured above</strong>:<br>
                         Ben Lewis<br>
-                        Fill-in Name<br>
-                        Fill-in Name<br>
+                        Patricia Kruse<br>
+                        Nellie Hermanson<br>
                         Anne Ghinazzi<br>
                         Roy Salcedo
                     </p>
