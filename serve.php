@@ -65,7 +65,7 @@
                     <hr>
                     <div class=" meta">
                        <ul>
-                            <li><em>Words by <span>Mary Koberstein and Hanna Rosman</span></em></li>
+                            <li><em>Words by <span>Mary Koberstein</span> and <span>Hanna Rosman</span></em></li>
                         </ul>
                     </div>
                     <hr>
