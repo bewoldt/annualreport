@@ -143,7 +143,7 @@
                             <img src="images/engage/critical_mass_video.jpg" alt="Click to view the Critical M.A.S.S. Video" width="718" height="404">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <h1>Critical M.A.S.S.</h1>
+                        <p>Critical M.A.S.S.</p>
                     </div>
                 </div>
             </div> <!-- end row -->
