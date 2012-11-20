@@ -65,13 +65,13 @@
                     <hr>
                     <div class=" meta">
                        <ul>
-                            <li><em>Words by <span>Mary Koberstein and Hanna Rossman</span></em></li>
+                            <li><em>Words by <span>Mary Koberstein</span> and <span>Hanna Rosman</span></em></li>
                         </ul>
                     </div>
                     <hr>
                     <div class="row-fluid">
                         <div class="span6">
-                            <p><span class="dropcap">S</span>tudents carrying backpacks on a walk is a normal thing for a college campus. Rather than having backpacks filled with textbooks and crumpled notes, the Phi Kappa Psi fraternity carried stones inscribed with the names of women who have fallen victim to breast cancer. The stones were part of a breast cancer awareness walk, one of many philanthropic events organized by fraternities and sororities in 2011. In the last year, the UI fraternity and sorority community has contributed over <strong>22,000</strong> hours of community service and donated a total of <strong>$382,000</strong> to various organizations.</p>
+                            <p><span class="dropcap">S</span>tudents carrying backpacks on a walk is a common sight on a college campus. Rather than having backpacks filled with textbooks and crumpled notes, the Phi Kappa Psi fraternity carried stones inscribed with the names of women who have fallen victim to breast cancer. The stones were part of a breast cancer awareness walk, one of many philanthropic events organized by fraternities and sororities in 2011. In the last year, the UI fraternity and sorority community has contributed over <strong>22,000</strong> hours of community service and donated a total of <strong>$382,000</strong> to various organizations.</p>
                             <p>UI fraternities and sororities donate their time to as many as 12 community and philanthropic organizations ranging from the Susan G. Komen Breast Cancer Foundation to Habitat for Humanity. Rather than focusing on just one cause, the students in the greek community strive to help those in need from all walks of life. This support not only generates monetary donations, it also serves to increase awareness.</p>
                             <p>One effort, carried out by the women of Zeta Tau Alpha, included distributing “Think Pink” breast cancer ribbons at several UI football games last year.</p>
                         </div>
@@ -92,7 +92,8 @@
                             <img src="images/serve/fraternity_sorority_still.jpg" alt="Click to view the Critical M.A.S.S. Video" width="714" height="402">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <p>Fraternity and Sorority Life</p>
+                        <h1>Fraternity and Sorority Life at Iowa</h1>
+                        <p>Learn more about <a href="http://uiowafsl.com/">Fraternity & Sorority Life.</a></p>
                     </div>
                 </div>
             </div>
@@ -157,8 +158,8 @@
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Goes Here</span></em></li>
+                                <li>University Housing & Dining</li>
+                                <li><em>Words by <span>Hanna Rosman</span></em></li>
                                 <li>For more information visit: <a href="http://www.facebook.com/uiowasis">facebook.com/uiowasis</a></li>
                             </ul>
                         </div>
@@ -171,7 +172,7 @@
                     <div class="row-fluid">
                         <blockquote class="full-width">
                             <p>"Students are the backbone of the program; they choose the activities, generate excitement among peers, and have passion to work hard to help others."</p>
-                            <small>Kristi Roehr, a previous volunteer</small>
+                            <small>Kristi Roehr, a former volunteer</small>
                         </blockquote>
                     </div>
                     <div class="row-fluid">
