@@ -92,7 +92,8 @@
                             <img src="images/serve/fraternity_sorority_still.jpg" alt="Click to view the Critical M.A.S.S. Video" width="714" height="402">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <p>Fraternity and Sorority Life</p>
+                        <h1>Fraternity and Sorority Life at Iowa</h1>
+                        <p>Learn more about <a href="http://uiowafsl.com/">Fraternity & Sorority Life.</a></p>
                     </div>
                 </div>
             </div>
@@ -157,8 +158,8 @@
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
-                                <li>Department Name Goes Here</li>
-                                <li><em>Words by <span>Name Goes Here</span></em></li>
+                                <li>University Housing & Dining</li>
+                                <li><em>Words by <span>Hanna Rosman</span></em></li>
                                 <li>For more information visit: <a href="http://www.facebook.com/uiowasis">facebook.com/uiowasis</a></li>
                             </ul>
                         </div>
@@ -171,7 +172,7 @@
                     <div class="row-fluid">
                         <blockquote class="full-width">
                             <p>"Students are the backbone of the program; they choose the activities, generate excitement among peers, and have passion to work hard to help others."</p>
-                            <small>Kristi Roehr, a previous volunteer</small>
+                            <small>Kristi Roehr, a former volunteer</small>
                         </blockquote>
                     </div>
                     <div class="row-fluid">
