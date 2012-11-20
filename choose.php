@@ -106,7 +106,7 @@
                             <img src="images/choose/leisure_skills_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <h1>Lifetime Leisure Skills</h1>
+                        <h5>Lifetime Leisure Skills</h5>
                         <p>Learn more about <a href="http://www.registrar.uiowa.edu/registrar/catalog/universitycollege/lifetimeleisureskills/">Lifetime Leisure Skills Courses</a></p>
                     </div>
                 </div>

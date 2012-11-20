@@ -130,7 +130,7 @@
                             <img src="images/stretch/kotheid-video.jpg" alt="Click to view the Kotheid Nicoue Video" width="718" height="404">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <h1>Student Profile: Kotheid Nicoue</h1>
+                        <p>Student Profile: Kotheid Nicoue</p>
                     </div>
                 </div>
             </div> <!-- end row -->

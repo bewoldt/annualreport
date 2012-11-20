@@ -98,7 +98,7 @@
                             <img src="images/engage/hawkeye_awards_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <h1>Selections from 2011 Hawkeye Award Winners.</h1>
+                        <h5>Selections from 2011 Hawkeye Award Winners.</h5>
                         <p>Learn more about the <a href="http://imu.uiowa.edu/hawkeye-awards/" target="_blank">Hawkeye Awards.</a></p>
                     </div>
                 </div>
@@ -144,7 +144,7 @@
                             <img src="images/engage/critical_mass_video.jpg" alt="Click to view the Critical M.A.S.S. Video" width="718" height="404">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <h1>Critical M.A.S.S. - Mentorship Program for Students</h1>
+                        <h5>Critical M.A.S.S. - Mentorship Program for Students</h5>
                         <p>Learn more about the <a href="http://dos.uiowa.edu/critical-mass" target="_blank">Critical MASS</a> program</p>
                     </div>
                 </div>

@@ -92,7 +92,7 @@
                             <img src="images/serve/fraternity_sorority_still.jpg" alt="Click to view the Critical M.A.S.S. Video" width="714" height="402">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <h1>Fraternity and Sorority Life at Iowa</h1>
+                        <h5>Fraternity and Sorority Life at Iowa</h5>
                         <p>Learn more about <a href="http://uiowafsl.com/">Fraternity & Sorority Life.</a></p>
                     </div>
                 </div>
