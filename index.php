@@ -94,7 +94,7 @@
                         </div>
                     </a>
                     <h4>Engage</h4>
-                    <p class="smtxt">Get involved and be a leader.<br><a href="engage.php">Read Engage stories</a></p>
+                    <p class="smtxt">Be an active participant in campus and community life.<br><a href="engage.php">Read Engage stories</a></p>
                 </div>
                 <div class="span2 blurbs">
                     <a href="choose.php" class="box">
@@ -104,7 +104,7 @@
                         </div>
                     </a>
                     <h4>Choose</h4>
-                    <p class="smtxt">Make decisions that support your goals.<br><a href="choose.php">Read Choose stories</a></p>
+                    <p class="smtxt">Make thoughtful choices and keep long-term goals in sight.<br><a href="choose.php">Read Choose stories</a></p>
                 </div>
                 <div class="span2 blurbs">
                     <a href="serve.php" class="box">
