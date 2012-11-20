@@ -62,7 +62,7 @@
                 <div class="span8 offset2">
                      <div class="content">
                         <header>
-                            <h1 class="title">Building Up the Young Women's Network</h1>
+                            <h1 class="title">Building a Women's Network</h1>
                             <h3 class="sub-head">Iowa N.E.W. Leadership Summer Institute</h3>
                         </header>
                         <div class="meta">
@@ -78,7 +78,7 @@
                             <p>“As the week goes on, you really start to see the women flex their skills. You can tell these women are gaining confidence in themselves.”</p>
                             <small>Linda Kroon</small>
                         </blockquote>
-                        <p>Through Iowa N.E.W., WRAC is assisting the development of relationships among women in the Iowa City community. The skills learned through this program are crucial in the support of helping other women develop their personal goals.</p>
+                        <p>Through the Iowa N.E.W. Leadership Institute, WRAC is assisting the development of relationships among women in the Iowa City community. The skills learned through this program are crucial in the support of helping other women develop their personal goals.</p>
                         <p>A new component implemented last year is the mentorship portion. While at the Institute, the students are assigned to professionals to help guide them through the process. Students are matched based on their interests. They work on building experience by connecting to women who are leaders in their desired fields. Once the students complete the workshop, they are qualified to become a professional mentor.</p>
                         <p>Iowa N.E.W. Leadership has given students new skills that have helped them gain executive roles in student organizations on campus. The program has also helped UI graduates start and maintain great careers post-graduation.</p>
                         <blockquote>
@@ -98,7 +98,8 @@
                             <img src="images/engage/hawkeye_awards_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <p>Hawkeye Awards</p>
+                        <h1>Selections from 2011 Hawkeye Award Winners.</h1>
+                        <p>Learn more about the <a href="http://imu.uiowa.edu/hawkeye-awards/" target="_blank">Hawkeye Awards.</a></p>
                     </div>
                 </div>
             </div> <!-- end row -->
@@ -143,7 +144,8 @@
                             <img src="images/engage/critical_mass_video.jpg" alt="Click to view the Critical M.A.S.S. Video" width="718" height="404">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <h1>Critical M.A.S.S.</h1>
+                        <h1>Critical M.A.S.S. - Mentorship Program for Students</h1>
+                        <p>Learn more about the <a href="http://dos.uiowa.edu/critical-mass" target="_blank">Critical MASS</a> program
                     </div>
                 </div>
             </div> <!-- end row -->
