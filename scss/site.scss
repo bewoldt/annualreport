@@ -516,11 +516,11 @@ img.right {
 	position: relative;
 	overflow: hidden;
 }
-.video a {
+.video .video-link {
 	display: block;
 	position: relative;
 }
-.video.on a {
+.video.on .video-link {
 	position: absolute;
 	top: 0;
 	left: 0;

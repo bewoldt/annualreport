@@ -88,7 +88,7 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                     <div class="video-container video">
-                        <a href="http://www.youtube.com/embed/UqDJ0buBn9M?rel=0" data-video="UqDJ0buBn9M">
+                        <a href="http://www.youtube.com/embed/UqDJ0buBn9M?rel=0" data-video="UqDJ0buBn9M" class="video-link">
                             <img src="images/serve/fraternity_sorority_still.jpg" alt="Click to view the Critical M.A.S.S. Video" width="714" height="402">
                             <img src="images/play.png" alt="play" class="play">
                         </a>

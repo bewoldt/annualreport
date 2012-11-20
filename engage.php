@@ -94,7 +94,7 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                     <div class="video-container video">
-                        <a href="http://www.youtube.com/embed/MD5nMi2Hv7Q?rel=0" data-video="MD5nMi2Hv7Q">
+                        <a href="http://www.youtube.com/embed/MD5nMi2Hv7Q?rel=0" data-video="MD5nMi2Hv7Q" class="video-link">
                             <img src="images/engage/hawkeye_awards_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
@@ -140,7 +140,7 @@
             <div class="row-fluid">
                 <div class="span8 offset3">
                     <div class="video-container video">
-                        <a href="http://www.youtube.com/embed/RRA2kGY-yig?rel=0" data-video="RRA2kGY-yig">
+                        <a href="http://www.youtube.com/embed/RRA2kGY-yig?rel=0" data-video="RRA2kGY-yig" class="video-link">
                             <img src="images/engage/critical_mass_video.jpg" alt="Click to view the Critical M.A.S.S. Video" width="718" height="404">
                             <img src="images/play.png" alt="play" class="play">
                         </a>

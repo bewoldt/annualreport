@@ -31,7 +31,7 @@
         <?php include 'includes/division-nav.php'; ?>
         <div id="header">
             <div id="ESEE" class="video">
-                <a href="http://www.youtube.com/embed/rRVOh6W4YPk?rel=0" data-video="rRVOh6W4YPk">
+                <a href="http://www.youtube.com/embed/rRVOh6W4YPk?rel=0" data-video="rRVOh6W4YPk" class="video-link">
                     <img src="images/home_header.jpg" alt="Click to view Tom Rocklin's Message" width="1000" height="563">
                 </a>
             </div>

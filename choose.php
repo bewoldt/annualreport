@@ -102,7 +102,7 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                     <div class="video-container video">
-                        <a href="http://www.youtube.com/embed/d1csMTIM58M?rel=0" data-video="d1csMTIM58M">
+                        <a href="http://www.youtube.com/embed/d1csMTIM58M?rel=0" data-video="d1csMTIM58M" class="video-link">
                             <img src="images/choose/leisure_skills_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
                             <img src="images/play.png" alt="play" class="play">
                         </a>

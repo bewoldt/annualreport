@@ -5,7 +5,7 @@ $(function() {
     $('body').addClass('js');
 
     /* Videos */
-    $('.video a').click(function(e){
+    $('.video .video-link').click(function(e){
         var that = $(this);
         var video = that.data('video');
         var width = $('img', that).width();

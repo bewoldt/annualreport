@@ -65,7 +65,7 @@
                         <h3 class="sub-head">Cultural Centers See an Increase in Meaningful Activity and Interaction</h3>
                     </header>
                     <div id="cultural-centers-video" class="video">
-                        <a href="http://www.youtube.com/embed/k4cqzu5pZis?rel=0" data-video="k4cqzu5pZis">
+                        <a href="http://www.youtube.com/embed/k4cqzu5pZis?rel=0" data-video="k4cqzu5pZis" class="video-link">
                             <img src="images/stretch/cultural-centers-still.jpg" alt="Click to view the Cultural Centers Video" width="830" height="467">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
@@ -126,7 +126,7 @@
             <div class="row-fluid">
                 <div class="span8 offset1">
                     <div class="video-container video">
-                        <a href="http://www.youtube.com/embed/jYxO8wk7bIs?rel=0" data-video="jYxO8wk7bIs">
+                        <a href="http://www.youtube.com/embed/jYxO8wk7bIs?rel=0" data-video="jYxO8wk7bIs" class="video-link">
                             <img src="images/stretch/kotheid-video.jpg" alt="Click to view the Kotheid Video" width="718" height="404">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
