@@ -144,7 +144,7 @@
                     </header>
                     <div class="row-fluid">
                         <div class="span9 offset3">
-                            <p>Learn more about the <a href="http://dos.uiowa.edu/critical-mass" target="_blank">Critical MASS</a> program. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Lorem ipsum dolor site amet, consectetur adipiscing elit amet. Duis mollis est non commodo porttitor ligula. Nullam id dolor id nibh ultricies vehicula ut id elit fusce dapibus, tellus ac cursus commodo.</p>
+                            <p>Learn more about the <a href="http://dos.uiowa.edu/critical-mass" target="_blank">Critical MASS</a> program. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Lorem ipsum dolor site amet, consectetur adipiscing elit amet. Duis mollis est non commodo portstitor ligula. Nullam id dolor id nibh ultricies vehicula ut id elit fusce dapibus, tellus ac cursus commodo.</p>
                             <br>
                             <div class="video-container video">
                                 <a href="http://www.youtube.com/embed/RRA2kGY-yig?rel=0" data-video="RRA2kGY-yig" class="video-link">
