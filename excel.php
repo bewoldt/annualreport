@@ -203,7 +203,7 @@
                     <div id="readwrite-gallery" class="flexslider">
                         <ul class="slides">
                             <li>
-                                <img src="images/excel/readwrite_slide1.jpg" alt="" />
+                                <img src="images/excel/readwrite_slide1.jpg" alt="" height="340" />
                             </li>
                             <li>
                                 <img src="images/excel/read_write_slide2.jpg" alt="" />

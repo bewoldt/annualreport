@@ -498,17 +498,19 @@ img.right {
 }
 /* videos */
 .video-block {
-	padding: 0;
+	xpadding: 0;
 }
 .video-block .video-container {
 	background: #fff;
 	padding: 10px;
+	position: relative;
 }
 .video-block .video-container h5 {
-	margin: 9px 0 0 0;
+	font-family: alfa-slab-one, arial, verdana, sans-serif;
+	font-size: 30px;
+	margin: 10px 0 0 0;
 }
 .video-container p {
-	font-size: 13px;
 	margin: 5px 0 0;
 }
 .video {
@@ -693,8 +695,24 @@ img.right {
 	background-attachment: scroll;
 }
 #critical-mass {
-	background-color: #fff;
+	background: #f8f8f8 url(../images/bg-social-feed-fade.png) repeat-x 0 0;
 	border-top: 1px solid #ccc;
+	padding-top: 5em;
+	padding-bottom: 0;
+	@media (max-width: 767px) {
+		padding-bottom: 2em;
+	}
+}
+#critical-mass #bg {
+	@media (min-width: 768px) {
+		background: #f8f8f8 url(../images/engage/heather-ockenfels-still.jpg) no-repeat left bottom;
+		padding-bottom: 9em;
+	}
+}
+#critical-mass .title {
+	@media (min-width: 768px) {
+		font-size: 50px;
+	}
 }
 
 /* Choose  
@@ -1011,10 +1029,6 @@ a.give-now {
   	#hawkeye-awards {
 		border: none;
 		background-image: url(../images/engage/hawkeye_awards.jpg);
-	}
-	#critical-mass {
-		border: none;
-		background: url(../images/engage/heather-ockenfels-still.jpg) no-repeat left top;
 	}
 	/* Choose */
 	#choose #header {

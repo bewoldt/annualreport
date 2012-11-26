@@ -125,12 +125,15 @@
         <section id="kotheid" class="video-block">
             <div class="row-fluid">
                 <div class="span8 offset1">
+
                     <div class="video-container video">
-                        <a href="http://www.youtube.com/embed/jYxO8wk7bIs?rel=0" data-video="jYxO8wk7bIs">
+
+                        <a href="http://www.youtube.com/embed/jYxO8wk7bIs?rel=0" data-video="jYxO8wk7bIs" class="video-link">
                             <img src="images/stretch/kotheid-video.jpg" alt="Click to view the Kotheid Nicoue Video" width="718" height="404">
                             <img src="images/play.png" alt="play" class="play">
                         </a>
-                        <p>Student Profile: Kotheid Nicoue</p>
+                        <h5>Student Profile: Kotheid Nicoue</h5>
+                        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh fermentum massa justo sit amet risus. Cum sociis natoque penatibus et magnis dis parturient.</p>
                     </div>
                 </div>
             </div> <!-- end row -->

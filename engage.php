@@ -137,15 +137,22 @@
         </section>
 
         <section id="critical-mass" class="video-block">
-            <div class="row-fluid">
-                <div class="span8 offset3">
-                    <div class="video-container video">
-                        <a href="http://www.youtube.com/embed/RRA2kGY-yig?rel=0" data-video="RRA2kGY-yig" class="video-link">
-                            <img src="images/engage/critical_mass_video.jpg" alt="Click to view the Critical M.A.S.S. Video" width="718" height="404">
-                            <img src="images/play.png" alt="play" class="play">
-                        </a>
-                        <h5>Critical M.A.S.S. - Mentorship Program for Students</h5>
-                        <p>Learn more about the <a href="http://dos.uiowa.edu/critical-mass" target="_blank">Critical MASS</a> program</p>
+            <div id="bg" class="row-fluid">
+                <div class="span10 offset1">
+                    <header class="header">
+                        <h1 class="title">Critical M.A.S.S. - Mentorship Program for Students</h1>
+                    </header>
+                    <div class="row-fluid">
+                        <div class="span9 offset3">
+                            <p>Learn more about the <a href="http://dos.uiowa.edu/critical-mass" target="_blank">Critical MASS</a> program. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit amet. Duis mollis est non commodo porttitor ligula. Nullam id dolor id nibh ultricies vehicula ut id elit fusce dapibus, tellus ac cursus commodo.</p>
+                            <br>
+                            <div class="video-container video">
+                                <a href="http://www.youtube.com/embed/RRA2kGY-yig?rel=0" data-video="RRA2kGY-yig" class="video-link">
+                                    <img src="images/engage/critical_mass_video.jpg" alt="Click to view the Critical M.A.S.S. Video" width="718" height="404">
+                                    <img src="images/play.png" alt="play" class="play">
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div> <!-- end row -->
