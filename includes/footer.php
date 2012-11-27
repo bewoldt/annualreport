@@ -1,5 +1,8 @@
 <footer id="footer">
     <div class="container-fluid clearfix">
+        <img src="images/md-logo.png" alt="Student Life Marketing + Design" width="63" class="left">
+        <p style="color: #bbb;font-size: 12px;xtext-align:center;">The Division of Student Life Annual Report is produced annually by Student Life Marketing + Design (M+D), a communications agency powered by students. M+D provides real-world experience, preparing students for careers in marketing, design, web development, and social media.</p>
+        <hr>
         <div id="footer-header" class="clearfix">
             <p><a href="http://www.uiowa.edu/"><img src="http://studentlife.uiowa.edu/themes/doss/images/logo-footer.png" alt="The University of Iowa - Logo" /></a></p>
             <div id="footer-search" class="clearfix">

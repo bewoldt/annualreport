@@ -79,10 +79,7 @@
                             <small>Cassidy Bell</small>
                         </blockquote>
                         <p>The Meet the Challenge Awards are broken down by each of the five initiatives by the Iowa Challenge. Five awards are given each year with a $500 award to each recipient for the awards: Excel, Stretch, Choose, Engage, Serve.</p>
-                        <blockquote>
-                        	<p>“In a sense, it helps provide a roadmap that students can use to achieve success at Iowa and beyond."</p>
-                        	<small>Sarah Hansen, Assistant VP for Assessment & Strategic Initiatives, Division of Student Life</small>
-                        </blockquote>
+                    	<p>“In a sense, it helps provide a roadmap that students can use to achieve success at Iowa and beyond,” said Sarah Hansen, Director of Assessment and Strategic Initiatives at the Division of Student Life.</p>
                         <p>For Bell, the award was an unexpected honor, and she had not heard of the Meet the Challenge Awards before being nominated. “I was honored as soon as [I was] notified of my nomination, but even more so after seeing how prestigious the Iowa Challenge is,” Bell said. “I thought this would be a good way to help people, get experience in the field and find out if a career in counseling is actually something that I want to do."</p>
 
                         <p>Volunteering with RVAP also complemented Bell's work in the classroom as a psychology major. Her plans after graduation are to have a therapy practice. She felt that volunteering would have the benefit of serving the Iowa City community as well as learning something new. Working there was something she could feel a sense of pride about. Other student organizations and groups that she has had a hand in during her 4-year stay at the UI include Simply Food, the Local Foods Connection, and the Iowa City Farmers Market.</p>
@@ -178,7 +175,7 @@
                     <div class="row-fluid">
                         <div class="span12">
                             <blockquote class="full-width">
-                                <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="left" style="margin-bottom: -1.5em;margin-right: 3em;" width="210">
+                                <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="right" style="margin-bottom: -1.5em;margin-left: 3em;" width="210">
                                 <p>“The focus is not on learning to relax but to actually engage with what is here, even when it isn’t relaxing, in a conscious and discerning manner. This means learning how to be with difficult thoughts and emotions as well as external stressors.</p>
                                 <small>Kerri Eness-Potter, Program Coordinator for Mindfulness-Based Programs</small>
                             </blockquote>

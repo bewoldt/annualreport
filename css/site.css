@@ -1413,6 +1413,10 @@ a.give-now {
   font-size: 11px;
   border: 0; }
 
+#footer hr {
+  border-top-color: #444;
+  border-bottom-color: #666; }
+
 @media only screen and (max-width: 768px) {
   #list1, #list2, #list3, #list4 {
     float: left;
