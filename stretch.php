@@ -51,7 +51,7 @@
             </ul>
             <ul class="sub-nav nav">
                 <li><a href="#cultural-centers">Cultural Centers</a></li>
-                <li><a href="#kotheid">Kotheid</a></li>
+                <li><a href="#kotheid">Kotheid Nicoue</a></li>
                 <li><a href="#change-teams">Change Teams</a></li>
                 <li><a href="#walkitout-quote">Walk It Out</a></li>
             </ul>
@@ -67,7 +67,7 @@
                     <div id="cultural-centers-video" class="video">
                         <a href="http://www.youtube.com/embed/k4cqzu5pZis?rel=0" data-video="k4cqzu5pZis" class="video-link">
                             <img src="images/stretch/cultural-centers-still.jpg" alt="Click to view the Cultural Centers Video" width="830" height="467">
-                            <img src="images/play.png" alt="play" class="play">
+                            <div class="play"></div>
                         </a>
                     </div>
                     <hr>
@@ -130,10 +130,10 @@
 
                         <a href="http://www.youtube.com/embed/jYxO8wk7bIs?rel=0" data-video="jYxO8wk7bIs" class="video-link">
                             <img src="images/stretch/kotheid-video.jpg" alt="Click to view the Kotheid Nicoue Video" width="718" height="404">
-                            <img src="images/play.png" alt="play" class="play">
+                            <div class="play"></div>
                         </a>
                         <h5>Student Profile: Kotheid Nicoue</h5>
-                        <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh fermentum massa justo sit amet risus. Cum sociis natoque penatibus et magnis dis parturient.</p>
+                        <p>Recent UI graduate, Kotheid Nicuoe, made his mark on campus by being involved in numerous student organizations to get out the message of diversity to students. A few student organizations he was involved with include: Walk It Out, University of Iowa Student Government, and the African Student Association.</p>
                     </div>
                 </div>
             </div> <!-- end row -->

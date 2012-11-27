@@ -114,7 +114,7 @@
                     <div class="video">
                         <a href="http://www.youtube.com/embed/D02HqwcXMQo?rel=0" data-video="D02HqwcXMQo" class="video-link">
                             <img src="images/excel/iowa-grow-still.jpg" alt="Click to view Iowa Grow Video" width="830" height="467">
-                            <img src="images/play.png" alt="play" class="play">
+                            <div class="play"></div>
                         </a>
                     </div>
                     <hr>

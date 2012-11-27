@@ -96,10 +96,10 @@
                     <div class="video-container video">
                         <a href="http://www.youtube.com/embed/MD5nMi2Hv7Q?rel=0" data-video="MD5nMi2Hv7Q" class="video-link">
                             <img src="images/engage/hawkeye_awards_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
-                            <img src="images/play.png" alt="play" class="play">
+                            <div class="play"></div>
                         </a>
                         <h5>Selections from 2011 Hawkeye Award Winners.</h5>
-                        <p>Learn more about the <a href="http://imu.uiowa.edu/hawkeye-awards/" target="_blank">Hawkeye Awards.</a></p>
+                        <p>The Hawkeye Leadership and Service Awards is an annual award ceremony that acknowledges the accomplishments of student leaders on campus. The criteria for selected winners includes: students who have made a lasting contribution to their organization or Iowa City community, collaboration with others to successfully implement programs, as well as exemplary leadership and commitment to the organization and/or the University of Iowa.</p>
                     </div>
                 </div>
             </div> <!-- end row -->
@@ -144,12 +144,13 @@
                     </header>
                     <div class="row-fluid">
                         <div class="span9 offset3">
-                            <p>Learn more about the <a href="http://dos.uiowa.edu/critical-mass" target="_blank">Critical MASS</a> program. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Lorem ipsum dolor site amet, consectetur adipiscing elit amet. Duis mollis est non commodo portstitor ligula. Nullam id dolor id nibh ultricies vehicula ut id elit fusce dapibus, tellus ac cursus commodo.</p>
+                            <br>
+                            <p>Critical M.A.S.S, or Critical Mentoring and Student Support, is a program designed to provide connections on campus between students and faculty and staff. By doing so, this creates accountability for students and facilitates academic needs as well as other support services for students. The overarching goal of this program is to reduce violations of the Code of Student Life. This code is given to students as a means to maintain a safe campus for living and learning.</p>
                             <br>
                             <div class="video-container video">
                                 <a href="http://www.youtube.com/embed/RRA2kGY-yig?rel=0" data-video="RRA2kGY-yig" class="video-link">
                                     <img src="images/engage/critical_mass_video.jpg" alt="Click to view the Critical M.A.S.S. Video" width="718" height="404">
-                                    <img src="images/play.png" alt="play" class="play">
+                                    <div class="play"></div>
                                 </a>
                             </div>
                         </div>

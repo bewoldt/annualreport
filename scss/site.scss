@@ -508,10 +508,11 @@ img.right {
 .video-block .video-container h5 {
 	font-family: alfa-slab-one, arial, verdana, sans-serif;
 	font-size: 30px;
-	margin: 10px 0 0 0;
+	margin: 15px 0 0 0;
 }
 .video-container p {
-	margin: 5px 0 0;
+	font-size: 14px;
+	margin: 10px 0;
 }
 .video {
 	position: relative;
@@ -526,11 +527,18 @@ img.right {
 	top: 0;
 	left: 0;
 }
-.video .play {
+.video-link .play {
+	background: url(../images/play.png) no-repeat 0 0;
 	position: absolute;
 	top: 50%;
 	left: 50%;
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
 	margin: -40px 0 0 -40px;
+}
+.video-link:hover .play {
+	background-position: left bottom;
 }
 .smtxt {font-size: 12px;}
 
@@ -1014,7 +1022,8 @@ a.give-now {
 	#kotheid {
 		border: none;
 		background-image: url(../images/stretch/kotheid_bg.jpg);
-		background-position: right top;
+		background-position: right bottom;
+		background-repeat: no-repeat;
 	}
 	#change-teams .hero-img {
 		background-image: url(../images/stretch/changeteams_lg.jpg);

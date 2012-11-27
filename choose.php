@@ -104,7 +104,7 @@
                     <div class="video-container video">
                         <a href="http://www.youtube.com/embed/d1csMTIM58M?rel=0" data-video="d1csMTIM58M" class="video-link">
                             <img src="images/choose/leisure_skills_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
-                            <img src="images/play.png" alt="play" class="play">
+                            <div class="play"></div>
                         </a>
                         <h5>Lifetime Leisure Skills</h5>
                         <p>Learn more about <a href="http://www.registrar.uiowa.edu/registrar/catalog/universitycollege/lifetimeleisureskills/">Lifetime Leisure Skills Courses</a></p>
