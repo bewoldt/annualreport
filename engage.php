@@ -126,9 +126,17 @@
                         <div class="span9">
                             <p><span class="dropcap">A</span>rriving on campus can be a daunting experience for first year students. New social and living situations, academic challenges, and newly found independence can take up every minute of every day. Pick One is an initiative that encourages students to get involved in at least one organization early on. Being involved in student organizations or activities can be a valuable experiential learning experience.</p>
                             <p>There are nine areas students can choose from: Academic/Honors Opportunities, Campus Employment, Fraternities and Sororities, Intramural or Club Sports, Leadership, Multicultural Activities, Performing Arts, Student Organizations, and Volunteering. There are more than 450 student organizations through the Center for Student Involvement and Leadership, and these organizations are the most popular choices by students using Pick One. Close followers are fraternities and sororities, intramural sports, and student employment. The most popular Pick One opportunity is Dance Marathon, but Hawks Nest and intramural football are close seconds.</p>
+                        </div>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="span12">
                             <blockquote class="full-width">
                                 <p>Pick One is in its 5th year of operation and sees continuous growth and engagement each year. This year, Pick One had a participation rate of more than <strong>42%</strong> of all first-year students.</p>
                             </blockquote>
+                        </div>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="span9 offset3">
                             <p>Pick One gives students the chance to feel more connected on campus while having fun and meeting people. Involvement helps build teamwork and leadership skills. Getting involved makes people feel more is also tied to retaining UI students who might otherwise leave the University. Future initiatives for Pick One include extending the program to transfer students.</p>
                         </div>
                     </div><!-- end row -->
