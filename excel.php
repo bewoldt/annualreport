@@ -6,11 +6,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Excel - Annual Report 2012</title>
+    <title>Excel - 2012 Division of Student Life Annual Report</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
-
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/flexslider.css">
@@ -32,16 +30,12 @@
     <div class="container-fluid">
         <?php include 'includes/division-nav.php'; ?>
         <div id="header" class="header-img">
-             <div class="challenge-heading fadeInDown">
-                <p class="challenge-top">Division of Student Life</p>
-                <h1>Excel</h1>
-                <p class="challenge-bot">2012 Annual Report</p>
-            </div>
+            <h1 class="challenge-heading fadeInDown"><span class="challenge-top">Division of Student Life </span>Excel<span class="challenge-bot"> 2012 Annual Report</span></h1>
         </div>
     </div>
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
-            <ul id="nav" class="clearfix">
+            <ul id="nav" class="clearfix" role="navigation">
                 <li><a href="index.php">Home</a></li>
                 <li class="active"><a href="excel.php">Excel</a></li>
                 <li><a href="stretch.php">Stretch</a> </li>
@@ -62,10 +56,10 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                      <div class="content">
-                        <header>
+                        <div class="header">
                             <h1 class="title">Rising to the Iowa Challenge</h1>
                             <h3 class="sub-head">Cassidy Bell Sets an Example for Students</h3>
-                        </header>
+                        </div>
                         <div class="meta">
                             <ul>
                                 <li>Division of Student Life</li>
@@ -78,11 +72,10 @@
                             <p>“It is a thrill and honor to be recognized for the work that I do. I certainly feel like I am engaged in the community. Iowa City has become my home in the last several years and I am proud to be on both the giving and receiving side of support in this community.”</p>
                             <small>Cassidy Bell</small>
                         </blockquote>
-                        <p>The Meet the Challenge Awards are broken down by each of the five initiatives by the Iowa Challenge. Five awards are given each year with a $500 award to each recipient for the awards: Excel, Stretch, Choose, Engage, Serve.</p>
-                    	<p>“In a sense, it helps provide a roadmap that students can use to achieve success at Iowa and beyond,” said Sarah Hansen, Director of Assessment and Strategic Initiatives at the Division of Student Life.</p>
+                        <p>Five Meet the Challenge Awards are given each year with a $500 award to recipient in the following IOWA Challenge areas: Excel, Stretch, Choose, Engage, Serve.</p>
+                    	<p>“In a sense, The IOWA Challenge helps provide a roadmap that students can use to achieve success at Iowa and beyond,” said Sarah Hansen, Assistant Vice President for Student Life Assessment and Strategic Initiatives.</p>
                         <p>For Bell, the award was an unexpected honor, and she had not heard of the Meet the Challenge Awards before being nominated. “I was honored as soon as [I was] notified of my nomination, but even more so after seeing how prestigious the Iowa Challenge is,” Bell said. “I thought this would be a good way to help people, get experience in the field and find out if a career in counseling is actually something that I want to do."</p>
-
-                        <p>Volunteering with RVAP also complemented Bell's work in the classroom as a psychology major. Her plans after graduation are to have a therapy practice. She felt that volunteering would have the benefit of serving the Iowa City community as well as learning something new. Working there was something she could feel a sense of pride about. Other student organizations and groups that she has had a hand in during her 4-year stay at the UI include Simply Food, the Local Foods Connection, and the Iowa City Farmers Market.</p>
+                        <p>Volunteering with RVAP also complemented Bell's work in the classroom as a psychology major. Her plans after graduation are to have a therapy practice. She felt that volunteering would have the benefit of serving the Iowa City community as well as learning something new. Working at RVAP was something she could feel a sense of pride about. Other student organizations and groups that Cassidy has had a hand in during her 4-year stay at the UI include Simply Food, the Local Foods Connection, and the Iowa City Farmers Market.</p>
 
                         <p>“I thought this would be a good way to help people, get experience in the field and
                         find out if a career in counseling is actually something that I want to do,” Bell said.</p>
@@ -92,9 +85,9 @@
                             <p>“We hope that seeing the amazing things our Meet the Challenge winners are doing will inspire all students to use the challenge as a guide for their own path to success.”</p>
                             <small>Sarah Hansen</small>
                         </blockquote>
-                        <p>Bell graduated with a degree in Psychology and a minor in Health Promotion in 2012. She has continued engaging with the Iowa City community by working as the Family Service Specialist at the Local Foods Connection as well as the manage the Iowa City Farmers Market.</p>
+                        <p>Bell graduated with a degree in Psychology and a minor in Health Promotion in 2012. She has continued engaging with the Iowa City community by working as the Family Service Specialist at the Local Foods Connection and serving as manager for the Iowa City Farmers Market.</p>
 
-                        <p>Other award winners for the 2011-2012 academic year include Rachel Kentor (Excel Award), Kotheid Nicoue (Stretch Award), Jason Heard (Choose Award), and Ben Phol (Serve Award).</p>
+                        <p>Other award winners for the 2011-2012 academic year include Rachel Kentor (Excel Award), Kotheid Nicoue (Stretch Award), Jason Heard (Choose Award), and Ben Pohl (Serve Award).</p>
 
                     </div>
                 </div>
@@ -104,10 +97,10 @@
         <section id="iowagrow">
             <div class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Iowa Grow</h1>
+                    <div class="header">
+                        <h2 class="title">Iowa Grow</h2>
                         <h3 class="sub-head">Creating Meaningful Connections Between Work and Academics</h3>
-                    </header>
+                    </div>
                     <div class="video">
                         <a href="http://www.youtube.com/embed/D02HqwcXMQo?rel=0" data-video="D02HqwcXMQo" class="video-link">
                             <img src="images/excel/iowa-grow-still.jpg" alt="Click to view Iowa Grow Video" width="830" height="467">
@@ -123,7 +116,7 @@
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap dropwide">W</span>orking in a job or internship during college can be a valuable learning experience. Student supervisors in IOWA GROW™ help students make meaningful connections between their student jobs and academic pursuits. IOWA GROW™ uses four essential questions to keep their long-term goals in sight:</p>
+                            <p><span class="dropcap dropwide">W</span>orking in a job or internship during college can be a valuable learning experience. Supervisors in IOWA GROW™ help students make meaningful connections between their student jobs and academic pursuits. IOWA GROW™ uses four essential questions to keep their long-term goals in sight:</p>
                             <ul>
                                 <li>How is this job fitting in with your academics?</li>
                                 <li>What are you learning here that’s helping you in school?</li>
@@ -151,10 +144,10 @@
         <section id="ucs">
             <div class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Mindfulness Practice Supports Student Success</h1>
+                    <div class="header">
+                        <h2 class="title">Mindfulness Practice Supports Student Success</h2>
                         <h3 class="sub-head"></h3>
-                    </header>
+                    </div>
                     <br>
                     <div class="row-fluid">
                         <div class="span3 meta">
@@ -193,20 +186,20 @@
         <section id="readwrite">
             <div class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Read and Write Gold</h1>
+                    <div class="header">
+                        <h2 class="title">Read and Write Gold</h2>
                         <h3 class="sub-head">New Software Makes Studying and Reading More Accessible</h3>
-                    </header>
+                    </div>
                     <div id="readwrite-gallery" class="flexslider">
                         <ul class="slides">
                             <li>
-                                <img src="images/excel/readwrite_slide1.jpg" alt="" height="340" />
+                                <img src="images/excel/readwrite_slide1.jpg" alt="Read and Write Gold" height="340" />
                             </li>
                             <li>
-                                <img src="images/excel/read_write_slide2.jpg" alt="" />
+                                <img src="images/excel/read_write_slide2.jpg" alt="Read and Write Gold" />
                             </li>
                             <li>
-                                <img src="images/excel/read_write_slide3.jpg" alt="" />
+                                <img src="images/excel/read_write_slide3.jpg" alt="Read and Write Gold" />
                             </li>
                         </ul>
                     </div>
@@ -251,7 +244,8 @@
     <?php include 'includes/footer.php'; ?>
 
     <!-- Scripts-->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script> 
 </body>

@@ -93,16 +93,17 @@ section {
 .header-img  {
 	/* (width2, heigh2, width1, height1) */
 	@include fluid-ratio(1000px 500px, 320px 250px);
-	
 }
 .challenge-heading {
+	background: #333;
 	background: rgba(0,0,0,.3);
 	border: 1px solid #fff;
 	color: #fff;
+	font-size: 45px;
 	font-weight: bold;
-	margin-left: -140px;
-	margin-top: -77px;
-	padding: 10px 5px;
+	margin-left: -151px;
+	margin-top: -62px;
+	padding: 10px;
 	position: absolute;
 	 top: 50%;
 	 left: 50%;
@@ -112,20 +113,14 @@ section {
 	width: 280px;
 	z-index: 200;
 }
-.challenge-heading h1 {
-	font-size: 45px;
-	font-weight: bold;
-	margin: 15px 0;
-	position: relative;
-}
 .challenge-top, .challenge-bot {
 	background: url(../images/borders_sm.png) no-repeat center 10px;
+	display: block;
 	font-size: 13px;
 	margin: 0;
 }
-.challenge-bot {
-	text-transform: none;
-}
+.challenge-top {margin-bottom: 1em;}
+.challenge-bot {margin-top: 1em;text-transform: none;}
 
 /* Main Navigation 
 ========================================================================== */
@@ -153,10 +148,11 @@ section {
 	width: 100%;
 }
 #nav li {
+	border-right: 1px solid #97791d;
 	border-right: 1px solid rgba(0,0,0,.4);
+	border-left: 1px solid #fddf73;
 	border-left: 1px solid rgba(255,255,255,.4);
 	float: left;
-	text-align: center;
 	position: relative;
 	width: 16.66666%;
 	-webkit-box-sizing: border-box;
@@ -271,14 +267,14 @@ section {
 	margin: 0 0 1em;
 	padding: 1em 0;
 }
-section header .title {
+.header .title {
 	font-family: alfa-slab-one, arial, verdana, sans-serif;
 	font-size: 30px;
 	margin: 0;
 	-webkit-transition:font-size ease .2s;
 	text-shadow: 1px 1px 2px rgba(0,0,0,.15);
 }
-section header .sub-head {
+.header .sub-head {
 	font-size: 20px;
 	margin: .5em 0 0;
 }
@@ -338,6 +334,11 @@ section header .sub-head {
 	left: 15px;
 	right: 15px;
 	z-index: 12;
+}
+.hero-story .header {
+	border: none;
+	margin: 0;
+	padding: 0;
 }
  .hero-story .title {
  	margin: .25em 0 .25em;
@@ -406,21 +407,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', end
 	height: 42px;
 	width: 42px;
 	margin-right: 10px;
+	-webkit-transition: margin .2s linear;
+	   -moz-transition: margin .2s linear;
+	     -o-transition: margin .2s linear;
+	        transition: margin .2s linear;
 }
 #pagination li a:hover {
 	text-decoration: none;
 }
 #pagination .next {
 	text-align: right;
-}
-#pagination .prev a {
-	border-right: 1px solid rgba(0,0,0,.1);
-}
-#pagination .next a {
-	border-left: 1px solid rgba(255,255,255,.3);
+	float: right;
 }
 #pagination .prev a:hover span {
 	background-position: left bottom;
+	margin-right: 7px;
 }
 #pagination .next a span {
 	background-position: right top;
@@ -430,10 +431,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffcc00', end
 }
 #pagination .next a:hover span {
 	background-position: right bottom;
+	margin-left: 7px;
 }
 
 
-/* Random Shit  
+/* Misc  
 ========================================================================== */
 .justify {text-align: justify;}
 .center {text-align: center;}
@@ -551,11 +553,16 @@ img.right {
     	margin-top: -125px;
   	}
 }
-.blurbs {
-	margin-bottom: 1em;
-	overflow: hidden;
+.challenges {
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
-.blurbs .box {
+.challenges li {
+	overflow: hidden;
+	margin-bottom: 1em;
+}
+.challenges .box {
 	float: left;
 	display: block;
 	margin-right: 1em;
@@ -565,10 +572,10 @@ img.right {
 		margin-right: 0;
 	}
 }
-.blurbs h4 {
+.challenges h4 {
 	margin-top: 1em;
 }
-.blurbs .view {
+.challenges .view {
 	display: block;
 	opacity: 0;
 	filter: alpha(opacity=0);
@@ -585,15 +592,15 @@ img.right {
 	-o-transition: opacity .3s;
 	transition: opacity .3s;
 }
-.blurbs .view p {
+.challenges .view p {
 	color: #fff;
 	position: absolute;
 	top: 58%;
 	-webkit-transition: top .22s;
-	-moz-transition: top .22s;
-	-ms-transition: top .22s;
-	-o-transition: top .22s;
-	transition: top .22s;
+	   -moz-transition: top .22s;
+	    -ms-transition: top .22s;
+	     -o-transition: top .22s;
+	        transition: top .22s;
 	margin: -12px 0 0;
 	width: 100%;
 	text-align: center;
@@ -601,7 +608,7 @@ img.right {
 	font-size: 22px;
 	visibility: hidden;
 }
-.blurbs .box:hover .view {
+.challenges .box:hover .view {
 	opacity: .8;
 	filter: alpha(opacity=80);
 	-webkit-transition: opacity .3s;
@@ -610,7 +617,7 @@ img.right {
 	-o-transition: opacity .3s;
 	transition: opacity .3s;
 }
-.blurbs .box:hover .view p {
+.challenges .box:hover .view p {
 	visibility: visible;
 	top: 48%;
 	-webkit-transition: top .22s;
@@ -669,8 +676,8 @@ img.right {
 }
 #walkitout-quote {background-image: url(../images/stretch/walk_it_out.jpg);}
 #walkitout-quote blockquote {border-left-color: #FC89AD;}
-#walkitout header {border-top: none;}
-#walkitout header h1 {color: #FC89AD;}
+#walkitout .header {border-top: none;}
+#walkitout .title {color: #FC89AD;}
 #walkitout .dropcap {color: #fff;}
 
 /* gallery */
@@ -903,7 +910,7 @@ a.give-now {
 		padding: 0;
 		text-align: center;
 	}
-	section header .title {
+	.header .title {
     	font-size: 50px;
   	}
   	.shadow {
@@ -948,11 +955,11 @@ a.give-now {
 		padding: 1.3em 0;
 	}
 	.challenge-heading {
-		margin-top: -83px;
-    	margin-left: -256px;
+		margin-top: -76px;
+    	margin-left: -261px;
 		width: 500px;
 	}
-	.challenge-heading h1 {
+	.challenge-heading {
 		font-size: 70px;
 	}
 	.challenge-top, .challenge-bot {
@@ -966,13 +973,13 @@ a.give-now {
 		width: 96%;
   	}
 	/* headings */
-	section .header {
+	.header {
 		padding: 2em 0;
 	}
-	section header .sub-head {
+	.header .sub-head {
 		font-size: 24px;
 	}
-	section header .title {
+	.header .title {
     	font-size: 55px;
   	}
   	#nav li a {

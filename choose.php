@@ -6,11 +6,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Choose - Annual Report 2012</title>
+    <title>Choose - 2012 Division of Student Life Annual Report</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
-
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/site.css">
@@ -31,16 +29,12 @@
     <div class="container-fluid">
         <?php include 'includes/division-nav.php'; ?>
         <div id="header" class="header-img">
-             <div class="challenge-heading fadeInDown">
-                <p class="challenge-top">Division of Student Life</p>
-                <h1>Choose</h1>
-                <p class="challenge-bot">2012 Annual Report</p>
-            </div>
+             <h1 class="challenge-heading fadeInDown"><span class="challenge-top">Division of Student Life </span>Choose<span class="challenge-bot"> 2012 Annual Report</span></h1>
         </div>
     </div>
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
-            <ul id="nav" class="clearfix">
+            <ul id="nav" class="clearfix" role="navigation">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="excel.php">Excel</a></li>
                 <li><a href="stretch.php">Stretch</a> </li>
@@ -58,10 +52,10 @@
         <section id="student-health">
             <div class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Supporting Health and Safety</h1>
+                    <div class="header">
+                        <h2 class="title">Supporting Health and Safety</h2>
                         <h3 class="sub-head">Students Benefit from Student Health Service and Health Iowa</h3>
-                    </header>
+                    </div>
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
@@ -72,7 +66,7 @@
                         </div>
                         <div class="span9">
                             <p><span class="dropcap">F</span>or most students, going to college means newfound freedom and choices that must be made daily. Fortunately, Student Health Service encourages smart choices in the crucial area of health and safety.</p>
-                            <img src="images/choose/colorful_choices.png" alt="Colorful Chilces logo" class="left">
+                            <img src="images/choose/colorful_choices.png" alt="Colorful Choices logo" class="left">
                             <p>Colorful Choices is one such program, which works to promote healthy decision making by students. Rather than focusing on metrics such calories, fat grams, or weights, the program promotes a simpler way of eating healthier through opting for colorful fruits and vegetables. The program asks students to log their intake of fruits and vegetables for 20 days, while grouping them by color. Along with this, participants receive weekly emails featuring health tips and motivation.</p>
                             
                             <p>Last year, 489 students registered to participate in the program. Beyond individual accountability for logging daily intake of fruits and vegetables, these students were provided with resources for healthy recipes, tips on where to find fresh, local produce, and the opportunity to attend a cooking class.</p>
@@ -103,7 +97,7 @@
                 <div class="span8 offset2">
                     <div class="video-container video">
                         <a href="http://www.youtube.com/embed/d1csMTIM58M?rel=0" data-video="d1csMTIM58M" class="video-link">
-                            <img src="images/choose/leisure_skills_still.jpg" alt="Click to view the Hawkeye Awards Video" width="714" height="402">
+                            <img src="images/choose/leisure_skills_still.jpg" alt="Click to view the Leisure Skills video" width="714" height="402">
                             <div class="play"></div>
                         </a>
                         <h5>Lifetime Leisure Skills</h5>
@@ -116,10 +110,10 @@
         <section id="starrez">
             <div class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Star Rez Helps Find Compatible Roommates</h1>
+                    <div class="header">
+                        <h2 class="title">Star Rez Helps Find Compatible Roommates</h2>
                         <h3 class="sub-head">New Program Results in Greater Roommate Compatibility</h3>
-                    </header>
+                    </div>
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
@@ -152,7 +146,8 @@
     <?php include 'includes/footer.php'; ?>
 
     <!-- Scripts-->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script> 
 </body>

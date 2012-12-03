@@ -6,11 +6,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Engage - Annual Report 2012</title>
+    <title>Engage - 2012 Division of Student Life Annual Report</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
-
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/site.css">
@@ -31,16 +29,12 @@
     <div class="container-fluid">
         <?php include 'includes/division-nav.php'; ?>
         <div id="header" class="header-img">
-             <div class="challenge-heading fadeInDown">
-                <p class="challenge-top">Division of Student Life</p>
-                <h1>Engage</h1>
-                <p class="challenge-bot">2012 Annual Report</p>
-            </div>
+            <h1 class="challenge-heading fadeInDown"><span class="challenge-top">Division of Student Life </span>Engage<span class="challenge-bot"> 2012 Annual Report</span></h1>
         </div>
     </div>
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
-            <ul id="nav" class="clearfix">
+            <ul id="nav" class="clearfix" role="navigation">
                 <li> <a href="index.php">Home</a></li>
                 <li><a href="excel.php">Excel</a></li>
                 <li><a href="stretch.php">Stretch</a> </li>
@@ -61,10 +55,10 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                      <div class="content">
-                        <header>
-                            <h1 class="title">Building a Women's Network</h1>
+                        <div class="header">
+                            <h2 class="title">Building a Women's Network</h2>
                             <h3 class="sub-head">Iowa N.E.W. Leadership Summer Institute</h3>
-                        </header>
+                        </div>
                         <div class="meta">
                             <ul>
                                 <li>Women's Resource and Action Center</li>
@@ -108,12 +102,12 @@
         <section id="pick-one">
             <div class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Pick One Encourages Student Involvement</h1>
+                    <div class="header">
+                        <h2 class="title">Pick One Encourages Student Involvement</h2>
                         <h3 class="sub-head">Participation Rate Reaches 42% of First Year Students</h3>
-                    </header>
+                    </div>
                     <div>
-                        <img src="images/engage/pickone.jpg" alt="">
+                        <img src="images/engage/pickone.jpg" alt="Uiowa Pick One">
                     </div>
                     <hr>
                     <div class="row-fluid">
@@ -147,9 +141,9 @@
         <section id="critical-mass" class="video-block">
             <div id="bg" class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Critical M.A.S.S. - Mentorship Program for Students</h1>
-                    </header>
+                    <div class="header">
+                        <h2 class="title">Critical M.A.S.S. - Mentorship Program for Students</h2>
+                    </div>
                     <div class="row-fluid">
                         <div class="span9 offset3">
                             <br>
@@ -180,7 +174,8 @@
     <?php include 'includes/footer.php'; ?>
 
     <!-- Scripts-->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script> 
 </body>

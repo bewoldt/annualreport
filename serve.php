@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Serve - Annual Report 2012</title>
+    <title>Serve - 2012 Division of Student Life Annual Report</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
 
@@ -30,16 +30,12 @@
     <div class="container-fluid">
         <?php include 'includes/division-nav.php'; ?>
         <div id="header" class="header-img">
-             <div class="challenge-heading fadeInDown">
-                <p class="challenge-top">Division of Student Life</p>
-                <h1>Serve</h1>
-                <p class="challenge-bot">2012 Annual Report</p>
-            </div>
+            <h1 class="challenge-heading fadeInDown"><span class="challenge-top">Division of Student Life </span>Serve<span class="challenge-bot"> 2012 Annual Report</span></h1>
         </div>
     </div>
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
-            <ul id="nav" class="clearfix">
+            <ul id="nav" class="clearfix" role="navigation">
                 <li><a href="index.php">Home<em>&nbsp;</em></a></li>
                 <li><a href="excel.php">Excel</a></li>
                 <li><a href="stretch.php">Stretch</a></li>
@@ -57,10 +53,10 @@
         <section id="sorority-life">
             <div class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Fostering a Philanthropic Community</h1>
+                    <div class="header">
+                        <h2 class="title">Fostering a Philanthropic Community</h2>
                         <h3 class="sub-head">Fraternity and Sorority Life Raises Funds and Awareness</h3>
-                    </header>
+                    </div>
                     <img src="images/serve/greeklife.jpg" alt="Phi Kappa Psi and Zeta Tau Alpha" />
                     <hr>
                     <div class=" meta">
@@ -104,10 +100,10 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                      <div class="content">
-                        <header>
-                            <h1 class="title">WRAC: Not Just For Women</h1>
+                        <div class="header">
+                            <h2 class="title">WRAC: Not Just For Women</h2>
                             <h3 class="sub-head">All Are Welcome</h3>
-                        </header>
+                        </div>
                         <div class="meta">
                             <ul>
                                 <li>Women's Resource and Action Center</li>
@@ -132,22 +128,22 @@
         <section id="saturdays-in-service">
             <div class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Saturdays in Service</h1>
-                    </header>
+                    <div class="header">
+                        <h2 class="title">Saturdays in Service</h2>
+                    </div>
                 </div>
             </div>
             <div class="row-fluid">
                 <div class="span12">
                     <div id="saturdays-gallery" class="flexslider">
                         <ul class="slides">
-                            <li><img src="images/serve/saturdays_a.jpg" alt="" /></li>
-                            <li><img src="images/serve/saturdays_b.jpg" alt="" /></li>
-                            <li><img src="images/serve/saturdays_c.jpg" alt="" /></li>
-                            <li><img src="images/serve/saturdays_d.jpg" alt="" /></li>
-                            <li><img src="images/serve/saturdays_e.jpg" alt="" /></li>
-                            <li><img src="images/serve/saturdays_f.jpg" alt="" /></li>
-                            <li><img src="images/serve/saturdays_g.jpg" alt="" /></li>
+                            <li><img src="images/serve/saturdays_a.jpg" alt="Saturdays in Service" /></li>
+                            <li><img src="images/serve/saturdays_b.jpg" alt="Saturdays in Service" /></li>
+                            <li><img src="images/serve/saturdays_c.jpg" alt="Saturdays in Service" /></li>
+                            <li><img src="images/serve/saturdays_d.jpg" alt="Saturdays in Service" /></li>
+                            <li><img src="images/serve/saturdays_e.jpg" alt="Saturdays in Service" /></li>
+                            <li><img src="images/serve/saturdays_f.jpg" alt="Saturdays in Service" /></li>
+                            <li><img src="images/serve/saturdays_g.jpg" alt="Saturdays in Service" /></li>
                         </ul>
                     </div>
                 </div>
@@ -181,7 +177,7 @@
 
                             <p>Last year, the volunteering at Witty Kitties, a local animal sanctuary, was the most popular program. Many students missed their pets from back home, so volunteering at the sanctuary was a good way for students to get in bonding time animals while helping out a good cause.</p>
 
-                            <p>Approximately 25 students volunteer at each Saturdays in Service event. Students are the backbone of the program; they choose the activities, generate excitement among peers, and have passion to work hard to help others. Kristi Roehr, a previous volunteer, said, “It’s a fun and easy way to get involved, meet new people, and help out the community.”</p>
+                            <p>Approximately 25 students volunteer at each Saturdays in Service event. "Students are the backbone of the program; they choose the activities, generate excitement among peers, and have passion to work hard to help others." Kristi Roehr, a previous volunteer, said, “It’s a fun and easy way to get involved, meet new people, and help out the community.”</p>
                         </div>
                     </div>
                 </div>
@@ -201,7 +197,8 @@
     <?php include 'includes/footer.php'; ?>
 
     <!-- Scripts-->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script> 
 </body>

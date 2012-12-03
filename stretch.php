@@ -6,11 +6,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Stretch - Annual Report 2012</title>
+    <title>Stretch - 2012 Division of Student Life Annual Report</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
-
-    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/flexslider.css">
@@ -32,16 +30,12 @@
     <div class="container-fluid">
         <?php include 'includes/division-nav.php'; ?>
         <div id="header" class="header-img">
-             <div class="challenge-heading fadeInDown">
-                <p class="challenge-top">Division of Student Life</p>
-                <h1>Stretch</h1>
-                <p class="challenge-bot">2012 Annual Report</p>
-            </div>
+             <h1 class="challenge-heading fadeInDown"><span class="challenge-top">Division of Student Life </span>Stretch<span class="challenge-bot"> 2012 Annual Report</span></h1>
         </div>
     </div>
     <div class="container-fluid shadow">
         <div id="nav-wrapper">
-            <ul id="nav" class="clearfix">
+            <ul id="nav" class="clearfix" role="navigation">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="excel.php">Excel</a></li>
                 <li class="active"><a href="stretch.php">Stretch</a> </li>
@@ -60,10 +54,10 @@
         <section id="cultural-centers" class="first-story">
             <div class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Fostering Inclusion</h1>
+                    <div class="header">
+                        <h2 class="title">Fostering Inclusion</h2>
                         <h3 class="sub-head">Cultural Centers See an Increase in Meaningful Activity and Interaction</h3>
-                    </header>
+                    </div>
                     <div id="cultural-centers-video" class="video">
                         <a href="http://www.youtube.com/embed/k4cqzu5pZis?rel=0" data-video="k4cqzu5pZis" class="video-link">
                             <img src="images/stretch/cultural-centers-still.jpg" alt="Click to view the Cultural Centers Video" width="830" height="467">
@@ -80,27 +74,27 @@
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">T</span>he University of Iowa Cultural and Resource Centers (UICRC's) provide space, programming, and community for underrepresented groups on campus. The Centers also play a role in facilitating cross-cultural experiences for students who seek exposure to peers from diverse cultures and backgrounds. Through these experiences, students form lasting communities and relationships. </p>
+                            <p><span class="dropcap">T</span>he University of Iowa Cultural and Resource Centers (UICRC's) provide space, programming, and community for underrepresented groups on campus. The Centers also play a role in facilitating cross-cultural experiences for students who seek exposure to peers from diverse cultures and backgrounds. Through these experiences, students form lasting communities and relationships.</p>
                             <p>“[The Center] develops and fosters relationships that are often lost on such a large campus,” Preston Keith, the manager of the Lesbian Gay, Bisexual, and Transgender Resource Center, said. “It is pretty much a home away from home for each and every student to feel comfortable and safe.”</p>
                         </div>
                     </div>
                     <hr>
                     <div class="row-fluid">
                         <div class="span3">
-                            <img src="images/stretch/centers/afro_american.jpg" alt="">
+                            <img src="images/stretch/centers/afro_american.jpg" alt="Afro-Amercian Cultural Center">
                             <br>
                             <p class="caption">Afro-Amercian Cultural Center &nbsp;</p>
                         </div>
                         <div class="span3">
-                            <img src="images/stretch/centers/lgbt.jpg" alt="">
+                            <img src="images/stretch/centers/lgbt.jpg" alt="Lesbian, Gay, Bisexual, and Transgender Cultural Center">
                             <p class="caption">Lesbian, Gay, Bisexual, and Transgender Cultural Center</p>
                         </div>
                         <div class="span3">
-                            <img src="images/stretch/centers/asian_pacific.jpg" alt="">
+                            <img src="images/stretch/centers/asian_pacific.jpg" alt="Latino Native American Cultural Center">
                             <p class="caption">Latino Native American Cultural Center</p>
                         </div>
                         <div class="span3">
-                            <img src="images/stretch/centers/latino_native_american.jpg" alt="">
+                            <img src="images/stretch/centers/latino_native_american.jpg" alt="Asian Pacific American Cultural Center">
                             <p class="caption">Asian Pacific American Cultural Center</p>
                         </div>
                     </div>
@@ -115,7 +109,9 @@
                     <div class="row-fluid">
                         <div class="span9 offset3">
                             <p>There are four UICRC centers situated on campus including: Afro-American Cultural Center, Asian Pacific American Cultural Center, Latino Native American Cultural Center, and the Lesbian, Gay, Bisexual, Transgender Resource Center. In the last year, the UICRC has been successful in starting new initiatives and creating new staff changes. This culminates in more attention to center relationships while still recognizing newly created student groups, constituency groups, and community members.</p>
-                           <p>From 2011 to 2012, there was a 10.5% increase in visitrs to the Centers, with the Asian Pacific American Cultural Center (APACC) receiving the largest percentage of increase in visits (39%). During the 2011-2012 school year, the Centers saw a total of 28,769 visitors. </p>
+                            <p>From 2011 to 2012, there was a <strong>10.5%</strong> increase in visitors to the Centers, with the Asian Pacific American Cultural Center (APACC) receiving the largest percentage of increase in visits (39%). During the 2011-2012 school year, the Centers saw a total of 28,769 visitors.</p>
+                            <p>In August of 2011, Roy Salcedo was hired as the Coordinator for Multicultural Programs. Since then, Salcedo has been able to hire a new team of graduate student managers for the Centers, as well as begin some new initiatives outside the Centers, such as the Condom Casino, Asian Night, Walk it Out, and Multicultural Formal, and César Chávez Week</p>
+                            <p>The Centers have also begun conducting outcomes-based assessments for selected programs. One such program included a screening of the film Latino Beginnings, which is documentary about being gay and Latino; a minority within a minority.  After the film, students participated in a group discussion and writing exercise to facilitate reflection. The resulting assessment showed that students learned new content and were empathetic to the challenges described in the film. More details about how the assessment was conducted are available in this issue of the <a href="http://studentlife.uiowa.edu/assets/Assessment-Newsletter-1.pdf">Assessment Newsletter</a>.</p>
                         </div>
                     </div><!-- end row -->
                 </div>
@@ -125,15 +121,13 @@
         <section id="kotheid" class="video-block">
             <div class="row-fluid">
                 <div class="span8 offset1">
-
                     <div class="video-container video">
-
                         <a href="http://www.youtube.com/embed/jYxO8wk7bIs?rel=0" data-video="jYxO8wk7bIs" class="video-link">
                             <img src="images/stretch/kotheid-video.jpg" alt="Click to view the Kotheid Nicoue Video" width="718" height="404">
                             <div class="play"></div>
                         </a>
                         <h5>Student Profile: Kotheid Nicoue</h5>
-                        <p>Recent UI graduate, Kotheid Nicuoe, made his mark on campus by being involved in numerous student organizations to get out the message of diversity to students. A few student organizations he was involved with include: Walk It Out, University of Iowa Student Government, and the African Student Association.</p>
+                        <p>Recent UI graduate, Kotheid Nicoue, made his mark on campus by being involved in numerous student organizations to get out the message of diversity to students. A few student organizations he was involved with include: Walk It Out, University of Iowa Student Government, and the African Student Association.</p>
                     </div>
                 </div>
             </div> <!-- end row -->
@@ -144,14 +138,14 @@
             <div class="row-fluid">
                 <div class="span8 offset2">
                      <div class="content">
-                        <header>
-                            <h1 class="title">Creating Positive Change On Campus</h1>
-                        </header>
+                        <div class="header">
+                            <h2 class="title">Creating Positive Change On Campus</h2>
+                        </div>
                         <div class="meta">
                             <ul>
                                 <li>IMU Change Team</li>
                                 <li><em>Words by <span>Maddy Osman</span></em></li>
-                                <li><em>Video by <span>Scott Lahn</span></em></li>
+                                <li><em>Photo by <span>Chelsea Darter</span></em></li>
                             </ul>
                         </div>
                         <p><span class="dropcap">D</span>iversity efforts are at the core of the University of Iowa's mission, and as such, are a key priority for the Division of Student Life. During the 11-12 academic year, each department within the Division appointed a small workgroup, or change team, charged with developing plans to ensure an inclusive environment for all students on campus. The IMU Change Team is co-chaired by Roy Salcedo, Coordinator for Multicultural Programs, and Patricia Kruse, Associate Director of IMU Administration & Operations. The purpose of the program is to increase awareness and acceptance of diverse populations of the campus.</p>
@@ -180,7 +174,7 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <blockquote>
-                        <p>"Walk It Out has continuously pushed it's participants to actively seek out ways to meet people who are different from them."</p>
+                        <p>"Walk It Out has continuously pushed its participants to actively seek out ways to meet people who are different from them."</p>
                         <small>Evan Ivory</small>
                     </blockquote>
                 </div>
@@ -190,10 +184,10 @@
         <section id="walkitout">
             <div class="row-fluid">
                 <div class="span10 offset1">
-                    <header class="header">
-                        <h1 class="title">Walk It Out</h1>
+                    <div class="header">
+                        <h2 class="title">Walk It Out</h2>
                         <h3 class="sub-head">Walk It Out is a student organization on campus that showcases various cultures through its annual fashion show.</h3>
-                    </header>
+                    </div>
                     <br>
                     <div class="row-fluid">
                         <div class="span3 meta">
@@ -228,15 +222,15 @@
                 <div class="span12">
                     <div id="walkitout-gallery" class="flexslider">
                         <ul class="slides">
-                            <li><img src="images/stretch/walk_a.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_i.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_k.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_c.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_e.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_g.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_h.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_b.jpg" alt="" /></li>
-                            <li><img src="images/stretch/walk_l.jpg" alt="" /></li>
+                            <li><img src="images/stretch/walk_a.jpg" alt="Walk It Out" /></li>
+                            <li><img src="images/stretch/walk_i.jpg" alt="Walk It Out" /></li>
+                            <li><img src="images/stretch/walk_k.jpg" alt="Walk It Out" /></li>
+                            <li><img src="images/stretch/walk_c.jpg" alt="Walk It Out" /></li>
+                            <li><img src="images/stretch/walk_e.jpg" alt="Walk It Out" /></li>
+                            <li><img src="images/stretch/walk_g.jpg" alt="Walk It Out" /></li>
+                            <li><img src="images/stretch/walk_h.jpg" alt="Walk It Out" /></li>
+                            <li><img src="images/stretch/walk_b.jpg" alt="Walk It Out" /></li>
+                            <li><img src="images/stretch/walk_l.jpg" alt="Walk It Out" /></li>
                         </ul>
                     </div>
                 </div>
@@ -255,7 +249,8 @@
     <?php include 'includes/footer.php'; ?>
 
     <!-- Scripts-->
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.7.2.min.js"><\/script>')</script>
     <script src="js/plugins-ck.js"></script>
     <script src="js/main-ck.js"></script> 
 </body>
