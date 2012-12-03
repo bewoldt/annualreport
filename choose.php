@@ -45,7 +45,7 @@
             <ul class="sub-nav clearfix">
                 <li><a href="#student-health">Supporting Health and Safety</a></li>
                 <li><a href="#leisure-skills">Lifetime Leisure Skills</a></li>
-                <li><a href="#starrez">Star Rez</a></li>
+                <li><a href="#starrez">Improved Housing Placement</a></li>
             </ul>
         </div>
 
@@ -111,22 +111,23 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <div class="header">
-                        <h2 class="title">Star Rez Helps Find Compatible Roommates</h2>
-                        <h3 class="sub-head">New Program Results in Greater Roommate Compatibility</h3>
+                        <h2 class="title">Improved Housing Placement</h2>
+                        <h3 class="sub-head">New Software Places Students Based on Preferences</h3>
                     </div>
                     <div class="row-fluid">
                         <div class="span3 meta">
                            <ul>
-                                <li>University Housing & Dining</li>
+                                <li>University Housing &amp; Dining</li>
                                 <li><em>Words by <span>Maddy Osman</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">L</span>ast year, the University of Iowa Housing Department was faced with a challenge: their housing application system needed to be replaced. The answer came in the form of Star Rez; a system which helps match incoming students with a roommate with similar interests. Star Rez was used by about 25% of the incoming freshmen (about 1,100) during its first year of operation. The system asks questions about ideal study environment, allowable noise level, and other preferences.</p>
-                            <blockquote class="full-width">
-                                <p>Star Rez was used by about 1100 out of the over 4300 (about 25%) incoming freshman in its first year of inception.</p>
+                            <p><span class="dropcap">L</span>ast year, the University of Iowa Housing Department was faced with a challenge: their housing placement system needed to be replaced. The answer came in the form of Star Rez; a system that helps manage student housing applications, allowing students to choose from several preferences during the process. The system matches roommates based factors such as ideal study environment within the room or allowable noise level. 50% of incoming freshmen (around 2,200) opted for the roommate matching feature during its first year of operation.</p>
+                            <blockquote>
+                                <p>“Star Rez allows us to have dynamic applications that allow students self-select rooms, LLCs, meal plans, and even the new shop & swap program,  where students can advertise their room or swap roommates.”</p>
+                                <small>Ryan Cohenour, Assistant Director for Contracts and Assignments</small>
                             </blockquote>
-                            <p>So far, the program seems to have been successful. RAs are reporting fewer roommate disputes on their floors and fewer roommate changes when compared with the previous year. Previously, roommates were matched based on the building and room type they requested. University Housing staff is looking forward to seeing increased use of the system in the coming years.</p>
+                            <p>Outcomes of the new process are promising. RAs are reporting fewer roommate disputes on their floors and fewer roommate changes when compared with the previous years. Before Star Rez, roommates were paired based on the building and room type requested. Star Rez promises to be even more useful next year, when all incoming students will be required to choose a Living Learning Community during their first year in the Residence Halls.</p>
                         </div>
                     </div><!-- end row -->
                 </div>
