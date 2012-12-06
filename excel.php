@@ -134,8 +134,7 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <blockquote>
-                        <p>“The relevance of the material to their daily life, and the positive changes they see seem to keep them motivated to do the work.”</p>
-                        <small>Kerri Eness-Potter, Program Coordinator for Mindfulness-Based Programs</small>
+                        <p>UCS programs give students the chance to interact with and identify with peers, allowing them to learn from one another and feel less isolated on campus.</p>
                     </blockquote>
                 </div>
             </div>
@@ -145,8 +144,7 @@
             <div class="row-fluid">
                 <div class="span10 offset1">
                     <div class="header">
-                        <h2 class="title">Mindfulness Practice Supports Student Success</h2>
-                        <h3 class="sub-head"></h3>
+                        <h2 class="title">Outreach at the University Counseling Service</h2>
                     </div>
                     <br>
                     <div class="row-fluid">
@@ -154,29 +152,28 @@
                            <ul>
                                 <li>University Counseling Service</li>
                                 <li><em>Words by <span>Hanna Rosman</span></em></li>
-                                <li>For more information visite: <a href="http://www.uiowa.edu/ucs/">http://www.uiowa.edu/ucs/</a></li>
+                                <li>For more information visite: <a href="http://www.uiowa.edu/ucs/" target="_blank">http://www.uiowa.edu/ucs/</a></li>
                             </ul>
                         </div>
                         <div class="span9">
-                            <p><span class="dropcap">A</span>ccording to the University Counseling Services (UCS), the education students gain during their time at the University of Iowa is a mix of academic and non-academic learning and development. Mindfulness practice helps students learn to face challenging situations, manage stress, and increase focus. The UCS offers Mindfulness programming to students in various group courses ranging from outside of the classroom to for-credit courses available through the university.</p>
-                    
-                            <p>“Students learn formal mindfulness meditation practices that include awareness of physical, cognitive and emotional experiences, as well as informal practices such as mindful eating, studying, communication, and mindful use of cellphones and social media,” Kerri Eness-Potter, Program Coordinator for MIndfulness-Based Programs, said. “They are also introduced to research and application to professional and academic areas.”</p>
-
-                            <p>In the 2011-2012 academic year, UCS offered two non-academic courses titled “Mindfulness Foundations” and “Mindfulness: Being Here With It All.” Both of these classes contained eight-week group sessions that differ in scope. The “Mindfulness Foundations” course focused upon teaching students the secular, personal practices of mindfulness. It also focused upon the conceptual and theoretical aspects of mindfulness and the academic importance of mindfulness when looking at research and other resources. “Mindfulness: Being Here With It All” is meant for first-year students to help them transition to university life by teaching them skills they can use in relation to personal stresses.</p>
+                            <p><span class="dropcap">S</span>tudent success at Iowa is facilitated both within and outside the classroom. University Counseling Service (UCS) helps students build skills outside the classroom that can contribute directly to their academic success. UCS provides customized group outreach sessions available to UI departments, organizations, with the goal of helping students develop and maintain healthy attitudes and behaviors in their personal and academic lives. One aim of outreach services is to provide skill building to students who may not choose to visit the UCS directly.</p>
+                            <p>“We are willing and excited to work with all students,” Dr. Kathleen Staley, Assistant Director of Outreach for UCS, said. “As we present outreach programs to students, it is a way for many students to learn about the services of the UCS and to gain important psychological information and skills.”</p>
+                            <p>Through their program and consultation services, UCS helps students develop academic, career exploration, and personal skills. Outreach programs and consultation services were popular last year: a total of 16,532 participants attended at least one session. Topics ranged from academic skills to eating disorders. The most frequently presented sessions last year were Diversity Issues, Academic Skills, and Transitions. These programs all revolve around helping students use campus resources to support better choices, and in turn, improve their success in the classroom.</p>
+                            <p>“Students in group presentations learn that they are not alone in their problem, and can obtain valuable input from fellow students,” Staley said. “Students also have the opportunity to practice newly learned skills in a group setting. The group setting can be more helpful than one-on-one sessions.”</p>
                         </div>
                     </div>
                     <div class="row-fluid">
                         <div class="span12">
                             <blockquote class="full-width">
-                                <img src="images/excel/eness-potter.png" alt="Kerri Eness-Potter" class="right" style="margin-bottom: -1.5em;margin-left: 3em;" width="210">
-                                <p>“The focus is not on learning to relax but to actually engage with what is here, even when it isn’t relaxing, in a conscious and discerning manner. This means learning how to be with difficult thoughts and emotions as well as external stressors.</p>
-                                <small>Kerri Eness-Potter, Program Coordinator for Mindfulness-Based Programs</small>
+                                <img src="images/excel/kathie.jpg" alt="Kathleen Staley" class="right" style="margin-bottom: 0;margin-left: 3em;" width="200">
+                                <p>“UCS is open and inclusive for all students in our outreach work.” Staley said. “For students who may be reluctant or uncomfortable in coming to the UCS, our outreach work can meet students where they are comfortable.”</p>
+                                <small>Dr. Kathleen Staley, Assistant Director of Outreach for UCS</small>
                             </blockquote>
                         </div>
                     </div>
                     <div class="row-fluid">
                         <div class="span9 offset3">
-                            <p>Between 15-20 students attended each section of the two courses. In the for-credit courses, students are achieving high scores. The student evaluations conducted at the closing of each course have come back very positive. Although the program has been at the University of Iowa Hospitals and Clinics since 1996, the mindfulness courses started in 2009. It is still in the pilot research phase, but the effect that it has had on students is evident.</p>
+                            
                         </div>
                     </div>
                 </div>
