@@ -61,7 +61,7 @@
                     <hr>
                     <div class=" meta">
                        <ul>
-                            <li><em>Words by <span>Mary Koberstein</span> and <span>Hanna Rosman</span></em></li>
+                            <li><em>Student writer <span>Mary Koberstein</span> and <span>Hanna Rosman</span></em></li>
                         </ul>
                     </div>
                     <hr>
@@ -107,7 +107,7 @@
                         <div class="meta">
                             <ul>
                                 <li>Women's Resource and Action Center</li>
-                                <li><em>Words by <span>Maddy Osman</span></em></li>
+                                <li><em>Student writer <span>Maddy Osman</span></em></li>
                                 <li><em>Photography by <span>Lev Cantoral</span></em></li>
                             </ul>
                         </div>
@@ -155,7 +155,7 @@
                         <div class="span3 meta">
                            <ul>
                                 <li>University Housing & Dining</li>
-                                <li><em>Words by <span>Hanna Rosman</span></em></li>
+                                <li><em>Student writer <span>Hanna Rosman</span></em></li>
                                 <li>For more information visit: <a href="http://www.facebook.com/uiowasis">facebook.com/uiowasis</a></li>
                             </ul>
                         </div>

@@ -60,7 +60,7 @@
                         <div class="span3 meta">
                            <ul>
                                 <li>Encouraging Student Health and Safety</li>
-                                <li><em>Words by <span>Mary Koberstein</span></em></li>
+                                <li><em>Student writer <span>Mary Koberstein</span></em></li>
                                 <li><em>Video by <span>Scott Lahn</span></em></li>
                             </ul>
                         </div>
@@ -118,7 +118,7 @@
                         <div class="span3 meta">
                            <ul>
                                 <li>University Housing &amp; Dining</li>
-                                <li><em>Words by <span>Maddy Osman</span></em></li>
+                                <li><em>Student writer <span>Maddy Osman</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">

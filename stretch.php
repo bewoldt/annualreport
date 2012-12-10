@@ -69,7 +69,7 @@
                         <div class="span3 meta">
                            <ul>
                                 <li>Center for Student Involvement and Leadership</li>
-                                <li><em>Words by <span>Maddy Osman</span></em></li>
+                                <li><em>Student writer <span>Hanna Rosman</span></em></li>
                                 <li><em>Video by <span>Scott Lahn</span></em></li>
                             </ul>
                         </div>
@@ -144,7 +144,7 @@
                         <div class="meta">
                             <ul>
                                 <li>IMU Change Team</li>
-                                <li><em>Words by <span>Maddy Osman</span></em></li>
+                                <li><em>Student writer <span>Hanna Rosman</span></em></li>
                                 <li><em>Photo by <span>Chelsea Darter</span></em></li>
                             </ul>
                         </div>
@@ -193,7 +193,7 @@
                         <div class="span3 meta">
                            <ul>
                                 <li>Center for Student Involvement and Leadership</li>
-                                <li><em>Words by <span>Maddy Osman</span></em></li>
+                                <li><em>Student writer <span>Maddy Osman</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">

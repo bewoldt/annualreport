@@ -63,8 +63,8 @@
                         <div class="meta">
                             <ul>
                                 <li>Division of Student Life</li>
-                                <li><em>Words by <span>Hanna Rosman</span></em></li>
-                                <li><em>Photography by <span>Chelsea Darter</span></em></li>
+                                <li><em>Student writer <span>Hanna Rosman</span></em></li>
+                                <li><em>Photos by <span>Chelsea Darter</span></em></li>
                             </ul>
                         </div>
                         <p><span class="dropcap">T</span>he Meet the Challenge Awards are given to those who exemplify the values outlined in the Iowa Challenge. Cassidy Bell, a 2012 graduate, won the "Engage" award for her work at the Rape Victim Advocacy Program (RVAP), where she had been volunteering since June 2011.</p>
@@ -112,7 +112,7 @@
                         <div class="span3 meta">
                            <ul>
                                 <li>Division of Student Life</li>
-                                <li><em>Video by <span>Scott Lahn and Maddy Osman</span></em></li>
+                                <li><em>Video by <span>Scott Lahn and Hanna Rosman</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
@@ -151,7 +151,7 @@
                         <div class="span3 meta">
                            <ul>
                                 <li>University Counseling Service</li>
-                                <li><em>Words by <span>Hanna Rosman</span></em></li>
+                                <li><em>Student writer <span>Hanna Rosman</span></em></li>
                                 <li>For more information visite: <a href="http://www.uiowa.edu/ucs/" target="_blank">http://www.uiowa.edu/ucs/</a></li>
                             </ul>
                         </div>
@@ -204,7 +204,7 @@
                     <div class="meta meta-horiz">
                        <p>
                             Student Disability Services&nbsp;&nbsp;&nbsp;
-                            <em>Words by <span>Mary Koberstein and Maddy Osman</span></em>&nbsp;&nbsp;&nbsp;
+                            <em>Student writers <span>Mary Koberstein and Maddy Osman</span></em>&nbsp;&nbsp;&nbsp;
                             <em>Photos by <span>Chelsea Darter</span></em>
                         </p>
                     </div>

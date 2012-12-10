@@ -62,7 +62,7 @@
                         <div class="meta">
                             <ul>
                                 <li>Women's Resource and Action Center</li>
-                                <li><em>Words by <span>Mary Koberstein</span></em></li>
+                                <li><em>Student writer <span>Mary Koberstein</span></em></li>
                                 <li><em>Photography by <span>Chelsea Darter</span></em></li>
                             </ul>
                         </div>
@@ -114,7 +114,7 @@
                         <div class="span3 meta">
                            <ul>
                                 <li>Center for Student Involvement and Leadership</li>
-                                <li><em>Words by <span>Madeline Osman</span></em></li>
+                                <li><em>Student writer <span>Madeline Osman</span></em></li>
                             </ul>
                         </div>
                         <div class="span9">
